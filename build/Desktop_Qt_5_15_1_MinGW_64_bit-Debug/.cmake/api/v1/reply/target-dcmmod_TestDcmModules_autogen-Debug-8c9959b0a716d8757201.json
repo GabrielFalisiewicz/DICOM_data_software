@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"source/dcmmod/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "dcmmod_TestDcmModules_autogen_timestamp_deps::@15a8a75448c2008787ab"
+		}
+	],
+	"id" : "dcmmod_TestDcmModules_autogen::@15a8a75448c2008787ab",
+	"isGeneratorProvided" : true,
+	"name" : "dcmmod_TestDcmModules_autogen",
+	"paths" : 
+	{
+		"build" : "source/dcmmod",
+		"source" : "source/dcmmod"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/CMakeFiles/dcmmod_TestDcmModules_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/CMakeFiles/dcmmod_TestDcmModules_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

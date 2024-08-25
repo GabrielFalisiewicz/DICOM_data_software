@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmCharSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmDataset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmDictionary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmGlobal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmPDUItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTag.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagAE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagAS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagAT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagBinary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagCS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagDA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagDS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagDT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagDescription.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagFD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagFL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagIS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagKey.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagLO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagLT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagPN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagPixelData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagPixelDataItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagSH.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagSL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagSQ.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagSS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagTM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagUL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagUS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTagUT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmTransferSyntax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmVr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src\DcmWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\qrc_dcmcore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmCharSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmCoreApi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmDataset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmDictionary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmGlobal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmPDUItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTag.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagAE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagAS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagAT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagBinary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagCS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagDA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagDS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagDT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagDescription.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagFD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagFL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagGroup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagIS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagKey.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagLO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagLT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagPN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagPixelData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagPixelDataItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagSH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagSL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagSQ.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagSS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagTM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagUL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagUS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTagUT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTransferSyntax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmVr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include\DcmWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\resources\dcmcore.qrc" />
+    <CustomBuild Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6AC7F558-4A37-31AD-8C80-F01BFB8520D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4C8F7DC3-AED0-3BB7-9B05-471C7A8EFF99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

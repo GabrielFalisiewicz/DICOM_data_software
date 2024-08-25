@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{3E4944B4-CAF9-3095-97DC-17A0E08060D4}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>dcmcore_TestDcmTags</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Gabriel\Documents\qt_lab\qdcm-master\target\bin\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">dcmcore_TestDcmTags.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">dcmcore_TestDcmTags</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Gabriel\Documents\qt_lab\qdcm-master\target\bin\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">dcmcore_TestDcmTags.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">dcmcore_TestDcmTags</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\Gabriel\Documents\qt_lab\qdcm-master\target\bin\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">dcmcore_TestDcmTags.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">dcmcore_TestDcmTags</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\Gabriel\Documents\qt_lab\qdcm-master\target\bin\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">dcmcore_TestDcmTags.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">dcmcore_TestDcmTags</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_Debug;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Qt/5.15.1/mingw81_64/include" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtCore" /external:I "C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtTest" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtXml"</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;QT_CORE_LIB;QT_TESTLIB_LIB;QT_XML_LIB;QMUSIC_VERSION="0.0.1";QMUSIC_API_VERSION="1.0.0";NOMINMAX;QT_TESTCASE_BUILDDIR="C:/Users/Gabriel/Documents/qt_lab/qdcm-master";CMAKE_INTDIR="Debug"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;QT_CORE_LIB;QT_TESTLIB_LIB;QT_XML_LIB;QMUSIC_VERSION=\"0.0.1\";QMUSIC_API_VERSION=\"1.0.0\";NOMINMAX;QT_TESTCASE_BUILDDIR=\"C:/Users/Gabriel/Documents/qt_lab/qdcm-master\";CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_Debug;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;C:\Qt\5.15.1\mingw81_64\include;C:\Qt\5.15.1\mingw81_64\include\QtCore;C:\Qt\5.15.1\mingw81_64\.\mkspecs\win32-g++;C:\Qt\5.15.1\mingw81_64\include\QtTest;C:\Qt\5.15.1\mingw81_64\include\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_Debug;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;C:\Qt\5.15.1\mingw81_64\include;C:\Qt\5.15.1\mingw81_64\include\QtCore;C:\Qt\5.15.1\mingw81_64\.\mkspecs\win32-g++;C:\Qt\5.15.1\mingw81_64\include\QtTest;C:\Qt\5.15.1\mingw81_64\include\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message>Automatic MOC for target dcmcore_TestDcmTags</Message>
+      <Command>setlocal
+cd C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeFiles/dcmcore_TestDcmTags_autogen.dir/AutogenInfo.json Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Link>
+      <AdditionalDependencies>..\..\target\lib\Debug\dcmcore.lib;C:\Qt\5.15.1\mingw81_64\lib\libQt5Test.a;C:\Qt\5.15.1\mingw81_64\lib\libQt5Xml.a;C:\Qt\5.15.1\mingw81_64\lib\libQt5Core.a;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/Gabriel/Documents/qt_lab/qdcm-master/target/lib/Debug/dcmcore_TestDcmTags.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/Gabriel/Documents/qt_lab/qdcm-master/target/bin/Debug/dcmcore_TestDcmTags.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_Release;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Qt/5.15.1/mingw81_64/include" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtCore" /external:I "C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtTest" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtXml"</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;QT_CORE_LIB;QT_TESTLIB_LIB;QT_XML_LIB;QMUSIC_VERSION="0.0.1";QMUSIC_API_VERSION="1.0.0";NOMINMAX;QT_NO_DEBUG;QT_TESTCASE_BUILDDIR="C:/Users/Gabriel/Documents/qt_lab/qdcm-master";CMAKE_INTDIR="Release"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;QT_CORE_LIB;QT_TESTLIB_LIB;QT_XML_LIB;QMUSIC_VERSION=\"0.0.1\";QMUSIC_API_VERSION=\"1.0.0\";NOMINMAX;QT_NO_DEBUG;QT_TESTCASE_BUILDDIR=\"C:/Users/Gabriel/Documents/qt_lab/qdcm-master\";CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_Release;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;C:\Qt\5.15.1\mingw81_64\include;C:\Qt\5.15.1\mingw81_64\include\QtCore;C:\Qt\5.15.1\mingw81_64\.\mkspecs\win32-g++;C:\Qt\5.15.1\mingw81_64\include\QtTest;C:\Qt\5.15.1\mingw81_64\include\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_Release;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;C:\Qt\5.15.1\mingw81_64\include;C:\Qt\5.15.1\mingw81_64\include\QtCore;C:\Qt\5.15.1\mingw81_64\.\mkspecs\win32-g++;C:\Qt\5.15.1\mingw81_64\include\QtTest;C:\Qt\5.15.1\mingw81_64\include\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message>Automatic MOC for target dcmcore_TestDcmTags</Message>
+      <Command>setlocal
+cd C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeFiles/dcmcore_TestDcmTags_autogen.dir/AutogenInfo.json Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Link>
+      <AdditionalDependencies>..\..\target\lib\Release\dcmcore.lib;C:\Qt\5.15.1\mingw81_64\lib\libQt5Test.a;C:\Qt\5.15.1\mingw81_64\lib\libQt5Xml.a;C:\Qt\5.15.1\mingw81_64\lib\libQt5Core.a;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/Gabriel/Documents/qt_lab/qdcm-master/target/lib/Release/dcmcore_TestDcmTags.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/Gabriel/Documents/qt_lab/qdcm-master/target/bin/Release/dcmcore_TestDcmTags.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_MinSizeRel;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Qt/5.15.1/mingw81_64/include" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtCore" /external:I "C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtTest" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtXml"</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;QT_CORE_LIB;QT_TESTLIB_LIB;QT_XML_LIB;QMUSIC_VERSION="0.0.1";QMUSIC_API_VERSION="1.0.0";NOMINMAX;QT_NO_DEBUG;QT_TESTCASE_BUILDDIR="C:/Users/Gabriel/Documents/qt_lab/qdcm-master";CMAKE_INTDIR="MinSizeRel"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;QT_CORE_LIB;QT_TESTLIB_LIB;QT_XML_LIB;QMUSIC_VERSION=\"0.0.1\";QMUSIC_API_VERSION=\"1.0.0\";NOMINMAX;QT_NO_DEBUG;QT_TESTCASE_BUILDDIR=\"C:/Users/Gabriel/Documents/qt_lab/qdcm-master\";CMAKE_INTDIR=\"MinSizeRel\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_MinSizeRel;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;C:\Qt\5.15.1\mingw81_64\include;C:\Qt\5.15.1\mingw81_64\include\QtCore;C:\Qt\5.15.1\mingw81_64\.\mkspecs\win32-g++;C:\Qt\5.15.1\mingw81_64\include\QtTest;C:\Qt\5.15.1\mingw81_64\include\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_MinSizeRel;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;C:\Qt\5.15.1\mingw81_64\include;C:\Qt\5.15.1\mingw81_64\include\QtCore;C:\Qt\5.15.1\mingw81_64\.\mkspecs\win32-g++;C:\Qt\5.15.1\mingw81_64\include\QtTest;C:\Qt\5.15.1\mingw81_64\include\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message>Automatic MOC for target dcmcore_TestDcmTags</Message>
+      <Command>setlocal
+cd C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeFiles/dcmcore_TestDcmTags_autogen.dir/AutogenInfo.json MinSizeRel
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Link>
+      <AdditionalDependencies>..\..\target\lib\MinSizeRel\dcmcore.lib;C:\Qt\5.15.1\mingw81_64\lib\libQt5Test.a;C:\Qt\5.15.1\mingw81_64\lib\libQt5Xml.a;C:\Qt\5.15.1\mingw81_64\lib\libQt5Core.a;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/Gabriel/Documents/qt_lab/qdcm-master/target/lib/MinSizeRel/dcmcore_TestDcmTags.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/Gabriel/Documents/qt_lab/qdcm-master/target/bin/MinSizeRel/dcmcore_TestDcmTags.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_RelWithDebInfo;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Qt/5.15.1/mingw81_64/include" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtCore" /external:I "C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtTest" /external:I "C:/Qt/5.15.1/mingw81_64/include/QtXml"</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;QT_CORE_LIB;QT_TESTLIB_LIB;QT_XML_LIB;QMUSIC_VERSION="0.0.1";QMUSIC_API_VERSION="1.0.0";NOMINMAX;QT_NO_DEBUG;QT_TESTCASE_BUILDDIR="C:/Users/Gabriel/Documents/qt_lab/qdcm-master";CMAKE_INTDIR="RelWithDebInfo"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;QT_CORE_LIB;QT_TESTLIB_LIB;QT_XML_LIB;QMUSIC_VERSION=\"0.0.1\";QMUSIC_API_VERSION=\"1.0.0\";NOMINMAX;QT_NO_DEBUG;QT_TESTCASE_BUILDDIR=\"C:/Users/Gabriel/Documents/qt_lab/qdcm-master\";CMAKE_INTDIR=\"RelWithDebInfo\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_RelWithDebInfo;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;C:\Qt\5.15.1\mingw81_64\include;C:\Qt\5.15.1\mingw81_64\include\QtCore;C:\Qt\5.15.1\mingw81_64\.\mkspecs\win32-g++;C:\Qt\5.15.1\mingw81_64\include\QtTest;C:\Qt\5.15.1\mingw81_64\include\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\include_RelWithDebInfo;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\include;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\src;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test;C:\Qt\5.15.1\mingw81_64\include;C:\Qt\5.15.1\mingw81_64\include\QtCore;C:\Qt\5.15.1\mingw81_64\.\mkspecs\win32-g++;C:\Qt\5.15.1\mingw81_64\include\QtTest;C:\Qt\5.15.1\mingw81_64\include\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message>Automatic MOC for target dcmcore_TestDcmTags</Message>
+      <Command>setlocal
+cd C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeFiles/dcmcore_TestDcmTags_autogen.dir/AutogenInfo.json RelWithDebInfo
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Link>
+      <AdditionalDependencies>..\..\target\lib\RelWithDebInfo\dcmcore.lib;C:\Qt\5.15.1\mingw81_64\lib\libQt5Test.a;C:\Qt\5.15.1\mingw81_64\lib\libQt5Xml.a;C:\Qt\5.15.1\mingw81_64\lib\libQt5Core.a;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/Gabriel/Documents/qt_lab/qdcm-master/target/lib/RelWithDebInfo/dcmcore_TestDcmTags.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/Gabriel/Documents/qt_lab/qdcm-master/target/bin/RelWithDebInfo/dcmcore_TestDcmTags.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Gabriel/Documents/qt_lab/qdcm-master -BC:/Users/Gabriel/Documents/qt_lab/qdcm-master --check-stamp-file C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeParseArguments.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigExtras.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigExtrasMkspecDir.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigVersion.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreMacros.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfigExtras.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfigVersion.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Xml\Qt5XmlConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Xml\Qt5XmlConfigVersion.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\build_shared_library.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\link_libs.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\parse_src.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\parse_tests.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\resources\dcmcore.qrc;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Gabriel/Documents/qt_lab/qdcm-master -BC:/Users/Gabriel/Documents/qt_lab/qdcm-master --check-stamp-file C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeParseArguments.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigExtras.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigExtrasMkspecDir.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigVersion.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreMacros.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfigExtras.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfigVersion.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Xml\Qt5XmlConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Xml\Qt5XmlConfigVersion.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\build_shared_library.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\link_libs.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\parse_src.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\parse_tests.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\resources\dcmcore.qrc;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Gabriel/Documents/qt_lab/qdcm-master -BC:/Users/Gabriel/Documents/qt_lab/qdcm-master --check-stamp-file C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeParseArguments.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigExtras.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigExtrasMkspecDir.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigVersion.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreMacros.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfigExtras.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfigVersion.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Xml\Qt5XmlConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Xml\Qt5XmlConfigVersion.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\build_shared_library.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\link_libs.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\parse_src.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\parse_tests.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\resources\dcmcore.qrc;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Gabriel/Documents/qt_lab/qdcm-master -BC:/Users/Gabriel/Documents/qt_lab/qdcm-master --check-stamp-file C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeParseArguments.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigExtras.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigExtrasMkspecDir.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreConfigVersion.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\Qt5CoreMacros.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfigExtras.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Test\Qt5TestConfigVersion.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Xml\Qt5XmlConfig.cmake;C:\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Xml\Qt5XmlConfigVersion.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\build_shared_library.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\link_libs.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\parse_src.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\cmake\parse_tests.cmake;C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\resources\dcmcore.qrc;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\mocs_compilation_Debug.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test\test_TestDcmTags.cpp" />
+    <ClInclude Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\test\TestDcmTags.h" />
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\mocs_compilation_Release.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\mocs_compilation_MinSizeRel.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore_TestDcmTags_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\ZERO_CHECK.vcxproj">
+      <Project>{31C1F255-F7E0-33B8-8A42-208423577E28}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Gabriel\Documents\qt_lab\qdcm-master\source\dcmcore\dcmcore.vcxproj">
+      <Project>{8F56D1B2-ED18-376E-865E-DFEE24AA49A3}</Project>
+      <Name>dcmcore</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

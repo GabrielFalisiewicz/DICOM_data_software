@@ -1,0 +1,57 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"include"
+		],
+		"files" : 
+		[
+			"cmake/build_shared_library.cmake",
+			"source/dcmmod/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/qdcm/bin",
+			"paths" : 
+			[
+				"target/bin/libdcmmod.dll"
+			],
+			"targetId" : "dcmmod::@15a8a75448c2008787ab",
+			"targetIndex" : 42,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "source/dcmmod",
+		"source" : "source/dcmmod"
+	}
+}

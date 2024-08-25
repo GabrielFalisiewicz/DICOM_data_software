@@ -1,0 +1,67 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"source/dcmimage/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "dcmcore::@d23430d366c2f7065651"
+		},
+		{
+			"id" : "dcmimage::@88923895543bdb4ae546"
+		}
+	],
+	"id" : "dcmimage_TestDcmImageTransferFunction_autogen_timestamp_deps::@88923895543bdb4ae546",
+	"isGeneratorProvided" : true,
+	"name" : "dcmimage_TestDcmImageTransferFunction_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "source/dcmimage",
+		"source" : "source/dcmimage"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/CMakeFiles/dcmimage_TestDcmImageTransferFunction_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/CMakeFiles/dcmimage_TestDcmImageTransferFunction_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
