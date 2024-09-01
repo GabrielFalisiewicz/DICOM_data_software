@@ -1,5 +1,5 @@
-C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/7HEK2XT3N7/moc_TestDcmVr.cpp: C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/test/TestDcmVr.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/moc_predefs.h \
+C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/7HEK2XT3N7/moc_TestDcmVr.cpp: C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/test/TestDcmVr.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/moc_predefs.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/QAbstractItemModel \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/QDeadlineTimer \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/QObject \
@@ -406,6 +406,6 @@ C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_b
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmCoreApi.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTypes.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmVr.h
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmCoreApi.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTypes.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmVr.h

@@ -1,5 +1,5 @@
-C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/7HEK2XT3N7/moc_TestDcmTagString.cpp: C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/test/TestDcmTagString.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/moc_predefs.h \
+C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/7HEK2XT3N7/moc_TestDcmTagString.cpp: C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/test/TestDcmTagString.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/moc_predefs.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/QAbstractItemModel \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/QDate \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/QDateTime \
@@ -410,27 +410,27 @@ C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_b
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmCoreApi.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmGlobal.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmPDUItem.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTag.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagAE.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagAS.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagCS.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagDA.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagDS.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagDT.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagIS.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagKey.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagLO.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagLT.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagPN.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagSH.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagST.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagString.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagTM.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagUI.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagUT.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTransferSyntax.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTypes.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmVr.h
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmCoreApi.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmGlobal.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmPDUItem.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTag.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagAE.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagAS.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagCS.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagDA.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagDS.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagDT.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagIS.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagKey.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagLO.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagLT.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagPN.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagSH.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagST.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagString.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagTM.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagUI.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagUT.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTransferSyntax.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTypes.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmVr.h

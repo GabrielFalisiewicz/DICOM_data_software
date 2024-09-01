@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"tools/dcmview/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "dcmcore::@d23430d366c2f7065651"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "dcmimage::@88923895543bdb4ae546"
+		}
+	],
+	"id" : "dcmview_autogen_timestamp_deps::@85833e8e078b03d60ee6",
+	"isGeneratorProvided" : true,
+	"name" : "dcmview_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "tools/dcmview",
+		"source" : "tools/dcmview"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

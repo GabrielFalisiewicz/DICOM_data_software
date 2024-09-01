@@ -1,5 +1,5 @@
-C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/7HEK2XT3N7/moc_TestDcmModules.cpp: C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmmod/test/TestDcmModules.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/moc_predefs.h \
+C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/7HEK2XT3N7/moc_TestDcmModules.cpp: C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmmod/test/TestDcmModules.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/moc_predefs.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/QAbstractItemModel \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/QDeadlineTimer \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/QLinkedList \
@@ -408,19 +408,19 @@ C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_b
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmCoreApi.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmDataset.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmModule.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmPDUItem.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTag.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagGroup.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagKey.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagList.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTransferSyntax.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTypes.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmVr.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmmod/include/DcmModuleApi.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmmod/include/DcmModuleGeneralEquipmentAttributes.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmmod/include/DcmModulePatient.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmmod/include/DcmModuleSOPCommon.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmmod/include/DcmModuleStudy.h
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmCoreApi.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmDataset.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmModule.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmPDUItem.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTag.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagGroup.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagKey.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagList.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTransferSyntax.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTypes.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmVr.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmmod/include/DcmModuleApi.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmmod/include/DcmModuleGeneralEquipmentAttributes.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmmod/include/DcmModulePatient.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmmod/include/DcmModuleSOPCommon.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmmod/include/DcmModuleStudy.h

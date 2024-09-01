@@ -1,5 +1,5 @@
-C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/6YEA5652QU/moc_mainwindow.cpp: C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/interface/include/mainwindow.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/moc_predefs.h \
+C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/6YEA5652QU/moc_mainwindow.cpp: C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/tools/interface/include/mainwindow.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/moc_predefs.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qalgorithms.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qarraydata.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qatomic.h \

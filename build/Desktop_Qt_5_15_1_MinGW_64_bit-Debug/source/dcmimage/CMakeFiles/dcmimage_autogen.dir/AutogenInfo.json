@@ -1,22 +1,23 @@
 {
-	"BUILD_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage",
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage",
 	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/CMakeLists.txt",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/build_shared_library.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/parse_src.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/CMakeLists.txt",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/build_shared_library.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/parse_src.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/link_libs.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/link_libs.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
@@ -32,7 +33,9 @@
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
@@ -41,51 +44,52 @@
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/parse_tests.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/parse_tests.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfig.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigExtras.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master",
-	"DEP_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/deps",
+	"CMAKE_SOURCE_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "dcmimage_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include/DcmImage.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include/DcmImage.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmImage.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include/DcmImageApi.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include/DcmImageApi.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmImageApi.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include/DcmImageTransferFunction.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include/DcmImageTransferFunction.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmImageTransferFunction.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include/DcmMonochromeImage.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include/DcmMonochromeImage.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmMonochromeImage.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include/DcmPhotometricInterpretation.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include/DcmPhotometricInterpretation.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmPhotometricInterpretation.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"NOMINMAX",
@@ -106,12 +110,12 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/src",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/test",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test",
 		"C:/Qt/5.15.1/mingw81_64/include",
 		"C:/Qt/5.15.1/mingw81_64/include/QtCore",
 		"C:/Qt/5.15.1/mingw81_64/mkspecs/win32-g++",
@@ -135,41 +139,42 @@
 		"-dM",
 		"-E",
 		"-c",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
-	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/CMakeFiles/dcmimage_autogen.dir/ParseCache.txt",
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/CMakeFiles/dcmimage_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/5.15.1/mingw81_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/CMakeFiles/dcmimage_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/CMakeFiles/dcmimage_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/src/DcmImage.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src/DcmImage.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/src/DcmImageTransferFunction.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src/DcmImageTransferFunction.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/src/DcmMonochromeImage.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src/DcmMonochromeImage.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/src/DcmPhotometricInterpretation.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src/DcmPhotometricInterpretation.cpp",
 			"Mu",
 			null
 		]
 	],
+	"USE_BETTER_GRAPH" : false,
 	"VERBOSITY" : 0
 }

@@ -226,7 +226,7 @@ dcmcore_TestDcmTagGroup_autogen/timestamp: \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfig.cmake \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake \
 	C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
 	C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
 	C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/algorithm \
@@ -417,26 +417,26 @@ dcmcore_TestDcmTagGroup_autogen/timestamp: \
 	C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wchar.h \
 	C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wctype.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagGroup_autogen/moc_predefs.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmTagGroup.cpp \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/build_shared_library.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/link_libs.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/parse_src.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/parse_tests.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeLists.txt \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmCoreApi.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmPDUItem.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTag.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagCS.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagGroup.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagKey.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagList.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagString.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagUI.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTransferSyntax.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTypes.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmVr.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/resources/dcmcore.qrc \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/test/TestDcmTagGroup.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagGroup_autogen/moc_predefs.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmTagGroup.cpp \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/cmake/build_shared_library.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/cmake/link_libs.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/cmake/parse_src.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/cmake/parse_tests.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/CMakeLists.txt \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmCoreApi.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmPDUItem.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTag.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagCS.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagGroup.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagKey.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagList.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagString.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagUI.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTransferSyntax.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTypes.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmVr.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/resources/dcmcore.qrc \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/test/TestDcmTagGroup.h \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe
