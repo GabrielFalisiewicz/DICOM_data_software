@@ -270,8 +270,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/dcmcore_autogen/mocs_compilation.cpp
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\dcmcore_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmCharSet.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmCharSet.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -280,8 +278,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmCharSet.cpp.obj: CXX_COMPILER
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmDataset.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmDataset.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -290,8 +286,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmDataset.cpp.obj: CXX_COMPILER
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmDictionary.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmDictionary.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -300,8 +294,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmDictionary.cpp.obj: CXX_COMPI
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmFile.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmFile.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -310,8 +302,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmFile.cpp.obj: CXX_COMPILER__d
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmGlobal.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmGlobal.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -320,8 +310,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmGlobal.cpp.obj: CXX_COMPILER_
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmModule.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmModule.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -330,8 +318,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmModule.cpp.obj: CXX_COMPILER_
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmPDUItem.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmPDUItem.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -340,8 +326,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmPDUItem.cpp.obj: CXX_COMPILER
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmReader.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmReader.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -350,8 +334,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmReader.cpp.obj: CXX_COMPILER_
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmStream.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmStream.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -360,8 +342,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmStream.cpp.obj: CXX_COMPILER_
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTag.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTag.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -370,8 +350,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTag.cpp.obj: CXX_COMPILER__dc
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAE.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagAE.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -380,8 +358,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAE.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAS.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagAS.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -390,8 +366,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAS.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAT.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagAT.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -400,8 +374,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAT.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagBinary.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagBinary.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -410,8 +382,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagBinary.cpp.obj: CXX_COMPIL
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagCS.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagCS.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -420,8 +390,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagCS.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDA.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagDA.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -430,8 +398,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDA.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDS.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagDS.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -440,8 +406,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDS.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDT.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagDT.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -450,8 +414,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDT.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDescription.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagDescription.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -460,8 +422,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDescription.cpp.obj: CXX_C
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagFD.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagFD.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -470,8 +430,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagFD.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagFL.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagFL.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -480,8 +438,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagFL.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagGroup.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagGroup.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -490,8 +446,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagGroup.cpp.obj: CXX_COMPILE
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagIS.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagIS.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -500,8 +454,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagIS.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagItem.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagItem.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -510,8 +462,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagItem.cpp.obj: CXX_COMPILER
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagKey.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagKey.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -520,8 +470,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagKey.cpp.obj: CXX_COMPILER_
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagLO.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagLO.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -530,8 +478,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagLO.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagLT.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagLT.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -540,8 +486,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagLT.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagList.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagList.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -550,8 +494,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagList.cpp.obj: CXX_COMPILER
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPN.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagPN.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -560,8 +502,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPN.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPixelData.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagPixelData.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -570,8 +510,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPixelData.cpp.obj: CXX_COM
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPixelDataItem.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagPixelDataItem.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -580,8 +518,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPixelDataItem.cpp.obj: CXX
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSH.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagSH.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -590,8 +526,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSH.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSL.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagSL.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -600,8 +534,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSL.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSQ.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagSQ.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -610,8 +542,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSQ.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSS.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagSS.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -620,8 +550,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSS.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagST.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagST.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -630,8 +558,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagST.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagString.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagString.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -640,8 +566,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagString.cpp.obj: CXX_COMPIL
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagTM.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagTM.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -650,8 +574,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagTM.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUI.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagUI.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -660,8 +582,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUI.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUL.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagUL.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -670,8 +590,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUL.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUS.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagUS.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -680,8 +598,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUS.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUT.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTagUT.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -690,8 +606,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUT.cpp.obj: CXX_COMPILER__
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTransferSyntax.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmTransferSyntax.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -700,8 +614,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTransferSyntax.cpp.obj: CXX_C
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmVr.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmVr.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -710,8 +622,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmVr.cpp.obj: CXX_COMPILER__dcm
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmWriter.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/src/DcmWriter.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -720,8 +630,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmWriter.cpp.obj: CXX_COMPILER_
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir\src
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore.dir/qrc_dcmcore.cpp.obj: CXX_COMPILER__dcmcore_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/qrc_dcmcore.cpp || cmake_object_order_depends_target_dcmcore
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmcore_EXPORTS
@@ -730,8 +638,6 @@ build source/dcmcore/CMakeFiles/dcmcore.dir/qrc_dcmcore.cpp.obj: CXX_COMPILER__d
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore.dir
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
-  TARGET_PDB = target\bin\libdcmcore.pdb
 
 
 # =============================================================================
@@ -748,10 +654,9 @@ build target/bin/libdcmcore.dll target/lib/libdcmcore.dll.a: CXX_SHARED_LIBRARY_
   POST_BUILD = cd .
   PRE_LINK = cd .
   RESTAT = 1
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore.dir\
   TARGET_FILE = target\bin\libdcmcore.dll
   TARGET_IMPLIB = target\lib\libdcmcore.dll.a
-  TARGET_PDB = target\bin\libdcmcore.pdb
+  TARGET_PDB = dcmcore.dll.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmcore_TestDcmCharSet
@@ -769,8 +674,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmCharSet.dir/dcmcore_TestDcmCharSe
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmCharSet.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmCharSet.dir\dcmcore_TestDcmCharSet_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmCharSet.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmCharSet.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore_TestDcmCharSet.dir/test/test_TestDcmCharSet.cpp.obj: CXX_COMPILER__dcmcore_TestDcmCharSet_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmCharSet.cpp || cmake_object_order_depends_target_dcmcore_TestDcmCharSet
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -779,8 +682,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmCharSet.dir/test/test_TestDcmChar
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmCharSet.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmCharSet.dir\test
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmCharSet.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmCharSet.pdb
 
 
 # =============================================================================
@@ -796,10 +697,9 @@ build target/bin/dcmcore_TestDcmCharSet.exe: CXX_EXECUTABLE_LINKER__dcmcore_Test
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmCharSet.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmCharSet.dir\
   TARGET_FILE = target\bin\dcmcore_TestDcmCharSet.exe
   TARGET_IMPLIB = target\lib\libdcmcore_TestDcmCharSet.dll.a
-  TARGET_PDB = target\bin\dcmcore_TestDcmCharSet.pdb
+  TARGET_PDB = dcmcore_TestDcmCharSet.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmcore_TestDcmDictionary
@@ -817,8 +717,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmDictionary.dir/dcmcore_TestDcmDic
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmDictionary_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmDictionary.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmDictionary.dir\dcmcore_TestDcmDictionary_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmDictionary.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmDictionary.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore_TestDcmDictionary.dir/test/test_TestDcmDictionary.cpp.obj: CXX_COMPILER__dcmcore_TestDcmDictionary_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmDictionary.cpp || cmake_object_order_depends_target_dcmcore_TestDcmDictionary
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -827,8 +725,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmDictionary.dir/test/test_TestDcmD
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmDictionary_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmDictionary.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmDictionary.dir\test
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmDictionary.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmDictionary.pdb
 
 
 # =============================================================================
@@ -844,10 +740,9 @@ build target/bin/dcmcore_TestDcmDictionary.exe: CXX_EXECUTABLE_LINKER__dcmcore_T
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmDictionary.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmDictionary.dir\
   TARGET_FILE = target\bin\dcmcore_TestDcmDictionary.exe
   TARGET_IMPLIB = target\lib\libdcmcore_TestDcmDictionary.dll.a
-  TARGET_PDB = target\bin\dcmcore_TestDcmDictionary.pdb
+  TARGET_PDB = dcmcore_TestDcmDictionary.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmcore_TestDcmReader
@@ -865,8 +760,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmReader.dir/dcmcore_TestDcmReader_
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmReader_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmReader.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmReader.dir\dcmcore_TestDcmReader_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmReader.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmReader.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore_TestDcmReader.dir/test/test_TestDcmReader.cpp.obj: CXX_COMPILER__dcmcore_TestDcmReader_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmReader.cpp || cmake_object_order_depends_target_dcmcore_TestDcmReader
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -875,8 +768,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmReader.dir/test/test_TestDcmReade
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmReader_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmReader.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmReader.dir\test
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmReader.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmReader.pdb
 
 
 # =============================================================================
@@ -892,10 +783,9 @@ build target/bin/dcmcore_TestDcmReader.exe: CXX_EXECUTABLE_LINKER__dcmcore_TestD
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmReader.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmReader.dir\
   TARGET_FILE = target\bin\dcmcore_TestDcmReader.exe
   TARGET_IMPLIB = target\lib\libdcmcore_TestDcmReader.dll.a
-  TARGET_PDB = target\bin\dcmcore_TestDcmReader.pdb
+  TARGET_PDB = dcmcore_TestDcmReader.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmcore_TestDcmTagGroup
@@ -913,8 +803,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagGroup.dir/dcmcore_TestDcmTagGr
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagGroup_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagGroup.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagGroup.dir\dcmcore_TestDcmTagGroup_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagGroup.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagGroup.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagGroup.dir/test/test_TestDcmTagGroup.cpp.obj: CXX_COMPILER__dcmcore_TestDcmTagGroup_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmTagGroup.cpp || cmake_object_order_depends_target_dcmcore_TestDcmTagGroup
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -923,8 +811,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagGroup.dir/test/test_TestDcmTag
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagGroup_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagGroup.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagGroup.dir\test
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagGroup.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagGroup.pdb
 
 
 # =============================================================================
@@ -940,10 +826,9 @@ build target/bin/dcmcore_TestDcmTagGroup.exe: CXX_EXECUTABLE_LINKER__dcmcore_Tes
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagGroup.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagGroup.dir\
   TARGET_FILE = target\bin\dcmcore_TestDcmTagGroup.exe
   TARGET_IMPLIB = target\lib\libdcmcore_TestDcmTagGroup.dll.a
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagGroup.pdb
+  TARGET_PDB = dcmcore_TestDcmTagGroup.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmcore_TestDcmTagKey
@@ -961,8 +846,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagKey.dir/dcmcore_TestDcmTagKey_
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagKey.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagKey.dir\dcmcore_TestDcmTagKey_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagKey.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagKey.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagKey.dir/test/test_TestDcmTagKey.cpp.obj: CXX_COMPILER__dcmcore_TestDcmTagKey_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmTagKey.cpp || cmake_object_order_depends_target_dcmcore_TestDcmTagKey
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -971,8 +854,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagKey.dir/test/test_TestDcmTagKe
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagKey.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagKey.dir\test
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagKey.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagKey.pdb
 
 
 # =============================================================================
@@ -988,10 +869,9 @@ build target/bin/dcmcore_TestDcmTagKey.exe: CXX_EXECUTABLE_LINKER__dcmcore_TestD
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagKey.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagKey.dir\
   TARGET_FILE = target\bin\dcmcore_TestDcmTagKey.exe
   TARGET_IMPLIB = target\lib\libdcmcore_TestDcmTagKey.dll.a
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagKey.pdb
+  TARGET_PDB = dcmcore_TestDcmTagKey.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmcore_TestDcmTagSequence
@@ -1009,8 +889,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagSequence.dir/dcmcore_TestDcmTa
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagSequence_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagSequence.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagSequence.dir\dcmcore_TestDcmTagSequence_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagSequence.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagSequence.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagSequence.dir/test/test_TestDcmTagSequence.cpp.obj: CXX_COMPILER__dcmcore_TestDcmTagSequence_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmTagSequence.cpp || cmake_object_order_depends_target_dcmcore_TestDcmTagSequence
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -1019,8 +897,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagSequence.dir/test/test_TestDcm
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagSequence_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagSequence.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagSequence.dir\test
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagSequence.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagSequence.pdb
 
 
 # =============================================================================
@@ -1036,10 +912,9 @@ build target/bin/dcmcore_TestDcmTagSequence.exe: CXX_EXECUTABLE_LINKER__dcmcore_
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagSequence.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagSequence.dir\
   TARGET_FILE = target\bin\dcmcore_TestDcmTagSequence.exe
   TARGET_IMPLIB = target\lib\libdcmcore_TestDcmTagSequence.dll.a
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagSequence.pdb
+  TARGET_PDB = dcmcore_TestDcmTagSequence.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmcore_TestDcmTagString
@@ -1057,8 +932,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagString.dir/dcmcore_TestDcmTagS
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagString.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagString.dir\dcmcore_TestDcmTagString_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagString.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagString.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagString.dir/test/test_TestDcmTagString.cpp.obj: CXX_COMPILER__dcmcore_TestDcmTagString_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmTagString.cpp || cmake_object_order_depends_target_dcmcore_TestDcmTagString
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -1067,8 +940,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTagString.dir/test/test_TestDcmTa
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagString.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagString.dir\test
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagString.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagString.pdb
 
 
 # =============================================================================
@@ -1084,10 +955,9 @@ build target/bin/dcmcore_TestDcmTagString.exe: CXX_EXECUTABLE_LINKER__dcmcore_Te
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagString.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTagString.dir\
   TARGET_FILE = target\bin\dcmcore_TestDcmTagString.exe
   TARGET_IMPLIB = target\lib\libdcmcore_TestDcmTagString.dll.a
-  TARGET_PDB = target\bin\dcmcore_TestDcmTagString.pdb
+  TARGET_PDB = dcmcore_TestDcmTagString.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmcore_TestDcmTags
@@ -1105,8 +975,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTags.dir/dcmcore_TestDcmTags_auto
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTags_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTags.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTags.dir\dcmcore_TestDcmTags_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTags.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTags.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore_TestDcmTags.dir/test/test_TestDcmTags.cpp.obj: CXX_COMPILER__dcmcore_TestDcmTags_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmTags.cpp || cmake_object_order_depends_target_dcmcore_TestDcmTags
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -1115,8 +983,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTags.dir/test/test_TestDcmTags.cp
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTags_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTags.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTags.dir\test
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTags.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTags.pdb
 
 
 # =============================================================================
@@ -1132,10 +998,9 @@ build target/bin/dcmcore_TestDcmTags.exe: CXX_EXECUTABLE_LINKER__dcmcore_TestDcm
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTags.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTags.dir\
   TARGET_FILE = target\bin\dcmcore_TestDcmTags.exe
   TARGET_IMPLIB = target\lib\libdcmcore_TestDcmTags.dll.a
-  TARGET_PDB = target\bin\dcmcore_TestDcmTags.pdb
+  TARGET_PDB = dcmcore_TestDcmTags.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmcore_TestDcmTransferSyntax
@@ -1153,8 +1018,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTransferSyntax.dir/dcmcore_TestDc
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTransferSyntax.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTransferSyntax.dir\dcmcore_TestDcmTransferSyntax_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTransferSyntax.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTransferSyntax.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore_TestDcmTransferSyntax.dir/test/test_TestDcmTransferSyntax.cpp.obj: CXX_COMPILER__dcmcore_TestDcmTransferSyntax_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmTransferSyntax.cpp || cmake_object_order_depends_target_dcmcore_TestDcmTransferSyntax
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -1163,8 +1026,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmTransferSyntax.dir/test/test_Test
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTransferSyntax.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTransferSyntax.dir\test
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTransferSyntax.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmTransferSyntax.pdb
 
 
 # =============================================================================
@@ -1180,10 +1041,9 @@ build target/bin/dcmcore_TestDcmTransferSyntax.exe: CXX_EXECUTABLE_LINKER__dcmco
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmTransferSyntax.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmTransferSyntax.dir\
   TARGET_FILE = target\bin\dcmcore_TestDcmTransferSyntax.exe
   TARGET_IMPLIB = target\lib\libdcmcore_TestDcmTransferSyntax.dll.a
-  TARGET_PDB = target\bin\dcmcore_TestDcmTransferSyntax.pdb
+  TARGET_PDB = dcmcore_TestDcmTransferSyntax.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmcore_TestDcmVr
@@ -1201,8 +1061,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmVr.dir/dcmcore_TestDcmVr_autogen/
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmVr.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmVr.dir\dcmcore_TestDcmVr_autogen
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmVr.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmVr.pdb
 
 build source/dcmcore/CMakeFiles/dcmcore_TestDcmVr.dir/test/test_TestDcmVr.cpp.obj: CXX_COMPILER__dcmcore_TestDcmVr_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmVr.cpp || cmake_object_order_depends_target_dcmcore_TestDcmVr
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -1211,8 +1069,6 @@ build source/dcmcore/CMakeFiles/dcmcore_TestDcmVr.dir/test/test_TestDcmVr.cpp.ob
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmVr.dir
   OBJECT_FILE_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmVr.dir\test
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmVr.dir\
-  TARGET_PDB = target\bin\dcmcore_TestDcmVr.pdb
 
 
 # =============================================================================
@@ -1228,10 +1084,9 @@ build target/bin/dcmcore_TestDcmVr.exe: CXX_EXECUTABLE_LINKER__dcmcore_TestDcmVr
   OBJECT_DIR = source\dcmcore\CMakeFiles\dcmcore_TestDcmVr.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmcore\CMakeFiles\dcmcore_TestDcmVr.dir\
   TARGET_FILE = target\bin\dcmcore_TestDcmVr.exe
   TARGET_IMPLIB = target\lib\libdcmcore_TestDcmVr.dll.a
-  TARGET_PDB = target\bin\dcmcore_TestDcmVr.pdb
+  TARGET_PDB = dcmcore_TestDcmVr.exe.dbg
 
 
 #############################################
@@ -1684,8 +1539,6 @@ build source/dcmmod/CMakeFiles/dcmmod.dir/dcmmod_autogen/mocs_compilation.cpp.ob
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmmod\CMakeFiles\dcmmod.dir
   OBJECT_FILE_DIR = source\dcmmod\CMakeFiles\dcmmod.dir\dcmmod_autogen
-  TARGET_COMPILE_PDB = source\dcmmod\CMakeFiles\dcmmod.dir\
-  TARGET_PDB = target\bin\libdcmmod.pdb
 
 build source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleGeneralEquipmentAttributes.cpp.obj: CXX_COMPILER__dcmmod_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmmod/src/DcmModuleGeneralEquipmentAttributes.cpp || cmake_object_order_depends_target_dcmmod
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmmod_EXPORTS
@@ -1694,8 +1547,6 @@ build source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleGeneralEquipmentAttribute
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmmod\CMakeFiles\dcmmod.dir
   OBJECT_FILE_DIR = source\dcmmod\CMakeFiles\dcmmod.dir\src
-  TARGET_COMPILE_PDB = source\dcmmod\CMakeFiles\dcmmod.dir\
-  TARGET_PDB = target\bin\libdcmmod.pdb
 
 build source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModulePatient.cpp.obj: CXX_COMPILER__dcmmod_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmmod/src/DcmModulePatient.cpp || cmake_object_order_depends_target_dcmmod
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmmod_EXPORTS
@@ -1704,8 +1555,6 @@ build source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModulePatient.cpp.obj: CXX_COMP
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmmod\CMakeFiles\dcmmod.dir
   OBJECT_FILE_DIR = source\dcmmod\CMakeFiles\dcmmod.dir\src
-  TARGET_COMPILE_PDB = source\dcmmod\CMakeFiles\dcmmod.dir\
-  TARGET_PDB = target\bin\libdcmmod.pdb
 
 build source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleSOPCommon.cpp.obj: CXX_COMPILER__dcmmod_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmmod/src/DcmModuleSOPCommon.cpp || cmake_object_order_depends_target_dcmmod
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmmod_EXPORTS
@@ -1714,8 +1563,6 @@ build source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleSOPCommon.cpp.obj: CXX_CO
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmmod\CMakeFiles\dcmmod.dir
   OBJECT_FILE_DIR = source\dcmmod\CMakeFiles\dcmmod.dir\src
-  TARGET_COMPILE_PDB = source\dcmmod\CMakeFiles\dcmmod.dir\
-  TARGET_PDB = target\bin\libdcmmod.pdb
 
 build source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleStudy.cpp.obj: CXX_COMPILER__dcmmod_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmmod/src/DcmModuleStudy.cpp || cmake_object_order_depends_target_dcmmod
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_XML_LIB -Ddcmmod_EXPORTS
@@ -1724,8 +1571,6 @@ build source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleStudy.cpp.obj: CXX_COMPIL
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmmod\CMakeFiles\dcmmod.dir
   OBJECT_FILE_DIR = source\dcmmod\CMakeFiles\dcmmod.dir\src
-  TARGET_COMPILE_PDB = source\dcmmod\CMakeFiles\dcmmod.dir\
-  TARGET_PDB = target\bin\libdcmmod.pdb
 
 
 # =============================================================================
@@ -1742,10 +1587,9 @@ build target/bin/libdcmmod.dll target/lib/libdcmmod.dll.a: CXX_SHARED_LIBRARY_LI
   POST_BUILD = cd .
   PRE_LINK = cd .
   RESTAT = 1
-  TARGET_COMPILE_PDB = source\dcmmod\CMakeFiles\dcmmod.dir\
   TARGET_FILE = target\bin\libdcmmod.dll
   TARGET_IMPLIB = target\lib\libdcmmod.dll.a
-  TARGET_PDB = target\bin\libdcmmod.pdb
+  TARGET_PDB = dcmmod.dll.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmmod_TestDcmModules
@@ -1763,8 +1607,6 @@ build source/dcmmod/CMakeFiles/dcmmod_TestDcmModules.dir/dcmmod_TestDcmModules_a
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmmod\CMakeFiles\dcmmod_TestDcmModules.dir
   OBJECT_FILE_DIR = source\dcmmod\CMakeFiles\dcmmod_TestDcmModules.dir\dcmmod_TestDcmModules_autogen
-  TARGET_COMPILE_PDB = source\dcmmod\CMakeFiles\dcmmod_TestDcmModules.dir\
-  TARGET_PDB = target\bin\dcmmod_TestDcmModules.pdb
 
 build source/dcmmod/CMakeFiles/dcmmod_TestDcmModules.dir/test/test_TestDcmModules.cpp.obj: CXX_COMPILER__dcmmod_TestDcmModules_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/test/test_TestDcmModules.cpp || cmake_object_order_depends_target_dcmmod_TestDcmModules
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_XML_LIB
@@ -1773,8 +1615,6 @@ build source/dcmmod/CMakeFiles/dcmmod_TestDcmModules.dir/test/test_TestDcmModule
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmmod\CMakeFiles\dcmmod_TestDcmModules.dir
   OBJECT_FILE_DIR = source\dcmmod\CMakeFiles\dcmmod_TestDcmModules.dir\test
-  TARGET_COMPILE_PDB = source\dcmmod\CMakeFiles\dcmmod_TestDcmModules.dir\
-  TARGET_PDB = target\bin\dcmmod_TestDcmModules.pdb
 
 
 # =============================================================================
@@ -1790,10 +1630,9 @@ build target/bin/dcmmod_TestDcmModules.exe: CXX_EXECUTABLE_LINKER__dcmmod_TestDc
   OBJECT_DIR = source\dcmmod\CMakeFiles\dcmmod_TestDcmModules.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmmod\CMakeFiles\dcmmod_TestDcmModules.dir\
   TARGET_FILE = target\bin\dcmmod_TestDcmModules.exe
   TARGET_IMPLIB = target\lib\libdcmmod_TestDcmModules.dll.a
-  TARGET_PDB = target\bin\dcmmod_TestDcmModules.pdb
+  TARGET_PDB = dcmmod_TestDcmModules.exe.dbg
 
 
 #############################################
@@ -1976,8 +1815,6 @@ build source/dcmimage/CMakeFiles/dcmimage.dir/dcmimage_autogen/mocs_compilation.
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage.dir
   OBJECT_FILE_DIR = source\dcmimage\CMakeFiles\dcmimage.dir\dcmimage_autogen
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage.dir\
-  TARGET_PDB = target\bin\libdcmimage.pdb
 
 build source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmImage.cpp.obj: CXX_COMPILER__dcmimage_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmimage/src/DcmImage.cpp || cmake_object_order_depends_target_dcmimage
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB -Ddcmimage_EXPORTS
@@ -1986,8 +1823,6 @@ build source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmImage.cpp.obj: CXX_COMPILER
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage.dir
   OBJECT_FILE_DIR = source\dcmimage\CMakeFiles\dcmimage.dir\src
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage.dir\
-  TARGET_PDB = target\bin\libdcmimage.pdb
 
 build source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmImageTransferFunction.cpp.obj: CXX_COMPILER__dcmimage_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmimage/src/DcmImageTransferFunction.cpp || cmake_object_order_depends_target_dcmimage
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB -Ddcmimage_EXPORTS
@@ -1996,8 +1831,6 @@ build source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmImageTransferFunction.cpp.o
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage.dir
   OBJECT_FILE_DIR = source\dcmimage\CMakeFiles\dcmimage.dir\src
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage.dir\
-  TARGET_PDB = target\bin\libdcmimage.pdb
 
 build source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmMonochromeImage.cpp.obj: CXX_COMPILER__dcmimage_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmimage/src/DcmMonochromeImage.cpp || cmake_object_order_depends_target_dcmimage
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB -Ddcmimage_EXPORTS
@@ -2006,8 +1839,6 @@ build source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmMonochromeImage.cpp.obj: CX
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage.dir
   OBJECT_FILE_DIR = source\dcmimage\CMakeFiles\dcmimage.dir\src
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage.dir\
-  TARGET_PDB = target\bin\libdcmimage.pdb
 
 build source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmPhotometricInterpretation.cpp.obj: CXX_COMPILER__dcmimage_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmimage/src/DcmPhotometricInterpretation.cpp || cmake_object_order_depends_target_dcmimage
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB -Ddcmimage_EXPORTS
@@ -2016,8 +1847,6 @@ build source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmPhotometricInterpretation.c
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage.dir
   OBJECT_FILE_DIR = source\dcmimage\CMakeFiles\dcmimage.dir\src
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage.dir\
-  TARGET_PDB = target\bin\libdcmimage.pdb
 
 
 # =============================================================================
@@ -2034,10 +1863,9 @@ build target/bin/libdcmimage.dll target/lib/libdcmimage.dll.a: CXX_SHARED_LIBRAR
   POST_BUILD = cd .
   PRE_LINK = cd .
   RESTAT = 1
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage.dir\
   TARGET_FILE = target\bin\libdcmimage.dll
   TARGET_IMPLIB = target\lib\libdcmimage.dll.a
-  TARGET_PDB = target\bin\libdcmimage.pdb
+  TARGET_PDB = dcmimage.dll.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmimage_TestDcmImage
@@ -2055,8 +1883,6 @@ build source/dcmimage/CMakeFiles/dcmimage_TestDcmImage.dir/dcmimage_TestDcmImage
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage_TestDcmImage.dir
   OBJECT_FILE_DIR = source\dcmimage\CMakeFiles\dcmimage_TestDcmImage.dir\dcmimage_TestDcmImage_autogen
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage_TestDcmImage.dir\
-  TARGET_PDB = target\bin\dcmimage_TestDcmImage.pdb
 
 build source/dcmimage/CMakeFiles/dcmimage_TestDcmImage.dir/test/test_TestDcmImage.cpp.obj: CXX_COMPILER__dcmimage_TestDcmImage_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/test/test_TestDcmImage.cpp || cmake_object_order_depends_target_dcmimage_TestDcmImage
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB
@@ -2065,8 +1891,6 @@ build source/dcmimage/CMakeFiles/dcmimage_TestDcmImage.dir/test/test_TestDcmImag
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage_TestDcmImage.dir
   OBJECT_FILE_DIR = source\dcmimage\CMakeFiles\dcmimage_TestDcmImage.dir\test
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage_TestDcmImage.dir\
-  TARGET_PDB = target\bin\dcmimage_TestDcmImage.pdb
 
 
 # =============================================================================
@@ -2082,10 +1906,9 @@ build target/bin/dcmimage_TestDcmImage.exe: CXX_EXECUTABLE_LINKER__dcmimage_Test
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage_TestDcmImage.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage_TestDcmImage.dir\
   TARGET_FILE = target\bin\dcmimage_TestDcmImage.exe
   TARGET_IMPLIB = target\lib\libdcmimage_TestDcmImage.dll.a
-  TARGET_PDB = target\bin\dcmimage_TestDcmImage.pdb
+  TARGET_PDB = dcmimage_TestDcmImage.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dcmimage_TestDcmImageTransferFunction
@@ -2103,8 +1926,6 @@ build source/dcmimage/CMakeFiles/dcmimage_TestDcmImageTransferFunction.dir/dcmim
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage_TestDcmImageTransferFunction.dir
   OBJECT_FILE_DIR = source\dcmimage\CMakeFiles\dcmimage_TestDcmImageTransferFunction.dir\dcmimage_TestDcmImageTransferFunction_autogen
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage_TestDcmImageTransferFunction.dir\
-  TARGET_PDB = target\bin\dcmimage_TestDcmImageTransferFunction.pdb
 
 build source/dcmimage/CMakeFiles/dcmimage_TestDcmImageTransferFunction.dir/test/test_TestDcmImageTransferFunction.cpp.obj: CXX_COMPILER__dcmimage_TestDcmImageTransferFunction_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/test/test_TestDcmImageTransferFunction.cpp || cmake_object_order_depends_target_dcmimage_TestDcmImageTransferFunction
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR="\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\"" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB
@@ -2113,8 +1934,6 @@ build source/dcmimage/CMakeFiles/dcmimage_TestDcmImageTransferFunction.dir/test/
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtTest -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage_TestDcmImageTransferFunction.dir
   OBJECT_FILE_DIR = source\dcmimage\CMakeFiles\dcmimage_TestDcmImageTransferFunction.dir\test
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage_TestDcmImageTransferFunction.dir\
-  TARGET_PDB = target\bin\dcmimage_TestDcmImageTransferFunction.pdb
 
 
 # =============================================================================
@@ -2130,10 +1949,9 @@ build target/bin/dcmimage_TestDcmImageTransferFunction.exe: CXX_EXECUTABLE_LINKE
   OBJECT_DIR = source\dcmimage\CMakeFiles\dcmimage_TestDcmImageTransferFunction.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = source\dcmimage\CMakeFiles\dcmimage_TestDcmImageTransferFunction.dir\
   TARGET_FILE = target\bin\dcmimage_TestDcmImageTransferFunction.exe
   TARGET_IMPLIB = target\lib\libdcmimage_TestDcmImageTransferFunction.dll.a
-  TARGET_PDB = target\bin\dcmimage_TestDcmImageTransferFunction.pdb
+  TARGET_PDB = dcmimage_TestDcmImageTransferFunction.exe.dbg
 
 
 #############################################
@@ -2452,8 +2270,6 @@ build tools/dcmview/CMakeFiles/dcmview.dir/dcmview_autogen/mocs_compilation.cpp.
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/dcmview_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = tools\dcmview\CMakeFiles\dcmview.dir
   OBJECT_FILE_DIR = tools\dcmview\CMakeFiles\dcmview.dir\dcmview_autogen
-  TARGET_COMPILE_PDB = tools\dcmview\CMakeFiles\dcmview.dir\
-  TARGET_PDB = target\bin\dcmview.pdb
 
 build tools/dcmview/CMakeFiles/dcmview.dir/src/DicomTreeModel.cpp.obj: CXX_COMPILER__dcmview_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/src/DicomTreeModel.cpp || cmake_object_order_depends_target_dcmview
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB
@@ -2462,8 +2278,6 @@ build tools/dcmview/CMakeFiles/dcmview.dir/src/DicomTreeModel.cpp.obj: CXX_COMPI
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/dcmview_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = tools\dcmview\CMakeFiles\dcmview.dir
   OBJECT_FILE_DIR = tools\dcmview\CMakeFiles\dcmview.dir\src
-  TARGET_COMPILE_PDB = tools\dcmview\CMakeFiles\dcmview.dir\
-  TARGET_PDB = target\bin\dcmview.pdb
 
 build tools/dcmview/CMakeFiles/dcmview.dir/src/DicomWindow.cpp.obj: CXX_COMPILER__dcmview_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/src/DicomWindow.cpp || cmake_object_order_depends_target_dcmview
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB
@@ -2472,8 +2286,6 @@ build tools/dcmview/CMakeFiles/dcmview.dir/src/DicomWindow.cpp.obj: CXX_COMPILER
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/dcmview_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = tools\dcmview\CMakeFiles\dcmview.dir
   OBJECT_FILE_DIR = tools\dcmview\CMakeFiles\dcmview.dir\src
-  TARGET_COMPILE_PDB = tools\dcmview\CMakeFiles\dcmview.dir\
-  TARGET_PDB = target\bin\dcmview.pdb
 
 build tools/dcmview/CMakeFiles/dcmview.dir/src/MainWindow.cpp.obj: CXX_COMPILER__dcmview_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/src/MainWindow.cpp || cmake_object_order_depends_target_dcmview
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB
@@ -2482,8 +2294,6 @@ build tools/dcmview/CMakeFiles/dcmview.dir/src/MainWindow.cpp.obj: CXX_COMPILER_
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/dcmview_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = tools\dcmview\CMakeFiles\dcmview.dir
   OBJECT_FILE_DIR = tools\dcmview\CMakeFiles\dcmview.dir\src
-  TARGET_COMPILE_PDB = tools\dcmview\CMakeFiles\dcmview.dir\
-  TARGET_PDB = target\bin\dcmview.pdb
 
 build tools/dcmview/CMakeFiles/dcmview.dir/src/main.cpp.obj: CXX_COMPILER__dcmview_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/src/main.cpp || cmake_object_order_depends_target_dcmview
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB
@@ -2492,8 +2302,6 @@ build tools/dcmview/CMakeFiles/dcmview.dir/src/main.cpp.obj: CXX_COMPILER__dcmvi
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/dcmview_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = tools\dcmview\CMakeFiles\dcmview.dir
   OBJECT_FILE_DIR = tools\dcmview\CMakeFiles\dcmview.dir\src
-  TARGET_COMPILE_PDB = tools\dcmview\CMakeFiles\dcmview.dir\
-  TARGET_PDB = target\bin\dcmview.pdb
 
 build tools/dcmview/CMakeFiles/dcmview.dir/qrc_dcmview.cpp.obj: CXX_COMPILER__dcmview_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/qrc_dcmview.cpp || cmake_object_order_depends_target_dcmview
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB
@@ -2502,8 +2310,6 @@ build tools/dcmview/CMakeFiles/dcmview.dir/qrc_dcmview.cpp.obj: CXX_COMPILER__dc
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/dcmview_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml
   OBJECT_DIR = tools\dcmview\CMakeFiles\dcmview.dir
   OBJECT_FILE_DIR = tools\dcmview\CMakeFiles\dcmview.dir
-  TARGET_COMPILE_PDB = tools\dcmview\CMakeFiles\dcmview.dir\
-  TARGET_PDB = target\bin\dcmview.pdb
 
 
 # =============================================================================
@@ -2519,10 +2325,9 @@ build target/bin/dcmview.exe: CXX_EXECUTABLE_LINKER__dcmview_Debug tools/dcmview
   OBJECT_DIR = tools\dcmview\CMakeFiles\dcmview.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = tools\dcmview\CMakeFiles\dcmview.dir\
   TARGET_FILE = target\bin\dcmview.exe
   TARGET_IMPLIB = target\lib\libdcmview.dll.a
-  TARGET_PDB = target\bin\dcmview.pdb
+  TARGET_PDB = dcmview.exe.dbg
 
 
 #############################################
@@ -2685,8 +2490,14 @@ build tools/interface/CMakeFiles/interface.dir/interface_autogen/mocs_compilatio
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE
   OBJECT_DIR = tools\interface\CMakeFiles\interface.dir
   OBJECT_FILE_DIR = tools\interface\CMakeFiles\interface.dir\interface_autogen
-  TARGET_COMPILE_PDB = tools\interface\CMakeFiles\interface.dir\
-  TARGET_PDB = target\bin\interface.pdb
+
+build tools/interface/CMakeFiles/interface.dir/src/DicomTreeModel.cpp.obj: CXX_COMPILER__interface_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/interface/src/DicomTreeModel.cpp || cmake_object_order_depends_target_interface
+  DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB
+  DEP_FILE = tools\interface\CMakeFiles\interface.dir\src\DicomTreeModel.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE
+  OBJECT_DIR = tools\interface\CMakeFiles\interface.dir
+  OBJECT_FILE_DIR = tools\interface\CMakeFiles\interface.dir\src
 
 build tools/interface/CMakeFiles/interface.dir/src/main.cpp.obj: CXX_COMPILER__interface_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/interface/src/main.cpp || cmake_object_order_depends_target_interface
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB
@@ -2695,8 +2506,6 @@ build tools/interface/CMakeFiles/interface.dir/src/main.cpp.obj: CXX_COMPILER__i
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE
   OBJECT_DIR = tools\interface\CMakeFiles\interface.dir
   OBJECT_FILE_DIR = tools\interface\CMakeFiles\interface.dir\src
-  TARGET_COMPILE_PDB = tools\interface\CMakeFiles\interface.dir\
-  TARGET_PDB = target\bin\interface.pdb
 
 build tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj: CXX_COMPILER__interface_unscanned_Debug C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/interface/src/mainwindow.cpp || cmake_object_order_depends_target_interface
   DEFINES = -DNOMINMAX -DQMUSIC_API_VERSION=\"1.0.0\" -DQMUSIC_VERSION=\"0.0.1\" -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB
@@ -2705,8 +2514,6 @@ build tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj: CXX_COMPI
   INCLUDES = -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/src" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include" -I"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include" -isystem C:/Qt/5.15.1/mingw81_64/include -isystem C:/Qt/5.15.1/mingw81_64/include/QtCore -isystem C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.1/mingw81_64/include/QtXml -isystem C:/Qt/5.15.1/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.1/mingw81_64/include/QtGui -isystem C:/Qt/5.15.1/mingw81_64/include/QtANGLE
   OBJECT_DIR = tools\interface\CMakeFiles\interface.dir
   OBJECT_FILE_DIR = tools\interface\CMakeFiles\interface.dir\src
-  TARGET_COMPILE_PDB = tools\interface\CMakeFiles\interface.dir\
-  TARGET_PDB = target\bin\interface.pdb
 
 
 # =============================================================================
@@ -2716,16 +2523,15 @@ build tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj: CXX_COMPI
 #############################################
 # Link the executable target\bin\interface.exe
 
-build target/bin/interface.exe: CXX_EXECUTABLE_LINKER__interface_Debug tools/interface/CMakeFiles/interface.dir/interface_autogen/mocs_compilation.cpp.obj tools/interface/CMakeFiles/interface.dir/src/main.cpp.obj tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj | target/lib/libdcmimage.dll.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Core.a target/lib/libdcmcore.dll.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Xml.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Core.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Widgets.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Gui.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Core.a || target/bin/libdcmcore.dll target/bin/libdcmimage.dll tools/interface/interface_autogen tools/interface/interface_autogen_timestamp_deps
+build target/bin/interface.exe: CXX_EXECUTABLE_LINKER__interface_Debug tools/interface/CMakeFiles/interface.dir/interface_autogen/mocs_compilation.cpp.obj tools/interface/CMakeFiles/interface.dir/src/DicomTreeModel.cpp.obj tools/interface/CMakeFiles/interface.dir/src/main.cpp.obj tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj | target/lib/libdcmimage.dll.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Core.a target/lib/libdcmcore.dll.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Xml.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Core.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Widgets.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Gui.a C$:/Qt/5.15.1/mingw81_64/lib/libQt5Core.a || target/bin/libdcmcore.dll target/bin/libdcmimage.dll tools/interface/interface_autogen tools/interface/interface_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = target/lib/libdcmimage.dll.a  C:/Qt/5.15.1/mingw81_64/lib/libQt5Core.a  target/lib/libdcmcore.dll.a  C:/Qt/5.15.1/mingw81_64/lib/libQt5Xml.a  C:/Qt/5.15.1/mingw81_64/lib/libQt5Core.a  C:/Qt/5.15.1/mingw81_64/lib/libQt5Widgets.a  C:/Qt/5.15.1/mingw81_64/lib/libQt5Gui.a  C:/Qt/5.15.1/mingw81_64/lib/libQt5Core.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = tools\interface\CMakeFiles\interface.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = tools\interface\CMakeFiles\interface.dir\
   TARGET_FILE = target\bin\interface.exe
   TARGET_IMPLIB = target\lib\libinterface.dll.a
-  TARGET_PDB = target\bin\interface.pdb
+  TARGET_PDB = interface.exe.dbg
 
 
 #############################################
@@ -3076,14 +2882,14 @@ build tools/interface/all: phony target/bin/interface.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | .qtc/package-manager/auto-setup.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCCompiler.cmake.in C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCCompilerABI.c C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCompilerIdDetection.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompileFeatures.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineRCCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindBinUtils.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeNinjaFindMake.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseLibraryArchitecture.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCCompiler.cmake.in C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystem.cmake.in C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCompilerCommon.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestRCCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CPack.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CPackComponent.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/InstallRequiredSystemLibraries.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/FeatureTesting.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Determine-CXX.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Templates/CPackConfig.cmake.in C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/build_executable.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/build_shared_library.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/install_qt.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/link_libs.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/make_package.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/parse_src.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/parse_tests.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/resources/dcmcore.qrc C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmimage/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmmod/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/resources/dcmview.qrc C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/interface/CMakeLists.txt CMakeCache.txt CMakeFiles/3.29.3/CMakeCCompiler.cmake CMakeFiles/3.29.3/CMakeCXXCompiler.cmake CMakeFiles/3.29.3/CMakeRCCompiler.cmake CMakeFiles/3.29.3/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | .qtc/package-manager/auto-setup.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CPack.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CPackComponent.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/InstallRequiredSystemLibraries.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Templates/CPackConfig.cmake.in C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/build_executable.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/build_shared_library.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/install_qt.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/link_libs.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/make_package.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/parse_src.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/parse_tests.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/resources/dcmcore.qrc C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmimage/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmmod/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/resources/dcmview.qrc C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/interface/CMakeLists.txt CMakeCache.txt CMakeFiles/3.29.3/CMakeCCompiler.cmake CMakeFiles/3.29.3/CMakeCXXCompiler.cmake CMakeFiles/3.29.3/CMakeRCCompiler.cmake CMakeFiles/3.29.3/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build .qtc/package-manager/auto-setup.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCCompiler.cmake.in C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCCompilerABI.c C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCompilerIdDetection.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompileFeatures.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineRCCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindBinUtils.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeNinjaFindMake.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseLibraryArchitecture.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCCompiler.cmake.in C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystem.cmake.in C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCompilerCommon.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestRCCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CPack.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CPackComponent.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/InstallRequiredSystemLibraries.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/FeatureTesting.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Determine-CXX.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Templates/CPackConfig.cmake.in C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/build_executable.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/build_shared_library.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/install_qt.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/link_libs.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/make_package.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/parse_src.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/parse_tests.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/resources/dcmcore.qrc C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmimage/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmmod/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/resources/dcmview.qrc C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/interface/CMakeLists.txt CMakeCache.txt CMakeFiles/3.29.3/CMakeCCompiler.cmake CMakeFiles/3.29.3/CMakeCXXCompiler.cmake CMakeFiles/3.29.3/CMakeRCCompiler.cmake CMakeFiles/3.29.3/CMakeSystem.cmake: phony
+build .qtc/package-manager/auto-setup.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfig.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake C$:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CPack.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CPackComponent.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/InstallRequiredSystemLibraries.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake C$:/Qt/Tools/CMake_64/share/cmake-3.29/Templates/CPackConfig.cmake.in C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/build_executable.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/build_shared_library.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/install_qt.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/link_libs.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/make_package.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/parse_src.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/cmake/parse_tests.cmake C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmcore/resources/dcmcore.qrc C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmimage/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/source/dcmmod/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/CMakeLists.txt C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/dcmview/resources/dcmview.qrc C$:/Users/piotr/OneDrive/Dokumenty/qt$ porojects/DAICOM/tools/interface/CMakeLists.txt CMakeCache.txt CMakeFiles/3.29.3/CMakeCCompiler.cmake CMakeFiles/3.29.3/CMakeCXXCompiler.cmake CMakeFiles/3.29.3/CMakeRCCompiler.cmake CMakeFiles/3.29.3/CMakeSystem.cmake: phony
 
 
 #############################################

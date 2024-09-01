@@ -60,6 +60,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include/DicomTreeModel.h",
+			"MU",
+			"6YEA5652QU/moc_DicomTreeModel.cpp",
+			null
+		],
+		[
 			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include/mainwindow.h",
 			"MU",
 			"6YEA5652QU/moc_mainwindow.cpp",
@@ -132,6 +138,11 @@
 	"SETTINGS_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/CMakeFiles/interface_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/src/DicomTreeModel.cpp",
+			"MU",
+			null
+		],
 		[
 			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/src/main.cpp",
 			"MU",

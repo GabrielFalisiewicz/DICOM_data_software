@@ -1,0 +1,380 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "target/bin/dcmcore_TestDcmVr.exe"
+		},
+		{
+			"path" : "target/bin/dcmcore_TestDcmVr.pdb"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"include",
+			"target_link_libraries",
+			"qt5_use_modules",
+			"set_property",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"cmake/parse_tests.cmake",
+			"cmake/build_shared_library.cmake",
+			"source/dcmcore/CMakeLists.txt",
+			"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+			"cmake/parse_src.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 454,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 454,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 454,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 456,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 456,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 456,
+				"parent" : 7
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 2
+			},
+			{
+				"file" : 4,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 10,
+				"parent" : 15
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 11,
+				"parent" : 15
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 455,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 455,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 455,
+				"parent" : 7
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "NOMINMAX"
+				},
+				{
+					"define" : "QMUSIC_API_VERSION=\"1.0.0\""
+				},
+				{
+					"define" : "QMUSIC_VERSION=\"0.0.1\""
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_TESTCASE_BUILDDIR=\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\""
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_TESTLIB_LIB"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "QT_XML_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore"
+				},
+				{
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test"
+				},
+				{
+					"backtrace" : 19,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.1/mingw81_64/include"
+				},
+				{
+					"backtrace" : 19,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.1/mingw81_64/include/QtCore"
+				},
+				{
+					"backtrace" : 19,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++"
+				},
+				{
+					"backtrace" : 20,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.1/mingw81_64/include/QtTest"
+				},
+				{
+					"backtrace" : 21,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.1/mingw81_64/include/QtXml"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "dcmcore::@d23430d366c2f7065651"
+		},
+		{
+			"id" : "dcmcore_TestDcmVr_autogen_timestamp_deps::@d23430d366c2f7065651"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "dcmcore_TestDcmVr_autogen::@d23430d366c2f7065651"
+		}
+	],
+	"id" : "dcmcore_TestDcmVr::@d23430d366c2f7065651",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-DQT_QML_DEBUG -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "target\\lib\\libdcmcore.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "C:\\Qt\\5.15.1\\mingw81_64\\lib\\libQt5Test.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "C:\\Qt\\5.15.1\\mingw81_64\\lib\\libQt5Xml.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Qt\\5.15.1\\mingw81_64\\lib\\libQt5Core.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "dcmcore_TestDcmVr",
+	"nameOnDisk" : "dcmcore_TestDcmVr.exe",
+	"paths" : 
+	{
+		"build" : "source/dcmcore",
+		"source" : "source/dcmcore"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				4
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmVr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "source/dcmcore/test/TestDcmVr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}
