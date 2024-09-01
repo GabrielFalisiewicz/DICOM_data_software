@@ -11,21 +11,51 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>DICOM_data_software</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QWidget" name="verticalLayoutWidget">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>200</y>
-      <width>371</width>
-      <height>121</height>
+      <x>0</x>
+      <y>0</y>
+      <width>801</width>
+      <height>551</height>
      </rect>
     </property>
-    <property name="text">
-     <string>PushButton</string>
-    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QTabWidget" name="tabWidget">
+       <property name="cursor">
+        <cursorShape>PointingHandCursor</cursorShape>
+       </property>
+       <property name="toolTip">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Load File&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+       <property name="currentIndex">
+        <number>2</number>
+       </property>
+       <widget class="QWidget" name="load">
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <attribute name="title">
+         <string>Load File</string>
+        </attribute>
+       </widget>
+       <widget class="QWidget" name="read">
+        <attribute name="title">
+         <string>Read Tags</string>
+        </attribute>
+       </widget>
+       <widget class="QWidget" name="edit">
+        <attribute name="title">
+         <string>Edit Tags</string>
+        </attribute>
+       </widget>
+      </widget>
+     </item>
+    </layout>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
