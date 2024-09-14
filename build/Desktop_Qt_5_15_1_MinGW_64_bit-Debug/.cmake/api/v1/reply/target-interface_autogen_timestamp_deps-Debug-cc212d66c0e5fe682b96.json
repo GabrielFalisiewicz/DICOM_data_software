@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"tools/interface/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "dcmcore::@d23430d366c2f7065651"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "dcmimage::@88923895543bdb4ae546"
+		}
+	],
+	"id" : "interface_autogen_timestamp_deps::@8f9d4482f2952146f9c5",
+	"isGeneratorProvided" : true,
+	"name" : "interface_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "tools/interface",
+		"source" : "tools/interface"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

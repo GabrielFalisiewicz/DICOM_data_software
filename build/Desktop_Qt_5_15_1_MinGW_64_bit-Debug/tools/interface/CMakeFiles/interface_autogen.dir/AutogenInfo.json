@@ -1,13 +1,14 @@
 {
-	"BUILD_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/interface",
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface",
 	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/interface/CMakeLists.txt",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/CMakeLists.txt",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
@@ -22,7 +23,7 @@
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
@@ -34,7 +35,9 @@
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
@@ -43,28 +46,35 @@
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/build_executable.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/parse_src.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/build_executable.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/parse_src.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/link_libs.cmake"
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/link_libs.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master",
-	"DEP_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/deps",
+	"CMAKE_SOURCE_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "interface_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/interface/include/mainwindow.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include/DicomTreeModel.h",
+			"MU",
+			"6YEA5652QU/moc_DicomTreeModel.cpp",
+			null
+		],
+		[
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include/mainwindow.h",
 			"MU",
 			"6YEA5652QU/moc_mainwindow.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"NOMINMAX",
@@ -84,12 +94,12 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/interface",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/interface/include",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/interface/src",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/src",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include",
 		"C:/Qt/5.15.1/mingw81_64/include",
 		"C:/Qt/5.15.1/mingw81_64/include/QtCore",
 		"C:/Qt/5.15.1/mingw81_64/mkspecs/win32-g++",
@@ -113,28 +123,33 @@
 		"-dM",
 		"-E",
 		"-c",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
-	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/CMakeFiles/interface_autogen.dir/ParseCache.txt",
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/CMakeFiles/interface_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/5.15.1/mingw81_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "C:/Qt/5.15.1/mingw81_64/bin/uic.exe",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/CMakeFiles/interface_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/CMakeFiles/interface_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/interface/src/main.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/src/DicomTreeModel.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/interface/src/mainwindow.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/src/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/src/mainwindow.cpp",
 			"MU",
 			null
 		]
@@ -143,5 +158,6 @@
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : [],
 	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
 	"VERBOSITY" : 0
 }

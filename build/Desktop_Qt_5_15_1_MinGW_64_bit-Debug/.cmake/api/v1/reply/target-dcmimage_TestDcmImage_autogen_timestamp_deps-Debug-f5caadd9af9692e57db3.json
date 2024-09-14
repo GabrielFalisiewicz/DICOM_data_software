@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"source/dcmimage/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "dcmcore::@d23430d366c2f7065651"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "dcmimage::@88923895543bdb4ae546"
+		}
+	],
+	"id" : "dcmimage_TestDcmImage_autogen_timestamp_deps::@88923895543bdb4ae546",
+	"isGeneratorProvided" : true,
+	"name" : "dcmimage_TestDcmImage_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "source/dcmimage",
+		"source" : "source/dcmimage"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

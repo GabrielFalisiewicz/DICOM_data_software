@@ -1,2 +1,2 @@
-#include "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/test/TestDcmDictionary.h"
+#include "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test/TestDcmDictionary.h"
 QTEST_MAIN(TestDcmDictionary)

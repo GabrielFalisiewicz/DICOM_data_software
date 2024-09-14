@@ -1,234 +1,309 @@
-# ninja log v5
-3971	5743	7458868578298285	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagLO.cpp.obj	dae306d3fe2daa35
-2320	4246	7458868562919493	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagBinary.cpp.obj	1fac77421601a312
-2	1132	7458868532140628	source/dcmcore/dcmcore_autogen/timestamp	213998cc07de9f89
-2	1132	7458868532140628	source/dcmcore/dcmcore_autogen/mocs_compilation.cpp	213998cc07de9f89
-2742	4606	7458868566500195	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAS.cpp.obj	7439db84d559bd9e
-1133	1443	7458868535510935	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/qrc_dcmcore.cpp	8f155fa3e1abf10f
-5323	7089	7458868591485452	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUL.cpp.obj	d367434f82ffa3f7
-2	1132	7458868532140628	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/mocs_compilation.cpp	213998cc07de9f89
-2	1132	7458868532140628	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/timestamp	213998cc07de9f89
-13521	13955	7458868660190971	target/lib/libdcmimage.dll.a	375a8c8e60d1c8ac
-4876	6021	7458868580605470	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSL.cpp.obj	b9af26cb138b1f21
-1857	2740	7458868547944593	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmPDUItem.cpp.obj	dbd0c2cfe3e91572
-2200	4264	7458868563029487	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDA.cpp.obj	5f91336fdd00f1c2
-1133	1443	7458868535510935	source/dcmcore/qrc_dcmcore.cpp	8f155fa3e1abf10f
-1457	2320	7458868540652759	source/dcmcore/CMakeFiles/dcmcore.dir/dcmcore_autogen/mocs_compilation.cpp.obj	4e563d3e16abee89
-1450	2855	7458868548384625	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmCharSet.cpp.obj	2c5c3da5fdf6d00c
-5084	6550	7458868584705471	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPixelDataItem.cpp.obj	6581d9c10a723922
-1831	2880	7458868548634604	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmGlobal.cpp.obj	31b216c8b64bf980
-1798	3300	7458868552394592	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmFile.cpp.obj	c540e01f0452c9bc
-1443	3343	7458868553524911	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmDataset.cpp.obj	2d8fb4394e8d729c
-5704	7008	7458868591125445	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagST.cpp.obj	a1ad87e5bd67a42a
-2146	3403	7458868554684912	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmStream.cpp.obj	9c02732e651226c7
-6347	7516	7458868596296782	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUS.cpp.obj	e7bcab1603d4b40f
-1812	3429	7458868554654934	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmDictionary.cpp.obj	37a3294ee76b6e
-2165	3447	7458868554934919	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAE.cpp.obj	1db5ea91a2868c80
-6021	7505	7458868596156663	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmWriter.cpp.obj	8e69f58f55faeac6
-2176	3801	7458868558629493	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTag.cpp.obj	768074451de36069
-3851	5084	7458868570230233	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagKey.cpp.obj	264661305a63702c
-1841	3828	7458868558829468	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmReader.cpp.obj	846716e7b78aa836
-2188	3850	7458868559039512	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagCS.cpp.obj	49e39b81797bb695
-3801	5727	7458868575028629	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagIS.cpp.obj	db42f39e44964cde
-2030	3971	7458868559749503	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmModule.cpp.obj	4102aa5e5f3443a7
-3343	4447	7458868564069529	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDescription.cpp.obj	a9ac4a4ae84ea2f3
-2857	4876	7458868568480228	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAT.cpp.obj	f0caf2bf49362ad2
-4606	6285	7458868582085415	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSQ.cpp.obj	b39a5ccb01e3ccc4
-4973	6347	7458868584165442	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPixelData.cpp.obj	46db43aef9e9f196
-2880	4973	7458868569190232	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDS.cpp.obj	af01691f2a9d3f4
-4246	6517	7458868584555438	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagList.cpp.obj	69b967d0fe57e7a2
-5203	6980	7458868590815460	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSH.cpp.obj	a92c1f778047b39d
-5839	7164	7458868592715784	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUT.cpp.obj	21235876b89ec8a6
-3301	5203	7458868570320213	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDT.cpp.obj	b6f522d4e180ea57
-3430	5323	7458868571101064	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagGroup.cpp.obj	31d4b74e4d8411b6
-7516	11253	7458868633457657	target/bin/libdcmcore.dll	c34e84621713dac9
-12386	13220	7458868653312106	source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmImage.cpp.obj	aae8838dce40a249
-3447	5465	7458868571101064	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagFL.cpp.obj	915bd4672016091d
-6518	6873	7458868589665489	source/dcmcore/CMakeFiles/dcmcore.dir/qrc_dcmcore.cpp.obj	9e59176478d4101f
-3404	5686	7458868571131080	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagFD.cpp.obj	c017dfc1e8bd7f4e
-3829	5704	7458868572361057	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagLT.cpp.obj	904a5c17352452c1
-4448	5839	7458868578785474	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPN.cpp.obj	1031f1527981795d
-12695	13281	7458868653942105	source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmImageTransferFunction.cpp.obj	73166eaa5dc77331
-4264	6299	7458868581985437	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagItem.cpp.obj	7f74e75a7c0fac6a
-5687	7137	7458868592475715	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagTM.cpp.obj	1b104ab4a02a7884
-5728	7159	7458868592695727	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSS.cpp.obj	71242cc9ef821f17
-11253	12386	7458868644561238	source/dcmimage/dcmimage_autogen/mocs_compilation.cpp	645d50c4a206af3a
-5743	7200	7458868593065711	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUI.cpp.obj	45a1488407d11551
-6299	7248	7458868593605722	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmVr.cpp.obj	1b1755c5d3838c17
-5465	7260	7458868593705787	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagString.cpp.obj	6ec3b73b73a429e3
-6286	7468	7458868595816003	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTransferSyntax.cpp.obj	9de9e7e5bb13baa
-7516	11253	7458868633457657	target/lib/libdcmcore.dll.a	c34e84621713dac9
-11253	12386	7458868644561238	source/dcmimage/dcmimage_autogen/timestamp	645d50c4a206af3a
-11253	12386	7458868644561238	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/timestamp	645d50c4a206af3a
-11253	12386	7458868644561238	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/mocs_compilation.cpp	645d50c4a206af3a
-12392	12927	7458868650411248	source/dcmimage/CMakeFiles/dcmimage.dir/dcmimage_autogen/mocs_compilation.cpp.obj	58f32f75a9cba3f8
-12701	13492	7458868656051139	source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmPhotometricInterpretation.cpp.obj	40749712da9af60f
-12399	13521	7458868656341113	source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmMonochromeImage.cpp.obj	187adc88b2830362
-13521	13955	7458868660190971	target/bin/libdcmimage.dll	375a8c8e60d1c8ac
-6	2346	7458871711428117	tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-6	2346	7458871711428117	tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-6	2346	7458871711428117	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-6	2346	7458871711428117	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-2356	3387	7458871722301626	tools/interface/CMakeFiles/interface.dir/interface_autogen/mocs_compilation.cpp.obj	b53bc1d28e7b176
-2347	3450	7458871722986147	tools/interface/CMakeFiles/interface.dir/src/main.cpp.obj	36d9d4890ab1b140
-2365	3459	7458871723045567	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	db5b6905ec1a5492
-3459	5231	7458871740093863	target/bin/interface.exe	46856f463ce749ad
-7	7710	7458871964402318	source/dcmcore/dcmcore_TestDcmTagSequence_autogen/timestamp	851849b6ebe3871b
-7	7710	7458871964402318	source/dcmcore/dcmcore_TestDcmTagSequence_autogen/mocs_compilation.cpp	851849b6ebe3871b
-7	7710	7458871964402318	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagSequence_autogen/timestamp	851849b6ebe3871b
-7	7710	7458871964402318	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagSequence_autogen/mocs_compilation.cpp	851849b6ebe3871b
-431	7778	7458871964442301	source/dcmcore/dcmcore_TestDcmTagKey_autogen/timestamp	de7fc4ab1be8b1be
-431	7778	7458871964442301	source/dcmcore/dcmcore_TestDcmTagKey_autogen/mocs_compilation.cpp	de7fc4ab1be8b1be
-431	7778	7458871964442301	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/timestamp	de7fc4ab1be8b1be
-431	7778	7458871964442301	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/mocs_compilation.cpp	de7fc4ab1be8b1be
-893	7840	7458871964772302	source/dcmcore/dcmcore_TestDcmDictionary_autogen/timestamp	b25707e000d5b49
-893	7840	7458871964772302	source/dcmcore/dcmcore_TestDcmDictionary_autogen/mocs_compilation.cpp	b25707e000d5b49
-893	7840	7458871964772302	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmDictionary_autogen/timestamp	b25707e000d5b49
-893	7840	7458871964772302	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmDictionary_autogen/mocs_compilation.cpp	b25707e000d5b49
-1262	7908	7458871970372333	source/dcmcore/dcmcore_TestDcmReader_autogen/timestamp	2ea635d472336d6b
-1262	7908	7458871970372333	source/dcmcore/dcmcore_TestDcmReader_autogen/mocs_compilation.cpp	2ea635d472336d6b
-1262	7908	7458871970372333	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmReader_autogen/timestamp	2ea635d472336d6b
-1262	7908	7458871970372333	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmReader_autogen/mocs_compilation.cpp	2ea635d472336d6b
-2436	8085	7458871971644112	source/dcmcore/dcmcore_TestDcmCharSet_autogen/timestamp	2757d280656df5ba
-2436	8085	7458871971644112	source/dcmcore/dcmcore_TestDcmCharSet_autogen/mocs_compilation.cpp	2757d280656df5ba
-2436	8085	7458871971644112	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/timestamp	2757d280656df5ba
-2436	8085	7458871971644112	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/mocs_compilation.cpp	2757d280656df5ba
-1978	8136	7458871971654128	source/dcmcore/dcmcore_TestDcmTagGroup_autogen/timestamp	37f2122f78643c16
-1978	8136	7458871971654128	source/dcmcore/dcmcore_TestDcmTagGroup_autogen/mocs_compilation.cpp	37f2122f78643c16
-1978	8136	7458871971654128	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagGroup_autogen/timestamp	37f2122f78643c16
-1978	8136	7458871971654128	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagGroup_autogen/mocs_compilation.cpp	37f2122f78643c16
-5785	8186	7458871972734081	source/dcmmod/dcmmod_autogen/timestamp	66e79437ce8a8b1a
-5785	8186	7458871972734081	source/dcmmod/dcmmod_autogen/mocs_compilation.cpp	66e79437ce8a8b1a
-5785	8186	7458871972734081	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_autogen/timestamp	66e79437ce8a8b1a
-5785	8186	7458871972734081	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_autogen/mocs_compilation.cpp	66e79437ce8a8b1a
-3157	8465	7458871976422587	source/dcmcore/dcmcore_TestDcmVr_autogen/timestamp	822ca795282b427e
-3157	8465	7458871976422587	source/dcmcore/dcmcore_TestDcmVr_autogen/mocs_compilation.cpp	822ca795282b427e
-3157	8465	7458871976422587	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/timestamp	822ca795282b427e
-3157	8465	7458871976422587	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/mocs_compilation.cpp	822ca795282b427e
-3535	8703	7458871977332586	source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/timestamp	d22e1ef66dea3734
-3535	8703	7458871977332586	source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/mocs_compilation.cpp	d22e1ef66dea3734
-3535	8703	7458871977332586	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/timestamp	d22e1ef66dea3734
-3535	8703	7458871977332586	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/mocs_compilation.cpp	d22e1ef66dea3734
-4086	8829	7458871978142563	source/dcmcore/dcmcore_TestDcmTags_autogen/timestamp	bb962bc0e320940a
-4086	8829	7458871978142563	source/dcmcore/dcmcore_TestDcmTags_autogen/mocs_compilation.cpp	bb962bc0e320940a
-4086	8829	7458871978142563	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTags_autogen/timestamp	bb962bc0e320940a
-4086	8829	7458871978142563	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTags_autogen/mocs_compilation.cpp	bb962bc0e320940a
-5452	9143	7458871983152583	source/dcmcore/dcmcore_TestDcmTagString_autogen/timestamp	d926ce0852510555
-5452	9143	7458871983152583	source/dcmcore/dcmcore_TestDcmTagString_autogen/mocs_compilation.cpp	d926ce0852510555
-5452	9143	7458871983152583	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/timestamp	d926ce0852510555
-5452	9143	7458871983152583	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/mocs_compilation.cpp	d926ce0852510555
-6968	9360	7458871984822577	tools/dcmview/dcmview_autogen/timestamp	4eb2c0f74ef56094
-6968	9360	7458871984822577	tools/dcmview/dcmview_autogen/mocs_compilation.cpp	4eb2c0f74ef56094
-6968	9360	7458871984822577	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/dcmview_autogen/timestamp	4eb2c0f74ef56094
-6968	9360	7458871984822577	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/dcmview_autogen/mocs_compilation.cpp	4eb2c0f74ef56094
-6487	9378	7458871985152576	source/dcmimage/dcmimage_TestDcmImage_autogen/timestamp	3de21d4160a5f1de
-6487	9378	7458871985152576	source/dcmimage/dcmimage_TestDcmImage_autogen/mocs_compilation.cpp	3de21d4160a5f1de
-6487	9378	7458871985152576	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/timestamp	3de21d4160a5f1de
-6487	9378	7458871985152576	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/mocs_compilation.cpp	3de21d4160a5f1de
-6744	9507	7458871984942597	source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/timestamp	c5835ee95ee23e32
-6744	9507	7458871984942597	source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/mocs_compilation.cpp	c5835ee95ee23e32
-6744	9507	7458871984942597	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/timestamp	c5835ee95ee23e32
-6744	9507	7458871984942597	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/mocs_compilation.cpp	c5835ee95ee23e32
-7778	11149	7458872004679035	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagSequence.dir/test/test_TestDcmTagSequence.cpp.obj	fab7878db8b672cb
-7840	11196	7458872004939088	source/dcmcore/CMakeFiles/dcmcore_TestDcmDictionary.dir/test/test_TestDcmDictionary.cpp.obj	c488f69d5a5f4712
-7711	11310	7458872005359069	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagSequence.dir/dcmcore_TestDcmTagSequence_autogen/mocs_compilation.cpp.obj	41dc1a129bae0687
-7908	11386	7458872005649058	source/dcmcore/CMakeFiles/dcmcore_TestDcmDictionary.dir/dcmcore_TestDcmDictionary_autogen/mocs_compilation.cpp.obj	ad2f675183e26bd7
-8136	11471	7458872005919063	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagKey.dir/dcmcore_TestDcmTagKey_autogen/mocs_compilation.cpp.obj	630f0f7275d50fdf
-8186	11840	7458872006519087	source/dcmcore/CMakeFiles/dcmcore_TestDcmReader.dir/dcmcore_TestDcmReader_autogen/mocs_compilation.cpp.obj	63917cab94f14809
-8085	12075	7458872006439077	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagKey.dir/test/test_TestDcmTagKey.cpp.obj	31ec9d1c62957e02
-8465	12160	7458872009639025	source/dcmcore/CMakeFiles/dcmcore_TestDcmReader.dir/test/test_TestDcmReader.cpp.obj	e5857dc7e46456f5
-8703	12436	7458872009739111	source/dcmcore/CMakeFiles/dcmcore_TestDcmTransferSyntax.dir/test/test_TestDcmTransferSyntax.cpp.obj	d788fe30e4672b5b
-8829	12453	7458872009829078	source/dcmcore/CMakeFiles/dcmcore_TestDcmTransferSyntax.dir/dcmcore_TestDcmTransferSyntax_autogen/mocs_compilation.cpp.obj	3cba1c986780f10f
-11310	12472	7458872015859036	target/bin/dcmcore_TestDcmTagSequence.exe	fd558227193454e2
-11386	12650	7458872018959063	target/bin/dcmcore_TestDcmDictionary.exe	b1ee15dfac9e45c0
-12075	12796	7458872020129092	target/bin/dcmcore_TestDcmTagKey.exe	14496c4ce7a60e2b
-12650	12961	7458872022879151	source/dcmmod/CMakeFiles/dcmmod.dir/dcmmod_autogen/mocs_compilation.cpp.obj	d2ea242a444841cc
-12160	13086	7458872021349057	target/bin/dcmcore_TestDcmReader.exe	bdac886bc515b76d
-12472	13190	7458872022319078	target/bin/dcmcore_TestDcmTransferSyntax.exe	f9946f5c1e7c6806
-9143	13409	7458872025799030	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagGroup.dir/test/test_TestDcmTagGroup.cpp.obj	e1c41ce867964476
-9360	13442	7458872027039074	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagGroup.dir/dcmcore_TestDcmTagGroup_autogen/mocs_compilation.cpp.obj	d27cb227ec49c32d
-9378	13553	7458872028539099	source/dcmcore/CMakeFiles/dcmcore_TestDcmTags.dir/test/test_TestDcmTags.cpp.obj	1ab650fd27efb10f
-11151	13578	7458872028629097	source/dcmcore/CMakeFiles/dcmcore_TestDcmVr.dir/dcmcore_TestDcmVr_autogen/mocs_compilation.cpp.obj	3e7df84a6bdc497
-11196	13603	7458872028659062	source/dcmcore/CMakeFiles/dcmcore_TestDcmVr.dir/test/test_TestDcmVr.cpp.obj	f1379acbe31f243b
-9508	13759	7458872029939078	source/dcmcore/CMakeFiles/dcmcore_TestDcmTags.dir/dcmcore_TestDcmTags_autogen/mocs_compilation.cpp.obj	3bf733ed59bb3feb
-13443	14127	7458872031989029	target/bin/dcmcore_TestDcmTagGroup.exe	3344bcfde657444e
-13604	14398	7458872034929054	target/bin/dcmcore_TestDcmVr.exe	e9db777023aad6e5
-13760	14513	7458872035639116	target/bin/dcmcore_TestDcmTags.exe	8a714dffd1216e67
-12796	14543	7458872038299085	source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleStudy.cpp.obj	d377c972df938ac8
-11471	14670	7458872040392467	source/dcmcore/CMakeFiles/dcmcore_TestDcmCharSet.dir/test/test_TestDcmCharSet.cpp.obj	43e198c14c675520
-14399	14677	7458872040894355	tools/dcmview/qrc_dcmview.cpp	f7aacae640288da
-14399	14677	7458872040894355	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/qrc_dcmview.cpp	f7aacae640288da
-11841	14978	7458872040934385	source/dcmcore/CMakeFiles/dcmcore_TestDcmCharSet.dir/dcmcore_TestDcmCharSet_autogen/mocs_compilation.cpp.obj	1a2f8e8e3041a2ca
-12962	15070	7458872040974386	source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleGeneralEquipmentAttributes.cpp.obj	877cbb2f45af69d0
-13086	15098	7458872041524402	source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleSOPCommon.cpp.obj	c4ed0d6d2be229e4
-13191	15114	7458872044314435	source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModulePatient.cpp.obj	2df498da54b35c98
-14807	15364	7458872045584414	tools/dcmview/CMakeFiles/dcmview.dir/qrc_dcmview.cpp.obj	51fc48029c12ae54
-12453	15403	7458872045824377	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagString.dir/test/test_TestDcmTagString.cpp.obj	b9ee08526100cea6
-12436	15720	7458872049574355	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagString.dir/dcmcore_TestDcmTagString_autogen/mocs_compilation.cpp.obj	9e526b64ba953c5d
-14978	15797	7458872048794404	target/bin/dcmcore_TestDcmCharSet.exe	78e032cdb63ea34c
-15115	16104	7458872052714362	target/bin/libdcmmod.dll	45ea25624f72b238
-15115	16104	7458872052714362	target/lib/libdcmmod.dll.a	45ea25624f72b238
-15721	16311	7458872056384389	target/bin/dcmcore_TestDcmTagString.exe	dfaf132582b912b
-14685	16603	7458872059390130	tools/dcmview/CMakeFiles/dcmview.dir/src/DicomTreeModel.cpp.obj	27e2ced1104f474e
-14677	16606	7458872059480133	tools/dcmview/CMakeFiles/dcmview.dir/dcmview_autogen/mocs_compilation.cpp.obj	a35331d839f219cb
-15070	16691	7458872061210121	tools/dcmview/CMakeFiles/dcmview.dir/src/main.cpp.obj	1e2dd58561224d72
-13553	16798	7458872062230521	source/dcmimage/CMakeFiles/dcmimage_TestDcmImageTransferFunction.dir/test/test_TestDcmImageTransferFunction.cpp.obj	5702c5f0e6cb47b2
-13410	16831	7458872062310532	source/dcmimage/CMakeFiles/dcmimage_TestDcmImageTransferFunction.dir/dcmimage_TestDcmImageTransferFunction_autogen/mocs_compilation.cpp.obj	7fc6a2c779301d1c
-13579	16954	7458872062950537	source/dcmimage/CMakeFiles/dcmimage_TestDcmImage.dir/test/test_TestDcmImage.cpp.obj	a7f88cb78932eae4
-15098	17511	7458872064760528	tools/dcmview/CMakeFiles/dcmview.dir/src/DicomWindow.cpp.obj	fa719f9d4d0ef861
-14830	17569	7458872069817683	tools/dcmview/CMakeFiles/dcmview.dir/src/MainWindow.cpp.obj	22d2df8750e04f80
-14128	17987	7458872070597677	source/dcmimage/CMakeFiles/dcmimage_TestDcmImage.dir/dcmimage_TestDcmImage_autogen/mocs_compilation.cpp.obj	42f42b1199f90b21
-16832	18288	7458872070397679	target/bin/dcmimage_TestDcmImageTransferFunction.exe	ce9b4d358054c96e
-16105	18939	7458872070267655	source/dcmmod/dcmmod_TestDcmModules_autogen/timestamp	23edcc31a6cf44ae
-16105	18939	7458872070267655	source/dcmmod/dcmmod_TestDcmModules_autogen/mocs_compilation.cpp	23edcc31a6cf44ae
-16105	18939	7458872070267655	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/timestamp	23edcc31a6cf44ae
-16105	18939	7458872070267655	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/mocs_compilation.cpp	23edcc31a6cf44ae
-17569	20862	7458872097317669	target/bin/dcmview.exe	a6163453b11fa40c
-17987	20958	7458872103531771	target/bin/dcmimage_TestDcmImage.exe	250c47c75d77e2c6
-18976	22281	7458872117124234	source/dcmmod/CMakeFiles/dcmmod_TestDcmModules.dir/test/test_TestDcmModules.cpp.obj	58ba4578887d95d5
-18939	22285	7458872117164214	source/dcmmod/CMakeFiles/dcmmod_TestDcmModules.dir/dcmmod_TestDcmModules_autogen/mocs_compilation.cpp.obj	920676577249fac1
-22286	22568	7458872119544197	target/bin/dcmmod_TestDcmModules.exe	4b62ccaba342ade3
-13	706	7458873176605302	tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-13	706	7458873176605302	tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-13	706	7458873176605302	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-13	706	7458873176605302	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-710	2416	7458873193230579	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	db5b6905ec1a5492
-2417	4347	7458873212889542	target/bin/interface.exe	46856f463ce749ad
-12	606	7458874610744346	tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-12	606	7458874610744346	tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-12	606	7458874610744346	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-12	606	7458874610744346	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-5	741	7458874816041422	tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-5	741	7458874816041422	tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-5	741	7458874816041422	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-5	741	7458874816041422	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-746	2367	7458874832274452	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	db5b6905ec1a5492
-2367	4521	7458874853742729	target/bin/interface.exe	46856f463ce749ad
-29	717	7469104230512673	tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-29	717	7469104230512673	tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-29	717	7469104230512673	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-29	717	7469104230512673	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-13	1847	7469104322811148	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	db5b6905ec1a5492
-1847	4085	7469104345028790	target/bin/interface.exe	46856f463ce749ad
-13	625	7469107071452857	tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-13	625	7469107071452857	tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-13	625	7469107071452857	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-13	625	7469107071452857	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-14	1935	7469107145249080	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	db5b6905ec1a5492
-1936	3475	7469107160211102	target/bin/interface.exe	46856f463ce749ad
-14	524	7469108161363810	tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-14	524	7469108161363810	tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-14	524	7469108161363810	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-14	524	7469108161363810	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-14	522	7469109519115666	tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-14	522	7469109519115666	tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-14	522	7469109519115666	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-14	522	7469109519115666	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-526	2402	7469109537907185	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	db5b6905ec1a5492
-2403	4057	7469109554044337	target/bin/interface.exe	46856f463ce749ad
-13	499	7469109855149638	tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-13	499	7469109855149638	tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-13	499	7469109855149638	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	4d89a52482ea04c2
-13	499	7469109855149638	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	4d89a52482ea04c2
-14	2129	7469110052443297	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	db5b6905ec1a5492
-2129	3897	7469110069918536	target/bin/interface.exe	46856f463ce749ad
+# ninja log v6
+3231	5561	7469117161651602	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagLO.cpp.obj	166dcad0d7203814
+10095	10567	7469117230292038	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/mocs_compilation.cpp	c84260e4798e0b91
+305	2886	7469117132387584	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagBinary.cpp.obj	61fc5f647861f14b
+46	166	7469117129803420	source/dcmcore/dcmcore_autogen/timestamp	2314ba628292ff24
+10568	14307	7469117235022841	source/dcmcore/CMakeFiles/dcmcore_TestDcmCharSet.dir/dcmcore_TestDcmCharSet_autogen/mocs_compilation.cpp.obj	d77873673618ffb7
+17009	21153	7469117299437809	source/dcmmod/CMakeFiles/dcmmod_TestDcmModules.dir/test/test_TestDcmModules.cpp.obj	b4bdc125a892a0e6
+10691	15552	7469117236247621	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagGroup.dir/dcmcore_TestDcmTagGroup_autogen/mocs_compilation.cpp.obj	c5b7444e9a52331e
+46	166	7469117129803420	source/dcmcore/dcmcore_autogen/mocs_compilation.cpp	2314ba628292ff24
+233	1986	7469117131674409	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmGlobal.cpp.obj	95f827b911582d0e
+46	166	7469117129803420	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/timestamp	2314ba628292ff24
+46	166	7469117129803420	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/mocs_compilation.cpp	2314ba628292ff24
+3239	5685	7469117161736759	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagLT.cpp.obj	e0db121d13f65fe4
+243	715	7469117131774438	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmPDUItem.cpp.obj	67e2e5fba7b20062
+1986	5015	7469117149208693	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDA.cpp.obj	1619b82a20205ace
+168	210	7469117131404169	source/dcmcore/qrc_dcmcore.cpp	e9d455b81303b2e0
+14001	15027	7469117276907595	target/lib/libdcmmod.dll.a	6e4b4a12c904c7ae
+168	210	7469117131404169	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/qrc_dcmcore.cpp	e9d455b81303b2e0
+211	297	7469117131444208	source/dcmcore/CMakeFiles/dcmcore.dir/dcmcore_autogen/mocs_compilation.cpp.obj	bea45322d39e776e
+10042	10601	7469117229763584	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagGroup_autogen/mocs_compilation.cpp	aa77f170916ccab0
+291	2192	7469117132257184	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAT.cpp.obj	8a28c51ce0de7684
+4924	6856	7469117178582456	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSQ.cpp.obj	96d071b719b286e3
+4271	7487	7469117172051157	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPixelData.cpp.obj	fa94be7150dc6ba2
+215	2384	7469117131484251	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmCharSet.cpp.obj	d5fc03e9e931cb8
+4651	7199	7469117175849294	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPixelDataItem.cpp.obj	953e9efb537eb668
+284	2512	7469117132187086	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAS.cpp.obj	fe7ba6126c1814fa
+263	2575	7469117131964898	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmStream.cpp.obj	89c29296d7691f38
+5686	8182	7469117186203683	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUS.cpp.obj	d30bee2fb85981a0
+272	2619	7469117132065417	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTag.cpp.obj	e035476328ec1c5b
+31	194	7469161639835232	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+2886	4903	7469117158205976	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagKey.cpp.obj	f9018b98b3f69662
+23164	23757	7469117360987168	target/bin/dcmcore_TestDcmTags.exe	64befa806b46c944
+238	2626	7469117131724394	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmModule.cpp.obj	718020279d662822
+279	2648	7469117132131998	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagAE.cpp.obj	1d8bfe5be53ac6fc
+7199	9243	7469117201339546	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmWriter.cpp.obj	7bc2496b0cbad391
+24483	24731	7469117374172275	target/bin/dcmimage_TestDcmImage.exe	23c333bb4219ed48
+223	2672	7469117131569112	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmDictionary.cpp.obj	38af15e23b429709
+10064	10482	7469117229989240	source/dcmcore/dcmcore_TestDcmTagSequence_autogen/mocs_compilation.cpp	fdec43ccb70255dd
+228	3231	7469117131624368	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmFile.cpp.obj	50e8f0af2e759e07
+219	3239	7469117131529073	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmDataset.cpp.obj	14ec6b69d8841094
+4968	7698	7469117179023677	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagST.cpp.obj	c24d67cc9ba1eac1
+715	3408	7469117136494329	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagCS.cpp.obj	5d65036c501d1c91
+14987	15914	7469117279203928	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/dcmview_autogen/timestamp	661baace17aa65ec
+2648	4836	7469117155832466	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagIS.cpp.obj	333f55379e3d871d
+15915	16125	7469117289366216	tools/dcmview/qrc_dcmview.cpp	6cedc3895d317b80
+254	3479	7469117131884654	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmReader.cpp.obj	775b62e390dc04e1
+2512	4271	7469117154462303	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDescription.cpp.obj	bba58d6605739fd3
+2192	4651	7469117151265301	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDS.cpp.obj	54961a8e9ecc6fe5
+3408	6495	7469117163417192	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagList.cpp.obj	7d3ee227679873bd
+10064	10482	7469117229989240	source/dcmcore/dcmcore_TestDcmTagSequence_autogen/timestamp	fdec43ccb70255dd
+4836	7599	7469117177699312	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSH.cpp.obj	31aaaac461cd98db
+14973	19602	7469117279073460	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagString.dir/test/test_TestDcmTagString.cpp.obj	5f56de816b06b33a
+5896	8282	7469117188307125	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUT.cpp.obj	7102d4e71667380c
+2672	4924	7469117156058210	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagItem.cpp.obj	aaf89518ebd7b290
+10603	16069	7469117235373929	source/dcmcore/CMakeFiles/dcmcore_TestDcmDictionary.dir/dcmcore_TestDcmDictionary_autogen/mocs_compilation.cpp.obj	208477a743b11a7b
+2620	4941	7469117155536039	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagFL.cpp.obj	5e0416ac551ecca2
+7487	7916	7469117204208986	source/dcmcore/CMakeFiles/dcmcore.dir/qrc_dcmcore.cpp.obj	d7014f7611eb308a
+2385	4968	7469117153193438	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagDT.cpp.obj	69368283b6242c39
+2575	5146	7469117155094995	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagFD.cpp.obj	efbc4f91ef4f6dc7
+2626	5417	7469117155601884	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagGroup.cpp.obj	f4fa002bb40c78c9
+9243	9993	7469117229152127	target/bin/libdcmcore.dll	370a2bb766748e8b
+3479	5896	7469117164138909	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagPN.cpp.obj	5e675a6b2a52100d
+13990	14986	7469117276832423	target/lib/libdcmimage.dll.a	6f85a40ad1aefa17
+4903	7660	7469117178366898	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSL.cpp.obj	9fa851f65ad142f2
+9993	10331	7469117229272718	source/dcmimage/dcmimage_autogen/mocs_compilation.cpp	1500b70a772799f8
+10001	10261	7469117229352283	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_autogen/timestamp	ad47709054c4ea50
+4941	7717	7469117178757904	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagSS.cpp.obj	338819388dc4b92d
+5146	7809	7469117180803672	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagTM.cpp.obj	fbd07dfa490f8e9f
+10001	10261	7469117229352283	source/dcmmod/dcmmod_autogen/mocs_compilation.cpp	ad47709054c4ea50
+15043	15707	7469117279780856	source/dcmimage/dcmimage_TestDcmImage_autogen/mocs_compilation.cpp	75d4bfd1780c208c
+10001	10261	7469117229352283	source/dcmmod/dcmmod_autogen/timestamp	ad47709054c4ea50
+5016	8012	7469117179499845	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagString.cpp.obj	fb86bc3d2f52c399
+10104	10664	7469117230387187	source/dcmcore/dcmcore_TestDcmVr_autogen/mocs_compilation.cpp	67a44d5352673109
+5417	8347	7469117183514543	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUI.cpp.obj	222ecbe87b2f9819
+5562	8433	7469117184954846	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTagUL.cpp.obj	76aef776669c45b1
+6856	8479	7469117197905297	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmVr.cpp.obj	c51426567e61cffe
+15915	16125	7469117289366216	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/qrc_dcmview.cpp	6cedc3895d317b80
+6495	8569	7469117194295240	source/dcmcore/CMakeFiles/dcmcore.dir/src/DcmTransferSyntax.cpp.obj	30c1230387ceecd6
+31	194	7469161639835232	tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+9243	9993	7469117229152127	target/lib/libdcmcore.dll.a	370a2bb766748e8b
+10001	10261	7469117229352283	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_autogen/mocs_compilation.cpp	ad47709054c4ea50
+9993	10331	7469117229272718	source/dcmimage/dcmimage_autogen/timestamp	1500b70a772799f8
+9993	10331	7469117229272718	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/timestamp	1500b70a772799f8
+9993	10331	7469117229272718	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_autogen/mocs_compilation.cpp	1500b70a772799f8
+10011	10377	7469117229457449	source/dcmcore/dcmcore_TestDcmCharSet_autogen/timestamp	8a93d64a15289efb
+10508	14001	7469117234419179	source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleSOPCommon.cpp.obj	eacaddac3b4fd7be
+10011	10377	7469117229457449	source/dcmcore/dcmcore_TestDcmCharSet_autogen/mocs_compilation.cpp	8a93d64a15289efb
+10011	10377	7469117229457449	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/timestamp	8a93d64a15289efb
+10020	10540	7469117229543050	source/dcmcore/dcmcore_TestDcmDictionary_autogen/mocs_compilation.cpp	b84a71d05f9f7f32
+10011	10377	7469117229457449	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/mocs_compilation.cpp	8a93d64a15289efb
+10262	10442	7469117231961401	source/dcmmod/CMakeFiles/dcmmod.dir/dcmmod_autogen/mocs_compilation.cpp.obj	bdfaf57d8a5795ce
+10064	10482	7469117229989240	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagSequence_autogen/timestamp	fdec43ccb70255dd
+10064	10482	7469117229989240	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagSequence_autogen/mocs_compilation.cpp	fdec43ccb70255dd
+15043	15707	7469117279780856	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/timestamp	75d4bfd1780c208c
+16670	21163	7469117296041894	source/dcmcore/CMakeFiles/dcmcore_TestDcmVr.dir/test/test_TestDcmVr.cpp.obj	572809489b1c44cd
+10332	10488	7469117232663246	source/dcmimage/CMakeFiles/dcmimage.dir/dcmimage_autogen/mocs_compilation.cpp.obj	d81578ab10013f4a
+10084	10507	7469117230186721	source/dcmcore/dcmcore_TestDcmTags_autogen/timestamp	c2aea23f151d8444
+10084	10507	7469117230186721	source/dcmcore/dcmcore_TestDcmTags_autogen/mocs_compilation.cpp	c2aea23f151d8444
+10084	10507	7469117230186721	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTags_autogen/timestamp	c2aea23f151d8444
+10084	10507	7469117230186721	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTags_autogen/mocs_compilation.cpp	c2aea23f151d8444
+10020	10540	7469117229543050	source/dcmcore/dcmcore_TestDcmDictionary_autogen/timestamp	b84a71d05f9f7f32
+10020	10540	7469117229543050	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmDictionary_autogen/timestamp	b84a71d05f9f7f32
+17723	24405	7469117306571019	source/dcmimage/CMakeFiles/dcmimage_TestDcmImage.dir/dcmimage_TestDcmImage_autogen/mocs_compilation.cpp.obj	b25c6e2362236b36
+10020	10540	7469117229543050	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmDictionary_autogen/mocs_compilation.cpp	b84a71d05f9f7f32
+24652	24876	7469117375863693	target/bin/dcmimage_TestDcmImageTransferFunction.exe	6be275be103539d7
+10095	10567	7469117230292038	source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/timestamp	c84260e4798e0b91
+10095	10567	7469117230292038	source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/mocs_compilation.cpp	c84260e4798e0b91
+10095	10567	7469117230292038	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/timestamp	c84260e4798e0b91
+10051	10584	7469117229858774	source/dcmcore/dcmcore_TestDcmTagKey_autogen/timestamp	f108411e6de6ed2c
+10051	10584	7469117229858774	source/dcmcore/dcmcore_TestDcmTagKey_autogen/mocs_compilation.cpp	f108411e6de6ed2c
+10051	10584	7469117229858774	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/timestamp	f108411e6de6ed2c
+10051	10584	7469117229858774	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/mocs_compilation.cpp	f108411e6de6ed2c
+10042	10601	7469117229763584	source/dcmcore/dcmcore_TestDcmTagGroup_autogen/timestamp	aa77f170916ccab0
+10042	10601	7469117229763584	source/dcmcore/dcmcore_TestDcmTagGroup_autogen/mocs_compilation.cpp	aa77f170916ccab0
+10042	10601	7469117229763584	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagGroup_autogen/timestamp	aa77f170916ccab0
+21153	24542	7469117340864179	tools/dcmview/CMakeFiles/dcmview.dir/src/MainWindow.cpp.obj	8d9a3176a96f7aa2
+10104	10664	7469117230387187	source/dcmcore/dcmcore_TestDcmVr_autogen/timestamp	67a44d5352673109
+10104	10664	7469117230387187	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/timestamp	67a44d5352673109
+10104	10664	7469117230387187	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/mocs_compilation.cpp	67a44d5352673109
+10075	10690	7469117230091569	source/dcmcore/dcmcore_TestDcmTagString_autogen/timestamp	8f0a4b4bc9f16e6
+14987	15914	7469117279203928	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/dcmview/dcmview_autogen/mocs_compilation.cpp	661baace17aa65ec
+10075	10690	7469117230091569	source/dcmcore/dcmcore_TestDcmTagString_autogen/mocs_compilation.cpp	8f0a4b4bc9f16e6
+10075	10690	7469117230091569	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/timestamp	8f0a4b4bc9f16e6
+10075	10690	7469117230091569	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/mocs_compilation.cpp	8f0a4b4bc9f16e6
+10031	10719	7469117229658242	source/dcmcore/dcmcore_TestDcmReader_autogen/timestamp	16924b8c9527976a
+10031	10719	7469117229658242	source/dcmcore/dcmcore_TestDcmReader_autogen/mocs_compilation.cpp	16924b8c9527976a
+10031	10719	7469117229658242	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmReader_autogen/timestamp	16924b8c9527976a
+10031	10719	7469117229658242	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmReader_autogen/mocs_compilation.cpp	16924b8c9527976a
+10313	12283	7469117232472736	source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModulePatient.cpp.obj	e58c298b4bd494d4
+10443	12315	7469117233767295	source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmImageTransferFunction.cpp.obj	44883c1f6aeeca68
+10308	12374	7469117232422684	source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleGeneralEquipmentAttributes.cpp.obj	61c6a6a50e481726
+10719	15043	7469117236533388	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagGroup.dir/test/test_TestDcmTagGroup.cpp.obj	d8ec024d40cd4df4
+10488	12721	7469117234228725	source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmPhotometricInterpretation.cpp.obj	2aa486b0f2fa7b4
+10482	12965	7469117234163596	source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmMonochromeImage.cpp.obj	70bec5c2ef6f1729
+10545	13025	7469117234792317	source/dcmmod/CMakeFiles/dcmmod.dir/src/DcmModuleStudy.cpp.obj	fa42eddf08fce821
+10377	13989	7469117233115843	source/dcmimage/CMakeFiles/dcmimage.dir/src/DcmImage.cpp.obj	fb02d8bde2a5d2a4
+10585	14973	7469117235198517	source/dcmcore/CMakeFiles/dcmcore_TestDcmCharSet.dir/test/test_TestDcmCharSet.cpp.obj	e8eeafce98de0ddb
+13990	14986	7469117276832423	target/bin/libdcmimage.dll	6f85a40ad1aefa17
+14001	15027	7469117276907595	target/bin/libdcmmod.dll	6e4b4a12c904c7ae
+15043	15707	7469117279780856	source/dcmimage/dcmimage_TestDcmImage_autogen/timestamp	75d4bfd1780c208c
+15043	15707	7469117279780856	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/mocs_compilation.cpp	75d4bfd1780c208c
+14987	15914	7469117279203928	tools/dcmview/dcmview_autogen/timestamp	661baace17aa65ec
+14987	15914	7469117279203928	tools/dcmview/dcmview_autogen/mocs_compilation.cpp	661baace17aa65ec
+12283	15941	7469117252174176	source/dcmcore/CMakeFiles/dcmcore_TestDcmReader.dir/dcmcore_TestDcmReader_autogen/mocs_compilation.cpp.obj	32b5d767cdbcac5b
+15028	16181	7469117279615377	source/dcmmod/dcmmod_TestDcmModules_autogen/timestamp	5b203f8b1ddcd0a2
+15028	16181	7469117279615377	source/dcmmod/dcmmod_TestDcmModules_autogen/mocs_compilation.cpp	5b203f8b1ddcd0a2
+15028	16181	7469117279615377	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/timestamp	5b203f8b1ddcd0a2
+15028	16181	7469117279615377	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/mocs_compilation.cpp	5b203f8b1ddcd0a2
+15552	16422	7469117284858962	source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/timestamp	ad31adc4f6d070ec
+15552	16422	7469117284858962	source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/mocs_compilation.cpp	ad31adc4f6d070ec
+15552	16422	7469117284858962	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/timestamp	ad31adc4f6d070ec
+15552	16422	7469117284858962	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/mocs_compilation.cpp	ad31adc4f6d070ec
+10665	16669	7469117235991154	source/dcmcore/CMakeFiles/dcmcore_TestDcmDictionary.dir/test/test_TestDcmDictionary.cpp.obj	de4807100f291eea
+12316	16694	7469117252495209	source/dcmcore/CMakeFiles/dcmcore_TestDcmReader.dir/test/test_TestDcmReader.cpp.obj	8fdd021312c723f8
+31	194	7469161639835232	tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+31	194	7469161639835232	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+12721	17723	7469117256559099	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagKey.dir/test/test_TestDcmTagKey.cpp.obj	19975a803344ee01
+13025	17834	7469117259588313	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagSequence.dir/test/test_TestDcmTagSequence.cpp.obj	85ac1a14ed6ecd1
+12965	18570	7469117258991266	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagSequence.dir/dcmcore_TestDcmTagSequence_autogen/mocs_compilation.cpp.obj	5620757cf182c0f
+12375	18786	7469117253092808	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagKey.dir/dcmcore_TestDcmTagKey_autogen/mocs_compilation.cpp.obj	a07a1d8d7f22f9c
+14307	18852	7469117272417910	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagString.dir/dcmcore_TestDcmTagString_autogen/mocs_compilation.cpp.obj	af89224af80cc4a6
+16126	20372	7469117290600612	source/dcmcore/CMakeFiles/dcmcore_TestDcmTransferSyntax.dir/dcmcore_TestDcmTransferSyntax_autogen/mocs_compilation.cpp.obj	c3002d811e1446c9
+16694	21210	7469117296283315	source/dcmmod/CMakeFiles/dcmmod_TestDcmModules.dir/dcmmod_TestDcmModules_autogen/mocs_compilation.cpp.obj	211d27526c106de6
+15942	21217	7469117288756185	source/dcmcore/CMakeFiles/dcmcore_TestDcmTags.dir/dcmcore_TestDcmTags_autogen/mocs_compilation.cpp.obj	80105b7b91f1315d
+16423	21280	7469117293570299	source/dcmcore/CMakeFiles/dcmcore_TestDcmVr.dir/dcmcore_TestDcmVr_autogen/mocs_compilation.cpp.obj	39643b7e616281ed
+16181	21439	7469117291153546	source/dcmcore/CMakeFiles/dcmcore_TestDcmTransferSyntax.dir/test/test_TestDcmTransferSyntax.cpp.obj	f5700859fa26e831
+16069	21453	7469117290032979	source/dcmcore/CMakeFiles/dcmcore_TestDcmTags.dir/test/test_TestDcmTags.cpp.obj	3d3a1c0ff69ed322
+21210	21612	7469117341450974	tools/dcmview/CMakeFiles/dcmview.dir/qrc_dcmview.cpp.obj	cb7fb9b1b5d3577d
+21454	22040	7469117343878674	target/bin/dcmcore_TestDcmCharSet.exe	ecf3b5dd935e49a2
+21612	22510	7469117345464081	target/bin/dcmcore_TestDcmDictionary.exe	65ff89828b04f86a
+18852	22654	7469117317867339	tools/dcmview/CMakeFiles/dcmview.dir/dcmview_autogen/mocs_compilation.cpp.obj	da205e43ead3dea0
+22040	23049	7469117349739400	target/bin/dcmcore_TestDcmReader.exe	f63d5e575e782df9
+22654	23143	7469117355878981	target/bin/dcmcore_TestDcmTagKey.exe	77bae5725223fb93
+19602	23164	7469117325362352	tools/dcmview/CMakeFiles/dcmview.dir/src/DicomTreeModel.cpp.obj	d5d8619482c46f0
+20373	23482	7469117333063885	tools/dcmview/CMakeFiles/dcmview.dir/src/DicomWindow.cpp.obj	152c17d98fc1b1e9
+23049	23554	7469117359833840	target/bin/dcmcore_TestDcmTagSequence.exe	77d5e1367cd4041c
+741	2354	7469161188949269	tools/interface/CMakeFiles/interface.dir/src/main.cpp.obj	ca204def87050092
+22510	23563	7469117354449693	target/bin/dcmcore_TestDcmTagGroup.exe	239ebba3d847d2
+23143	23797	7469117360771556	target/bin/dcmcore_TestDcmTagString.exe	7ff0125584beb5d1
+23554	24084	7469117364878617	target/bin/dcmcore_TestDcmVr.exe	41e95b90c5d1855
+18570	24086	7469117315044028	source/dcmimage/CMakeFiles/dcmimage_TestDcmImageTransferFunction.dir/dcmimage_TestDcmImageTransferFunction_autogen/mocs_compilation.cpp.obj	c0d7ababccccb3ca
+23482	24088	7469117364166375	target/bin/dcmcore_TestDcmTransferSyntax.exe	3fbfeccfd2bec6b
+23564	24103	7469117364978977	target/bin/dcmmod_TestDcmModules.exe	1ad82a2d28a270cd
+737	2318	7469161188909228	tools/interface/CMakeFiles/interface.dir/interface_autogen/mocs_compilation.cpp.obj	1b435d7eafc9d578
+21163	24158	7469117340969515	tools/dcmview/CMakeFiles/dcmview.dir/src/main.cpp.obj	ccc21ec6325f9272
+17834	24483	7469117307679575	source/dcmimage/CMakeFiles/dcmimage_TestDcmImage.dir/test/test_TestDcmImage.cpp.obj	ad2a441ae16a7f1f
+195	2088	7469161641465528	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	7e122ec447b32e2b
+18786	24651	7469117317205053	source/dcmimage/CMakeFiles/dcmimage_TestDcmImageTransferFunction.dir/test/test_TestDcmImageTransferFunction.cpp.obj	77fb729d2ffe633e
+2088	2284	7469161660400593	target/bin/interface.exe	c70a7923845e6609
+24542	24841	7469117374760459	target/bin/dcmview.exe	ae02e82032ee481b
+146	1309	7469270043991322	source/dcmcore/dcmcore_TestDcmTagKey_autogen/timestamp	f108411e6de6ed2c
+146	1309	7469270043991322	source/dcmcore/dcmcore_TestDcmTagKey_autogen/mocs_compilation.cpp	f108411e6de6ed2c
+146	1309	7469270043991322	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/timestamp	f108411e6de6ed2c
+146	1309	7469270043991322	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/mocs_compilation.cpp	f108411e6de6ed2c
+63	1443	7469270043168579	source/dcmcore/dcmcore_TestDcmCharSet_autogen/timestamp	8a93d64a15289efb
+63	1443	7469270043168579	source/dcmcore/dcmcore_TestDcmCharSet_autogen/mocs_compilation.cpp	8a93d64a15289efb
+63	1443	7469270043168579	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/timestamp	8a93d64a15289efb
+63	1443	7469270043168579	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/mocs_compilation.cpp	8a93d64a15289efb
+90	1773	7469270043429305	source/dcmcore/dcmcore_TestDcmReader_autogen/timestamp	16924b8c9527976a
+90	1773	7469270043429305	source/dcmcore/dcmcore_TestDcmReader_autogen/mocs_compilation.cpp	16924b8c9527976a
+90	1773	7469270043429305	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmReader_autogen/timestamp	16924b8c9527976a
+90	1773	7469270043429305	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmReader_autogen/mocs_compilation.cpp	16924b8c9527976a
+172	1792	7469270044246894	source/dcmcore/dcmcore_TestDcmTagSequence_autogen/timestamp	fdec43ccb70255dd
+172	1792	7469270044246894	source/dcmcore/dcmcore_TestDcmTagSequence_autogen/mocs_compilation.cpp	fdec43ccb70255dd
+172	1792	7469270044246894	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagSequence_autogen/timestamp	fdec43ccb70255dd
+172	1792	7469270044246894	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagSequence_autogen/mocs_compilation.cpp	fdec43ccb70255dd
+445	1870	7469270046981830	source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/timestamp	c84260e4798e0b91
+445	1870	7469270046981830	source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/mocs_compilation.cpp	c84260e4798e0b91
+445	1870	7469270046981830	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/timestamp	c84260e4798e0b91
+445	1870	7469270046981830	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTransferSyntax_autogen/mocs_compilation.cpp	c84260e4798e0b91
+119	2100	7469270043715586	source/dcmcore/dcmcore_TestDcmTagGroup_autogen/timestamp	aa77f170916ccab0
+119	2100	7469270043715586	source/dcmcore/dcmcore_TestDcmTagGroup_autogen/mocs_compilation.cpp	aa77f170916ccab0
+119	2100	7469270043715586	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagGroup_autogen/timestamp	aa77f170916ccab0
+119	2100	7469270043715586	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagGroup_autogen/mocs_compilation.cpp	aa77f170916ccab0
+78	2161	7469270043313996	source/dcmcore/dcmcore_TestDcmDictionary_autogen/timestamp	b84a71d05f9f7f32
+78	2161	7469270043313996	source/dcmcore/dcmcore_TestDcmDictionary_autogen/mocs_compilation.cpp	b84a71d05f9f7f32
+78	2161	7469270043313996	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmDictionary_autogen/timestamp	b84a71d05f9f7f32
+78	2161	7469270043313996	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmDictionary_autogen/mocs_compilation.cpp	b84a71d05f9f7f32
+468	2437	7469270047222372	source/dcmcore/dcmcore_TestDcmVr_autogen/timestamp	67a44d5352673109
+468	2437	7469270047222372	source/dcmcore/dcmcore_TestDcmVr_autogen/mocs_compilation.cpp	67a44d5352673109
+468	2437	7469270047222372	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/timestamp	67a44d5352673109
+468	2437	7469270047222372	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmVr_autogen/mocs_compilation.cpp	67a44d5352673109
+396	2808	7469270046495486	source/dcmcore/dcmcore_TestDcmTags_autogen/timestamp	c2aea23f151d8444
+396	2808	7469270046495486	source/dcmcore/dcmcore_TestDcmTags_autogen/mocs_compilation.cpp	c2aea23f151d8444
+396	2808	7469270046495486	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTags_autogen/timestamp	c2aea23f151d8444
+396	2808	7469270046495486	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTags_autogen/mocs_compilation.cpp	c2aea23f151d8444
+706	3065	7469270049594068	source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/timestamp	ad31adc4f6d070ec
+706	3065	7469270049594068	source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/mocs_compilation.cpp	ad31adc4f6d070ec
+706	3065	7469270049594068	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/timestamp	ad31adc4f6d070ec
+706	3065	7469270049594068	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImageTransferFunction_autogen/mocs_compilation.cpp	ad31adc4f6d070ec
+251	3294	7469270045041939	source/dcmcore/dcmcore_TestDcmTagString_autogen/timestamp	8f0a4b4bc9f16e6
+251	3294	7469270045041939	source/dcmcore/dcmcore_TestDcmTagString_autogen/mocs_compilation.cpp	8f0a4b4bc9f16e6
+251	3294	7469270045041939	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/timestamp	8f0a4b4bc9f16e6
+251	3294	7469270045041939	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagString_autogen/mocs_compilation.cpp	8f0a4b4bc9f16e6
+572	3662	7469270048250047	source/dcmmod/dcmmod_TestDcmModules_autogen/timestamp	5b203f8b1ddcd0a2
+572	3662	7469270048250047	source/dcmmod/dcmmod_TestDcmModules_autogen/mocs_compilation.cpp	5b203f8b1ddcd0a2
+572	3662	7469270048250047	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/timestamp	5b203f8b1ddcd0a2
+572	3662	7469270048250047	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/mocs_compilation.cpp	5b203f8b1ddcd0a2
+594	3734	7469270048470585	source/dcmimage/dcmimage_TestDcmImage_autogen/timestamp	75d4bfd1780c208c
+594	3734	7469270048470585	source/dcmimage/dcmimage_TestDcmImage_autogen/mocs_compilation.cpp	75d4bfd1780c208c
+594	3734	7469270048470585	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/timestamp	75d4bfd1780c208c
+594	3734	7469270048470585	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/mocs_compilation.cpp	75d4bfd1780c208c
+826	4573	7469270079380297	tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+826	4573	7469270079380297	tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+826	4573	7469270079380297	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+826	4573	7469270079380297	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+1443	7737	7469270056971186	source/dcmcore/CMakeFiles/dcmcore_TestDcmCharSet.dir/test/test_TestDcmCharSet.cpp.obj	e8eeafce98de0ddb
+1871	7745	7469270061250480	source/dcmcore/CMakeFiles/dcmcore_TestDcmTransferSyntax.dir/test/test_TestDcmTransferSyntax.cpp.obj	f5700859fa26e831
+1792	7778	7469270060458264	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagSequence.dir/test/test_TestDcmTagSequence.cpp.obj	85ac1a14ed6ecd1
+2101	7835	7469270063553485	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagGroup.dir/test/test_TestDcmTagGroup.cpp.obj	d8ec024d40cd4df4
+1774	7850	7469270060277756	source/dcmcore/CMakeFiles/dcmcore_TestDcmReader.dir/test/test_TestDcmReader.cpp.obj	8fdd021312c723f8
+1310	7864	7469270055637118	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagKey.dir/test/test_TestDcmTagKey.cpp.obj	19975a803344ee01
+7865	8969	7469270121182121	target/bin/dcmcore_TestDcmTagGroup.exe	239ebba3d847d2
+7836	9104	7469270120886221	target/bin/dcmcore_TestDcmCharSet.exe	ecf3b5dd935e49a2
+4573	9240	7469270088269030	tools/interface/CMakeFiles/interface.dir/interface_autogen/mocs_compilation.cpp.obj	1b435d7eafc9d578
+7850	9259	7469270121036655	target/bin/dcmcore_TestDcmReader.exe	f63d5e575e782df9
+8969	9744	7469270132213982	target/bin/dcmcore_TestDcmTagKey.exe	77bae5725223fb93
+9104	9859	7469270133572963	target/bin/dcmcore_TestDcmTagSequence.exe	77d5e1367cd4041c
+9241	9902	7469270134937965	target/bin/dcmcore_TestDcmTransferSyntax.exe	3fbfeccfd2bec6b
+2808	10790	7469270070616048	source/dcmcore/CMakeFiles/dcmcore_TestDcmTags.dir/test/test_TestDcmTags.cpp.obj	3d3a1c0ff69ed322
+3663	10969	7469270079169756	source/dcmmod/CMakeFiles/dcmmod_TestDcmModules.dir/test/test_TestDcmModules.cpp.obj	b4bdc125a892a0e6
+7737	10980	7469270119907498	tools/interface/CMakeFiles/interface.dir/src/DicomTreeModel.cpp.obj	53616b771c27a2d
+7745	11208	7469270119982847	tools/interface/CMakeFiles/interface.dir/src/main.cpp.obj	ca204def87050092
+2164	11264	7469270064175124	source/dcmcore/CMakeFiles/dcmcore_TestDcmDictionary.dir/test/test_TestDcmDictionary.cpp.obj	de4807100f291eea
+3310	11309	7469270075632618	source/dcmcore/CMakeFiles/dcmcore_TestDcmTagString.dir/test/test_TestDcmTagString.cpp.obj	5f56de816b06b33a
+10969	11327	7469270152231123	target/bin/dcmmod_TestDcmModules.exe	1ad82a2d28a270cd
+10791	11368	7469270150439750	target/bin/dcmcore_TestDcmTags.exe	64befa806b46c944
+3734	11429	7469270079871525	source/dcmimage/CMakeFiles/dcmimage_TestDcmImage.dir/test/test_TestDcmImage.cpp.obj	ad2a441ae16a7f1f
+3066	11572	7469270073189913	source/dcmimage/CMakeFiles/dcmimage_TestDcmImageTransferFunction.dir/test/test_TestDcmImageTransferFunction.cpp.obj	77fb729d2ffe633e
+11264	11583	7469270155178540	target/bin/dcmcore_TestDcmDictionary.exe	65ff89828b04f86a
+11309	11647	7469270155619658	target/bin/dcmcore_TestDcmTagString.exe	7ff0125584beb5d1
+2438	11674	7469270066913862	source/dcmcore/CMakeFiles/dcmcore_TestDcmVr.dir/test/test_TestDcmVr.cpp.obj	572809489b1c44cd
+11430	11746	7469270156828557	target/bin/dcmimage_TestDcmImage.exe	23c333bb4219ed48
+11572	11875	7469270158249064	target/bin/dcmimage_TestDcmImageTransferFunction.exe	6be275be103539d7
+11674	11877	7469270159276985	target/bin/dcmcore_TestDcmVr.exe	41e95b90c5d1855
+7778	12242	7469270120319355	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	7e122ec447b32e2b
+12242	12532	7469270164960705	target/bin/interface.exe	854355d14bf0a75a
+62	1217	7469275585232012	tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+62	1217	7469275585232012	tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+62	1217	7469275585232012	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+62	1217	7469275585232012	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+1218	3596	7469275586249856	tools/interface/CMakeFiles/interface.dir/interface_autogen/mocs_compilation.cpp.obj	1b435d7eafc9d578
+1224	3619	7469275586295170	tools/interface/CMakeFiles/interface.dir/src/main.cpp.obj	ca204def87050092
+1228	3798	7469275586345247	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	7e122ec447b32e2b
+3798	4050	7469275612045496	target/bin/interface.exe	854355d14bf0a75a
+51	1323	7469276895276729	tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+51	1323	7469276895276729	tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+51	1323	7469276895276729	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+51	1323	7469276895276729	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+1324	3745	7469276896365320	tools/interface/CMakeFiles/interface.dir/interface_autogen/mocs_compilation.cpp.obj	1b435d7eafc9d578
+1329	3800	7469276896420455	tools/interface/CMakeFiles/interface.dir/src/main.cpp.obj	ca204def87050092
+1334	3973	7469276896465735	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	7e122ec447b32e2b
+3973	4186	7469276922858494	target/bin/interface.exe	854355d14bf0a75a
+45	217	7469277817674685	tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+45	217	7469277817674685	tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+45	217	7469277817674685	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+45	217	7469277817674685	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+44	1652	7469278139352261	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	7e122ec447b32e2b
+1653	2039	7469278155441433	target/bin/interface.exe	854355d14bf0a75a
+44	203	7469278205306448	tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+44	203	7469278205306448	tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+44	203	7469278205306448	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+44	203	7469278205306448	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+45	214	7469279084544896	tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+45	214	7469279084544896	tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+45	214	7469279084544896	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+45	214	7469279084544896	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+215	1851	7469279086238405	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	7e122ec447b32e2b
+1851	2060	7469279102609284	target/bin/interface.exe	854355d14bf0a75a

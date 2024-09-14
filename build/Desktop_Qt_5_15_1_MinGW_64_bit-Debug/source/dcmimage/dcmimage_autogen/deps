@@ -18,7 +18,9 @@ dcmimage_autogen/timestamp: \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake \
+	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake \
+	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake \
@@ -31,20 +33,20 @@ dcmimage_autogen/timestamp: \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake \
 	C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/build_shared_library.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/link_libs.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/parse_src.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/parse_tests.cmake \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/CMakeLists.txt \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include/DcmImage.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include/DcmImageApi.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include/DcmImageTransferFunction.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include/DcmMonochromeImage.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/include/DcmPhotometricInterpretation.h \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/src/DcmImage.cpp \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/src/DcmImageTransferFunction.cpp \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/src/DcmMonochromeImage.cpp \
-	C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/src/DcmPhotometricInterpretation.cpp \
+	C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/cmake/build_shared_library.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/cmake/link_libs.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/cmake/parse_src.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/cmake/parse_tests.cmake \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmimage/CMakeLists.txt \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmimage/include/DcmImage.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmimage/include/DcmImageApi.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmimage/include/DcmImageTransferFunction.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmimage/include/DcmMonochromeImage.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmimage/include/DcmPhotometricInterpretation.h \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmimage/src/DcmImage.cpp \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmimage/src/DcmImageTransferFunction.cpp \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmimage/src/DcmMonochromeImage.cpp \
+	C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmimage/src/DcmPhotometricInterpretation.cpp \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

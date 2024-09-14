@@ -29,5 +29,7 @@ include(build_executable)
 target_sources(interface
   PRIVATE
   src/mainwindow.ui
+  include/DicomTreeModel.h
+  src/DicomTreeModel.cpp
 
 )

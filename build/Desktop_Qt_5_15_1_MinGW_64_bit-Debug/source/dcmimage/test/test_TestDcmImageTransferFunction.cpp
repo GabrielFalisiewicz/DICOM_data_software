@@ -1,2 +1,2 @@
-#include "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/test/TestDcmImageTransferFunction.h"
+#include "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test/TestDcmImageTransferFunction.h"
 QTEST_MAIN(TestDcmImageTransferFunction)

@@ -1,2 +1,2 @@
-#include "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/test/TestDcmReader.h"
+#include "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test/TestDcmReader.h"
 QTEST_MAIN(TestDcmReader)

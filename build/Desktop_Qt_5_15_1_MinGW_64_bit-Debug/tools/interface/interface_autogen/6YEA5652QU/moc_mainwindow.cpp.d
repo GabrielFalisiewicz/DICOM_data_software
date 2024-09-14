@@ -1,5 +1,11 @@
-C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/6YEA5652QU/moc_mainwindow.cpp: C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/interface/include/mainwindow.h \
-  C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/moc_predefs.h \
+C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/6YEA5652QU/moc_mainwindow.cpp: C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/tools/interface/include/mainwindow.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/moc_predefs.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/QLinkedList \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/QList \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/QMap \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/QString \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/QVariant \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/qabstractitemmodel.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qalgorithms.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qarraydata.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qatomic.h \
@@ -20,10 +26,14 @@ C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_b
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qhash.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qhashfunctions.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qiodevice.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/qitemselectionmodel.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qiterator.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qline.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/qlinkedlist.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qlist.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/qlocale.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qlogging.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/qmap.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qmargins.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qmetatype.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qnamespace.h \
@@ -38,7 +48,9 @@ C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_b
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qrect.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qrefcount.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qregexp.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/qregularexpression.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/qset.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qshareddata.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qsharedpointer.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qsharedpointer_impl.h \
@@ -53,9 +65,12 @@ C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_b
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qsystemdetection.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qtcore-config.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtCore/qvariant.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qvector.h \
   C:/Qt/5.15.1/mingw81_64/include/QtCore/qversiontagging.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtGui/QStandardItem \
+  C:/Qt/5.15.1/mingw81_64/include/QtGui/QStandardItemModel \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qbrush.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qcolor.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qcursor.h \
@@ -74,15 +89,33 @@ C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_b
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qregion.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qrgb.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qrgba64.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtGui/qstandarditemmodel.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qtgui-config.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qtguiglobal.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qtransform.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtGui/qvalidator.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qwindowdefs.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QListWidgetItem \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QMainWindow \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QTreeView \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qabstractitemdelegate.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qabstractitemview.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qabstractscrollarea.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qabstractslider.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qabstractspinbox.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qframe.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qlistview.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qlistwidget.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qmainwindow.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qrubberband.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qsizepolicy.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qslider.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qstyle.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qstyleoption.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qtabbar.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qtabwidget.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qtreeview.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qtwidgetsglobal.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qwidget.h \
@@ -258,4 +291,19 @@ C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_b
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/sys/types.h \
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wchar.h \
-  C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wctype.h
+  C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wctype.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmCoreApi.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmDataset.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmDictionary.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmFile.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmModule.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmPDUItem.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTag.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagDescription.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagGroup.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagKey.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTagList.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTransferSyntax.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmTypes.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/source/dcmcore/include/DcmVr.h \
+  C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/tools/interface/include/DicomTreeModel.h

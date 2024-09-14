@@ -1,2 +1,2 @@
-#include "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmimage/test/TestDcmImage.h"
+#include "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test/TestDcmImage.h"
 QTEST_MAIN(TestDcmImage)

@@ -1,321 +1,323 @@
 {
-	"BUILD_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore",
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore",
 	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/CMakeLists.txt",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/build_shared_library.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/parse_src.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/CMakeLists.txt",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/build_shared_library.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/parse_src.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/resources/dcmcore.qrc",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/link_libs.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/resources/dcmcore.qrc",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/link_libs.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfig.cmake",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/cmake/parse_tests.cmake",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/cmake/parse_tests.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfig.cmake",
 		"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Test/Qt5TestConfigExtras.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master",
-	"DEP_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/deps",
+	"CMAKE_SOURCE_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "dcmcore_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmCharSet.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmCharSet.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmCharSet.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmCoreApi.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmCoreApi.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmCoreApi.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmDataset.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmDataset.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmDataset.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmDictionary.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmDictionary.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmDictionary.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmFile.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmFile.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmFile.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmGlobal.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmGlobal.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmGlobal.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmModule.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmModule.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmModule.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmPDUItem.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmPDUItem.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmPDUItem.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmReader.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmReader.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmReader.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmStream.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmStream.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmStream.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTag.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTag.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTag.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagAE.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagAE.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagAE.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagAS.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagAS.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagAS.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagAT.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagAT.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagAT.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagBinary.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagBinary.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagBinary.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagCS.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagCS.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagCS.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagDA.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagDA.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagDA.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagDS.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagDS.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagDS.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagDT.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagDT.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagDT.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagDescription.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagDescription.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagDescription.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagFD.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagFD.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagFD.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagFL.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagFL.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagFL.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagGroup.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagGroup.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagGroup.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagIS.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagIS.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagIS.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagItem.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagItem.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagItem.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagKey.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagKey.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagKey.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagLO.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagLO.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagLO.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagLT.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagLT.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagLT.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagList.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagList.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagList.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagPN.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagPN.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagPN.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagPixelData.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagPixelData.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagPixelData.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagPixelDataItem.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagPixelDataItem.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagPixelDataItem.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagSH.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagSH.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagSH.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagSL.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagSL.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagSL.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagSQ.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagSQ.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagSQ.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagSS.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagSS.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagSS.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagST.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagST.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagST.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagString.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagString.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagString.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagTM.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagTM.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagTM.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagUI.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagUI.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagUI.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagUL.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagUL.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagUL.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagUS.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagUS.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagUS.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTagUT.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTagUT.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTagUT.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTransferSyntax.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTransferSyntax.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTransferSyntax.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmTypes.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmTypes.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmTypes.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmVr.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmVr.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmVr.cpp",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include/DcmWriter.h",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include/DcmWriter.h",
 			"Mu",
 			"6YEA5652QU/moc_DcmWriter.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"NOMINMAX",
@@ -334,11 +336,11 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/include",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src",
-		"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/test",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src",
+		"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test",
 		"C:/Qt/5.15.1/mingw81_64/include",
 		"C:/Qt/5.15.1/mingw81_64/include/QtCore",
 		"C:/Qt/5.15.1/mingw81_64/mkspecs/win32-g++",
@@ -359,246 +361,247 @@
 		"-dM",
 		"-E",
 		"-c",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
-	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/CMakeFiles/dcmcore_autogen.dir/ParseCache.txt",
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/CMakeFiles/dcmcore_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/5.15.1/mingw81_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/CMakeFiles/dcmcore_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/CMakeFiles/dcmcore_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmCharSet.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmCharSet.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmDataset.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmDataset.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmDictionary.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmDictionary.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmFile.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmFile.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmGlobal.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmGlobal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmModule.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmModule.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmPDUItem.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmPDUItem.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmReader.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmReader.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmStream.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmStream.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTag.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTag.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagAE.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagAE.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagAS.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagAS.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagAT.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagAT.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagBinary.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagBinary.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagCS.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagCS.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagDA.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagDA.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagDS.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagDS.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagDT.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagDT.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagDescription.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagDescription.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagFD.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagFD.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagFL.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagFL.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagGroup.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagGroup.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagIS.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagIS.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagItem.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagItem.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagKey.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagKey.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagLO.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagLO.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagLT.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagLT.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagList.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagList.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagPN.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagPN.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagPixelData.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagPixelData.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagPixelDataItem.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagPixelDataItem.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagSH.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagSH.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagSL.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagSL.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagSQ.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagSQ.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagSS.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagSS.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagST.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagST.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagString.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagString.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagTM.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagTM.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagUI.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagUI.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagUL.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagUL.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagUS.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagUS.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTagUT.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTagUT.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmTransferSyntax.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmTransferSyntax.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmVr.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmVr.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/src/DcmWriter.cpp",
+			"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/src/DcmWriter.cpp",
 			"Mu",
 			null
 		]
 	],
+	"USE_BETTER_GRAPH" : false,
 	"VERBOSITY" : 0
 }

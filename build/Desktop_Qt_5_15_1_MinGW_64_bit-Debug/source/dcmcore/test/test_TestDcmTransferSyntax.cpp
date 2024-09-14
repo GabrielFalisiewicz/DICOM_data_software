@@ -1,2 +1,2 @@
-#include "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/test/TestDcmTransferSyntax.h"
+#include "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test/TestDcmTransferSyntax.h"
 QTEST_MAIN(TestDcmTransferSyntax)

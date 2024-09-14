@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Gabriel/Documents/qt_lab/qdcm-master/tools/dcmview
+# Install script for directory: C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/dcmview
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -46,7 +46,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "runtime" OR NOT CMAKE_INSTALL_COMPONENT)
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "C:/Program Files (x86)/qdcm/bin" TYPE EXECUTABLE FILES "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/target/bin/dcmview.exe")
+  file(INSTALL DESTINATION "C:/Program Files (x86)/qdcm/bin" TYPE EXECUTABLE FILES "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/target/bin/dcmview.exe")
   if(EXISTS "$ENV{DESTDIR}/C:/Program Files (x86)/qdcm/bin/dcmview.exe" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}/C:/Program Files (x86)/qdcm/bin/dcmview.exe")
     if(CMAKE_INSTALL_DO_STRIP)

@@ -1,2 +1,2 @@
-#include "C:/Users/Gabriel/Documents/qt_lab/qdcm-master/source/dcmcore/test/TestDcmTagSequence.h"
+#include "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/test/TestDcmTagSequence.h"
 QTEST_MAIN(TestDcmTagSequence)
