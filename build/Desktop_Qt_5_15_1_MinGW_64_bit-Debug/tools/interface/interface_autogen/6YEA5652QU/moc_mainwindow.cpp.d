@@ -96,6 +96,7 @@ C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_M
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qvalidator.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qwindowdefs.h \
   C:/Qt/5.15.1/mingw81_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QLabel \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QListWidgetItem \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QMainWindow \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QTreeView \
@@ -105,6 +106,7 @@ C:/Users/piotr/OneDrive/Dokumenty/qt\ porojects/DAICOM/build/Desktop_Qt_5_15_1_M
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qabstractslider.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qabstractspinbox.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qframe.h \
+  C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qlabel.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qlistview.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qlistwidget.h \
   C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qmainwindow.h \

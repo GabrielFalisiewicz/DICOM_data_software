@@ -9,6 +9,7 @@
 #include <QListWidgetItem>
 #include <QTreeView>
 #include "DicomTreeModel.h"
+#include <QLabel>
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
@@ -24,6 +25,7 @@ public:
 private slots:
     void on_pushButton_clicked();
     void on_file_item_clicked(QListWidgetItem* item);
+    void updateImageView();
 
 
 private:
@@ -32,6 +34,7 @@ private:
     DcmDataset dataset;
     DicomTreeModel *m_treeModel;
     QTreeView *treeView;
+    QLabel *imageView;
 };
 
 #endif // MAINWINDOW_H

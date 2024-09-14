@@ -11,7 +11,9 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QHBoxLayout>
 #include <QtWidgets/QHeaderView>
+#include <QtWidgets/QLabel>
 #include <QtWidgets/QListWidget>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenuBar>
@@ -32,7 +34,10 @@ public:
     QListWidget *listWidget;
     QPushButton *pushButton;
     QWidget *read;
+    QWidget *horizontalLayoutWidget;
+    QHBoxLayout *horizontalLayout;
     QTreeView *treeView;
+    QLabel *imageViewer;
     QWidget *edit;
     QMenuBar *menubar;
     QStatusBar *statusbar;
@@ -41,12 +46,12 @@ public:
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName(QString::fromUtf8("MainWindow"));
-        MainWindow->resize(800, 600);
+        MainWindow->resize(1276, 614);
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
         tabWidget = new QTabWidget(centralwidget);
         tabWidget->setObjectName(QString::fromUtf8("tabWidget"));
-        tabWidget->setGeometry(QRect(-9, 1, 811, 561));
+        tabWidget->setGeometry(QRect(-9, 1, 1271, 561));
         tabWidget->setCursor(QCursor(Qt::PointingHandCursor));
         load = new QWidget();
         load->setObjectName(QString::fromUtf8("load"));
@@ -60,9 +65,22 @@ public:
         tabWidget->addTab(load, QString());
         read = new QWidget();
         read->setObjectName(QString::fromUtf8("read"));
-        treeView = new QTreeView(read);
+        horizontalLayoutWidget = new QWidget(read);
+        horizontalLayoutWidget->setObjectName(QString::fromUtf8("horizontalLayoutWidget"));
+        horizontalLayoutWidget->setGeometry(QRect(10, 0, 1241, 521));
+        horizontalLayout = new QHBoxLayout(horizontalLayoutWidget);
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        horizontalLayout->setContentsMargins(0, 0, 0, 0);
+        treeView = new QTreeView(horizontalLayoutWidget);
         treeView->setObjectName(QString::fromUtf8("treeView"));
-        treeView->setGeometry(QRect(50, 30, 711, 481));
+
+        horizontalLayout->addWidget(treeView);
+
+        imageViewer = new QLabel(horizontalLayoutWidget);
+        imageViewer->setObjectName(QString::fromUtf8("imageViewer"));
+
+        horizontalLayout->addWidget(imageViewer);
+
         tabWidget->addTab(read, QString());
         edit = new QWidget();
         edit->setObjectName(QString::fromUtf8("edit"));
@@ -70,7 +88,7 @@ public:
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QString::fromUtf8("menubar"));
-        menubar->setGeometry(QRect(0, 0, 800, 21));
+        menubar->setGeometry(QRect(0, 0, 1276, 21));
         MainWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(MainWindow);
         statusbar->setObjectName(QString::fromUtf8("statusbar"));
@@ -78,7 +96,7 @@ public:
 
         retranslateUi(MainWindow);
 
-        tabWidget->setCurrentIndex(0);
+        tabWidget->setCurrentIndex(1);
 
 
         QMetaObject::connectSlotsByName(MainWindow);
@@ -92,6 +110,7 @@ public:
 #endif // QT_CONFIG(tooltip)
         pushButton->setText(QCoreApplication::translate("MainWindow", "add Item", nullptr));
         tabWidget->setTabText(tabWidget->indexOf(load), QCoreApplication::translate("MainWindow", "Load File", nullptr));
+        imageViewer->setText(QCoreApplication::translate("MainWindow", "TextLabel", nullptr));
         tabWidget->setTabText(tabWidget->indexOf(read), QCoreApplication::translate("MainWindow", "Read Tags", nullptr));
         tabWidget->setTabText(tabWidget->indexOf(edit), QCoreApplication::translate("MainWindow", "Edit Tags", nullptr));
     } // retranslateUi
