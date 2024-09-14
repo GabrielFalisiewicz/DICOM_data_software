@@ -18,11 +18,11 @@
 	[
 		{
 			"backtrace" : 0,
-			"id" : "dcmmod::@15a8a75448c2008787ab"
+			"id" : "dcmcore::@d23430d366c2f7065651"
 		},
 		{
 			"backtrace" : 0,
-			"id" : "dcmcore::@d23430d366c2f7065651"
+			"id" : "dcmmod::@15a8a75448c2008787ab"
 		}
 	],
 	"id" : "dcmmod_TestDcmModules_autogen_timestamp_deps::@15a8a75448c2008787ab",

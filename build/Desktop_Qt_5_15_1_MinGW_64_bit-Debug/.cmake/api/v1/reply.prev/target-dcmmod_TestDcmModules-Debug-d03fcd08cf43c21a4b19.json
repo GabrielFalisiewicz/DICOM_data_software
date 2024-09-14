@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "target/bin/dcmimage_TestDcmImage.exe"
+			"path" : "target/bin/dcmmod_TestDcmModules.exe"
 		},
 		{
-			"path" : "target/bin/dcmimage_TestDcmImage.pdb"
+			"path" : "target/bin/dcmmod_TestDcmModules.pdb"
 		}
 	],
 	"backtrace" : 5,
@@ -18,19 +18,16 @@
 			"target_link_libraries",
 			"qt5_use_modules",
 			"set_property",
-			"_populate_Widgets_target_properties",
-			"find_package",
 			"include_directories"
 		],
 		"files" : 
 		[
 			"cmake/parse_tests.cmake",
 			"cmake/build_shared_library.cmake",
-			"source/dcmimage/CMakeLists.txt",
+			"source/dcmmod/CMakeLists.txt",
 			"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
 			"cmake/link_libs.cmake",
 			"source/dcmcore/CMakeLists.txt",
-			"C:/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
 			"cmake/parse_src.cmake"
 		],
 		"nodes" : 
@@ -130,56 +127,6 @@
 				"parent" : 15
 			},
 			{
-				"command" : 1,
-				"file" : 1,
-				"line" : 12,
-				"parent" : 2
-			},
-			{
-				"file" : 4,
-				"parent" : 18
-			},
-			{
-				"command" : 3,
-				"file" : 4,
-				"line" : 3,
-				"parent" : 19
-			},
-			{
-				"command" : 6,
-				"file" : 3,
-				"line" : 449,
-				"parent" : 20
-			},
-			{
-				"file" : 6,
-				"parent" : 21
-			},
-			{
-				"command" : 5,
-				"file" : 6,
-				"line" : 207,
-				"parent" : 22
-			},
-			{
-				"command" : 4,
-				"file" : 6,
-				"line" : 44,
-				"parent" : 23
-			},
-			{
-				"command" : 2,
-				"file" : 3,
-				"line" : 454,
-				"parent" : 7
-			},
-			{
-				"command" : 4,
-				"file" : 3,
-				"line" : 456,
-				"parent" : 7
-			},
-			{
 				"command" : 4,
 				"file" : 3,
 				"line" : 456,
@@ -198,38 +145,32 @@
 				"parent" : 2
 			},
 			{
-				"file" : 7,
-				"parent" : 29
+				"file" : 6,
+				"parent" : 20
 			},
 			{
-				"command" : 7,
-				"file" : 7,
+				"command" : 5,
+				"file" : 6,
 				"line" : 10,
-				"parent" : 30
+				"parent" : 21
 			},
 			{
-				"command" : 7,
-				"file" : 7,
+				"command" : 5,
+				"file" : 6,
 				"line" : 11,
-				"parent" : 30
+				"parent" : 21
 			},
 			{
-				"command" : 7,
-				"file" : 7,
+				"command" : 5,
+				"file" : 6,
 				"line" : 21,
-				"parent" : 30
+				"parent" : 21
 			},
 			{
-				"command" : 7,
+				"command" : 5,
 				"file" : 0,
 				"line" : 17,
 				"parent" : 4
-			},
-			{
-				"command" : 4,
-				"file" : 3,
-				"line" : 455,
-				"parent" : 7
 			},
 			{
 				"command" : 4,
@@ -266,24 +207,16 @@
 					"define" : "QMUSIC_VERSION=\"0.0.1\""
 				},
 				{
-					"backtrace" : 26,
+					"backtrace" : 18,
 					"define" : "QT_CORE_LIB"
-				},
-				{
-					"backtrace" : 27,
-					"define" : "QT_GUI_LIB"
 				},
 				{
 					"backtrace" : 8,
 					"define" : "QT_TESTCASE_BUILDDIR=\"C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug\""
 				},
 				{
-					"backtrace" : 28,
+					"backtrace" : 19,
 					"define" : "QT_TESTLIB_LIB"
-				},
-				{
-					"backtrace" : 27,
-					"define" : "QT_WIDGETS_LIB"
 				},
 				{
 					"backtrace" : 6,
@@ -293,65 +226,50 @@
 			"includes" : 
 			[
 				{
-					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage"
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod"
 				},
 				{
-					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage"
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod"
 				},
 				{
 					"backtrace" : 0,
-					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/include"
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/include"
 				},
 				{
-					"backtrace" : 31,
-					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/include"
+					"backtrace" : 22,
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/include"
 				},
 				{
-					"backtrace" : 32,
-					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/src"
+					"backtrace" : 23,
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/src"
 				},
 				{
-					"backtrace" : 33,
+					"backtrace" : 24,
 					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmcore/include"
 				},
 				{
-					"backtrace" : 34,
-					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmimage/test"
+					"backtrace" : 25,
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/source/dcmmod/test"
 				},
 				{
-					"backtrace" : 35,
+					"backtrace" : 26,
 					"isSystem" : true,
 					"path" : "C:/Qt/5.15.1/mingw81_64/include"
 				},
 				{
-					"backtrace" : 35,
+					"backtrace" : 26,
 					"isSystem" : true,
 					"path" : "C:/Qt/5.15.1/mingw81_64/include/QtCore"
 				},
 				{
-					"backtrace" : 35,
+					"backtrace" : 26,
 					"isSystem" : true,
 					"path" : "C:/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++"
 				},
 				{
-					"backtrace" : 36,
+					"backtrace" : 27,
 					"isSystem" : true,
 					"path" : "C:/Qt/5.15.1/mingw81_64/include/QtTest"
-				},
-				{
-					"backtrace" : 37,
-					"isSystem" : true,
-					"path" : "C:/Qt/5.15.1/mingw81_64/include/QtWidgets"
-				},
-				{
-					"backtrace" : 37,
-					"isSystem" : true,
-					"path" : "C:/Qt/5.15.1/mingw81_64/include/QtGui"
-				},
-				{
-					"backtrace" : 37,
-					"isSystem" : true,
-					"path" : "C:/Qt/5.15.1/mingw81_64/include/QtANGLE"
 				},
 				{
 					"backtrace" : 6,
@@ -375,17 +293,17 @@
 		},
 		{
 			"backtrace" : 6,
-			"id" : "dcmimage::@88923895543bdb4ae546"
+			"id" : "dcmmod::@15a8a75448c2008787ab"
+		},
+		{
+			"id" : "dcmmod_TestDcmModules_autogen_timestamp_deps::@15a8a75448c2008787ab"
 		},
 		{
 			"backtrace" : 0,
-			"id" : "dcmimage_TestDcmImage_autogen::@88923895543bdb4ae546"
-		},
-		{
-			"id" : "dcmimage_TestDcmImage_autogen_timestamp_deps::@88923895543bdb4ae546"
+			"id" : "dcmmod_TestDcmModules_autogen::@15a8a75448c2008787ab"
 		}
 	],
-	"id" : "dcmimage_TestDcmImage::@88923895543bdb4ae546",
+	"id" : "dcmmod_TestDcmModules::@15a8a75448c2008787ab",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -400,7 +318,7 @@
 			},
 			{
 				"backtrace" : 6,
-				"fragment" : "target\\lib\\libdcmimage.dll.a",
+				"fragment" : "target\\lib\\libdcmmod.dll.a",
 				"role" : "libraries"
 			},
 			{
@@ -415,7 +333,7 @@
 			},
 			{
 				"backtrace" : 9,
-				"fragment" : "C:\\Qt\\5.15.1\\mingw81_64\\lib\\libQt5Widgets.a",
+				"fragment" : "C:\\Qt\\5.15.1\\mingw81_64\\lib\\libQt5Core.a",
 				"role" : "libraries"
 			},
 			{
@@ -429,28 +347,18 @@
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 24,
-				"fragment" : "C:\\Qt\\5.15.1\\mingw81_64\\lib\\libQt5Gui.a",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 25,
-				"fragment" : "C:\\Qt\\5.15.1\\mingw81_64\\lib\\libQt5Core.a",
-				"role" : "libraries"
-			},
-			{
 				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
 				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
-	"name" : "dcmimage_TestDcmImage",
-	"nameOnDisk" : "dcmimage_TestDcmImage.exe",
+	"name" : "dcmmod_TestDcmModules",
+	"nameOnDisk" : "dcmmod_TestDcmModules.exe",
 	"paths" : 
 	{
-		"build" : "source/dcmimage",
-		"source" : "source/dcmimage"
+		"build" : "source/dcmmod",
+		"source" : "source/dcmmod"
 	},
 	"sourceGroups" : 
 	[
@@ -490,30 +398,30 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/mocs_compilation.cpp",
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/mocs_compilation.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 5,
 			"compileGroupIndex" : 0,
-			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/test/test_TestDcmImage.cpp",
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/test/test_TestDcmModules.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 5,
-			"path" : "source/dcmimage/test/TestDcmImage.h",
+			"path" : "source/dcmmod/test/TestDcmModules.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/timestamp",
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/timestamp",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmimage/dcmimage_TestDcmImage_autogen/timestamp.rule",
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmmod/dcmmod_TestDcmModules_autogen/timestamp.rule",
 			"sourceGroupIndex" : 3
 		}
 	],

@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "target/bin/dcmcore_TestDcmTagKey.exe"
+			"path" : "target/bin/dcmcore_TestDcmCharSet.exe"
 		},
 		{
-			"path" : "target/bin/dcmcore_TestDcmTagKey.pdb"
+			"path" : "target/bin/dcmcore_TestDcmCharSet.pdb"
 		}
 	],
 	"backtrace" : 5,
@@ -202,7 +202,7 @@
 				},
 				{
 					"backtrace" : 0,
-					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/include"
+					"path" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/include"
 				},
 				{
 					"backtrace" : 16,
@@ -257,14 +257,14 @@
 			"id" : "dcmcore::@d23430d366c2f7065651"
 		},
 		{
-			"backtrace" : 0,
-			"id" : "dcmcore_TestDcmTagKey_autogen::@d23430d366c2f7065651"
+			"id" : "dcmcore_TestDcmCharSet_autogen_timestamp_deps::@d23430d366c2f7065651"
 		},
 		{
-			"id" : "dcmcore_TestDcmTagKey_autogen_timestamp_deps::@d23430d366c2f7065651"
+			"backtrace" : 0,
+			"id" : "dcmcore_TestDcmCharSet_autogen::@d23430d366c2f7065651"
 		}
 	],
-	"id" : "dcmcore_TestDcmTagKey::@d23430d366c2f7065651",
+	"id" : "dcmcore_TestDcmCharSet::@d23430d366c2f7065651",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -304,8 +304,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "dcmcore_TestDcmTagKey",
-	"nameOnDisk" : "dcmcore_TestDcmTagKey.exe",
+	"name" : "dcmcore_TestDcmCharSet",
+	"nameOnDisk" : "dcmcore_TestDcmCharSet.exe",
 	"paths" : 
 	{
 		"build" : "source/dcmcore",
@@ -349,30 +349,30 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/mocs_compilation.cpp",
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/mocs_compilation.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 5,
 			"compileGroupIndex" : 0,
-			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmTagKey.cpp",
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/test/test_TestDcmCharSet.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 5,
-			"path" : "source/dcmcore/test/TestDcmTagKey.h",
+			"path" : "source/dcmcore/test/TestDcmCharSet.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/timestamp",
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/timestamp",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmTagKey_autogen/timestamp.rule",
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/source/dcmcore/dcmcore_TestDcmCharSet_autogen/timestamp.rule",
 			"sourceGroupIndex" : 3
 		}
 	],

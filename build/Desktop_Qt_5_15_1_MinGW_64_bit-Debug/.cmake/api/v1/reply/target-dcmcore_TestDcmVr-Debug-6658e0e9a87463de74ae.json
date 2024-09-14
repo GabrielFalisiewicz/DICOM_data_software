@@ -257,11 +257,11 @@
 			"id" : "dcmcore::@d23430d366c2f7065651"
 		},
 		{
-			"id" : "dcmcore_TestDcmVr_autogen_timestamp_deps::@d23430d366c2f7065651"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "dcmcore_TestDcmVr_autogen::@d23430d366c2f7065651"
+		},
+		{
+			"id" : "dcmcore_TestDcmVr_autogen_timestamp_deps::@d23430d366c2f7065651"
 		}
 	],
 	"id" : "dcmcore_TestDcmVr::@d23430d366c2f7065651",

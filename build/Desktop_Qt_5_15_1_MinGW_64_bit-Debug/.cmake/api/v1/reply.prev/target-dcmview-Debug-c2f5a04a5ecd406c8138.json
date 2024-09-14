@@ -406,11 +406,11 @@
 			"id" : "dcmimage::@88923895543bdb4ae546"
 		},
 		{
-			"backtrace" : 0,
-			"id" : "dcmview_autogen::@85833e8e078b03d60ee6"
+			"id" : "dcmview_autogen_timestamp_deps::@85833e8e078b03d60ee6"
 		},
 		{
-			"id" : "dcmview_autogen_timestamp_deps::@85833e8e078b03d60ee6"
+			"backtrace" : 0,
+			"id" : "dcmview_autogen::@85833e8e078b03d60ee6"
 		}
 	],
 	"id" : "dcmview::@85833e8e078b03d60ee6",
