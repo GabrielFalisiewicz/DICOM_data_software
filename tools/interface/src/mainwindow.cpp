@@ -13,16 +13,20 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
     ,file(nullptr)
     ,dataset()
-    , m_treeModel(nullptr)
+    , m_treeModel(nullptr),
+    model(nullptr)
 {
     ui->setupUi(this);
     connect(ui->listWidget,SIGNAL(itemClicked(QListWidgetItem*)),this,SLOT(on_file_item_clicked(QListWidgetItem*)));
     treeView=ui->treeView;
 }
 
+QString filename;
+
+
 void MainWindow::on_pushButton_clicked()
 {
-    QString filename = QFileDialog::getOpenFileName(this);
+    filename = QFileDialog::getOpenFileName(this);
     if (!filename.isEmpty()) {
         ui->listWidget->addItem(filename);
     }
@@ -45,10 +49,10 @@ void MainWindow::on_file_item_clicked(QListWidgetItem* item){
             delete m_treeModel;
         }
         m_treeModel = new DicomTreeModel(dataset, this);
+        connect(m_treeModel, &QAbstractItemModel::dataChanged, this, &MainWindow::onDataChanged);
         treeView->setModel(m_treeModel);
 
     }
-
 }
 
 MainWindow::~MainWindow()
@@ -56,3 +60,64 @@ MainWindow::~MainWindow()
     delete ui;
     delete file;
 }
+
+
+void MainWindow::on_pushButton_2_clicked()
+{
+    //dataset.setTagValue("ImplementationClassUID", "2.16.840.5");
+    //dataset.setTagValue(DcmTagKey(0x0002, 0x0012), "2.16.840.10");
+    int pos = filename.lastIndexOf('/');
+    QString name = filename.mid(pos + 1);
+    qDebug() << name;
+    DcmFile file(filename);
+    file.write(dataset);
+}
+
+void MainWindow::onDataChanged(const QModelIndex &topLeft){
+    int topRow = topLeft.row();
+    int leftColumn = topLeft.column();
+    QModelIndex parent = topLeft.parent();
+    QModelIndex ci = model->index(topRow, leftColumn, parent);
+    QModelIndex index = model->index(topRow, 0, parent);
+    QVariant cx = index.data();
+    QVariant data = ci.data();
+    QString str = cx.toString();
+    str.remove('(').remove(')');
+    QStringList parts = str.split(", ");
+    parts[0] = "0x" + parts[0];
+    parts[1] = "0x" + parts[1];
+    bool ok;
+    dataset.setTagValue(DcmTagKey(parts[0].toInt(&ok, 16), parts[1].toInt(&ok, 16)), data.toString());
+    //qDebug() << parts[0] << parts[1];
+    // qDebug() << "topLeft row:" << topRow << "column:" << leftColumn;
+    // qDebug() << "ci row:" << ci.row() << "column:" << ci.column();
+    // qDebug() << "data:" << data;
+    // qDebug() << "index: " << cx;
+}
+
+void MainWindow::on_treeView_clicked(const QModelIndex &index)
+{
+
+    //const QAbstractItemModel *model = index.model();
+    // int row = index.row();
+    // int columnCount = model->columnCount();
+    // QStringList rowData;
+    // for (int col = 0; col < columnCount; ++col) {
+    //     QModelIndex currentIndex = model->index(row, col);
+    //     QVariant data = currentIndex.data();
+    //     rowData << data.toString();
+    // }
+    // QString rowDataString = rowData.join(", ");
+    // qDebug() << rowDataString;
+
+    this->model = index.model();
+    //QVariant text = index.data();
+    //QString txt = text.toString();
+    //qDebug() << txt;
+    // QModelIndex tagIndex = index.sibling(index.row(), 0);
+    // QString tag = tagIndex.data().toString();
+    // qDebug() << tag;
+}
+
+
+

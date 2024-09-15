@@ -57,7 +57,6 @@ QVariant DicomTreeModel::headerData(int section, Qt::Orientation orientation, in
 QList<QStandardItem *> DicomTreeModel::createRowForTag(DcmTag *tag)
 {
     Q_ASSERT(tag);
-
     DcmDictionary *dict = DcmDictionary::getInstancePtr();
     Q_ASSERT(dict);
 
@@ -102,14 +101,13 @@ QList<QStandardItem *> DicomTreeModel::createRowForTag(DcmTag *tag)
     }
 
     row << new QStandardItem(strValue);
-
     return row;
 }
+
 
 void DicomTreeModel::attachTagList(QStandardItem *item, DcmTagList &tagList)
 {
     Q_ASSERT(item);
-
     foreach (DcmTag *tag, tagList.list()) {
         Q_ASSERT(tag);
         QList<QStandardItem *> row = createRowForTag(tag);

@@ -24,7 +24,9 @@ public:
 private slots:
     void on_pushButton_clicked();
     void on_file_item_clicked(QListWidgetItem* item);
-
+    void on_pushButton_2_clicked();
+    void onDataChanged(const QModelIndex &topLeft);
+    void on_treeView_clicked(const QModelIndex &index);
 
 private:
     Ui::MainWindow *ui;
@@ -32,6 +34,7 @@ private:
     DcmDataset dataset;
     DicomTreeModel *m_treeModel;
     QTreeView *treeView;
+    const QAbstractItemModel *model;
 };
 
 #endif // MAINWINDOW_H
