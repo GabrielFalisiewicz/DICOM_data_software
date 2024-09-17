@@ -1,0 +1,97 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Ninja"
+		},
+		"paths" : 
+		{
+			"cmake" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+			"cpack" : "C:/Qt/Tools/CMake_64/bin/cpack.exe",
+			"ctest" : "C:/Qt/Tools/CMake_64/bin/ctest.exe",
+			"root" : "C:/Qt/Tools/CMake_64/share/cmake-3.29"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 29,
+			"patch" : 3,
+			"string" : "3.29.3",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+<<<<<<<< HEAD:build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.cmake/api/v1/reply/index-2024-09-14T15-33-01-0245.json
+			"jsonFile" : "codemodel-v2-c4ddbc920c3315990f64.json",
+========
+			"jsonFile" : "codemodel-v2-fe6d1b721eb5c8f2dffd.json",
+>>>>>>>> feature-read-dicom:build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.cmake/api/v1/reply.prev/index-2024-09-12T21-30-41-0201.json
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 7
+			}
+		},
+		{
+			"jsonFile" : "cache-v2-0988defef1fee4ae7e02.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "cmakeFiles-v1-25bc4b0e606cbbaa9345.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"cache-v2" : 
+		{
+			"jsonFile" : "cache-v2-0988defef1fee4ae7e02.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		"cmakeFiles-v1" : 
+		{
+			"jsonFile" : "cmakeFiles-v1-25bc4b0e606cbbaa9345.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		},
+		"codemodel-v2" : 
+		{
+<<<<<<<< HEAD:build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.cmake/api/v1/reply/index-2024-09-14T15-33-01-0245.json
+			"jsonFile" : "codemodel-v2-c4ddbc920c3315990f64.json",
+========
+			"jsonFile" : "codemodel-v2-fe6d1b721eb5c8f2dffd.json",
+>>>>>>>> feature-read-dicom:build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/.cmake/api/v1/reply.prev/index-2024-09-12T21-30-41-0201.json
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 7
+			}
+		}
+	}
+}

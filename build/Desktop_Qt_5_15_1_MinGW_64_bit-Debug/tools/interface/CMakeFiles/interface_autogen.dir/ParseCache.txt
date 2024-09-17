@@ -370,6 +370,7 @@ C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include/ma
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtGui/qvalidator.h
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtGui/qwindowdefs.h
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtGui/qwindowdefs_win.h
+ mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QLabel
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QListWidgetItem
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QMainWindow
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/QTreeView
@@ -379,6 +380,7 @@ C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/tools/interface/include/ma
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qabstractslider.h
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qabstractspinbox.h
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qframe.h
+ mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qlabel.h
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qlistview.h
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qlistwidget.h
  mdp:C:/Qt/5.15.1/mingw81_64/include/QtWidgets/qmainwindow.h

@@ -2645,7 +2645,7 @@ build tools/interface/interface_autogen_timestamp_deps: phony target/bin/libdcmc
 #############################################
 # Utility command for interface_autogen
 
-build tools/interface/interface_autogen: phony tools/interface/CMakeFiles/interface_autogen tools/interface/interface_autogen/include/src/ui_mainwindow.h tools/interface/interface_autogen/timestamp tools/interface/interface_autogen/mocs_compilation.cpp tools/interface/interface_autogen_timestamp_deps
+build tools/interface/interface_autogen: phony tools/interface/CMakeFiles/interface_autogen tools/interface/interface_autogen/include/src/ui_mainwindow.h tools/interface/interface_autogen/include/src/ui_imageViewer.h tools/interface/interface_autogen/timestamp tools/interface/interface_autogen/mocs_compilation.cpp tools/interface/interface_autogen_timestamp_deps
 
 
 #############################################
@@ -2662,7 +2662,7 @@ build tools/interface/interface_autogen/timestamp tools/interface/interface_auto
 #############################################
 # Phony custom command for tools\interface\CMakeFiles\interface_autogen
 
-build tools/interface/CMakeFiles/interface_autogen tools/interface/interface_autogen/include/src/ui_mainwindow.h | ${cmake_ninja_workdir}tools/interface/CMakeFiles/interface_autogen ${cmake_ninja_workdir}tools/interface/interface_autogen/include/src/ui_mainwindow.h: phony tools/interface/interface_autogen/timestamp || source/dcmcore/dcmcore_autogen source/dcmcore/dcmcore_autogen_timestamp_deps source/dcmimage/dcmimage_autogen source/dcmimage/dcmimage_autogen_timestamp_deps target/bin/libdcmcore.dll target/bin/libdcmimage.dll tools/interface/interface_autogen_timestamp_deps
+build tools/interface/CMakeFiles/interface_autogen tools/interface/interface_autogen/include/src/ui_mainwindow.h tools/interface/interface_autogen/include/src/ui_imageViewer.h | ${cmake_ninja_workdir}tools/interface/CMakeFiles/interface_autogen ${cmake_ninja_workdir}tools/interface/interface_autogen/include/src/ui_mainwindow.h ${cmake_ninja_workdir}tools/interface/interface_autogen/include/src/ui_imageViewer.h: phony tools/interface/interface_autogen/timestamp || source/dcmcore/dcmcore_autogen source/dcmcore/dcmcore_autogen_timestamp_deps source/dcmimage/dcmimage_autogen source/dcmimage/dcmimage_autogen_timestamp_deps target/bin/libdcmcore.dll target/bin/libdcmimage.dll tools/interface/interface_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.

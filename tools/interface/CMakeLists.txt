@@ -31,5 +31,6 @@ target_sources(interface
   src/mainwindow.ui
   include/DicomTreeModel.h
   src/DicomTreeModel.cpp
+  src/imageViewer.ui
 
 )
