@@ -16,7 +16,8 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
     ,file(nullptr)
     ,dataset()
-    , m_treeModel(nullptr)
+    , m_treeModel(nullptr),
+    model(nullptr)
 {
     ui->setupUi(this);
     connect(ui->listWidget,SIGNAL(itemClicked(QListWidgetItem*)),this,SLOT(on_file_item_clicked(QListWidgetItem*)));
@@ -24,9 +25,12 @@ MainWindow::MainWindow(QWidget *parent)
     imageView=ui->imageViewer;
 }
 
+QString filename;
+
+
 void MainWindow::on_pushButton_clicked()
 {
-    QString filename = QFileDialog::getOpenFileName(this);
+    filename = QFileDialog::getOpenFileName(this);
     if (!filename.isEmpty()) {
         ui->listWidget->addItem(filename);
     }
@@ -49,6 +53,7 @@ void MainWindow::on_file_item_clicked(QListWidgetItem* item){
             delete m_treeModel;
         }
         m_treeModel = new DicomTreeModel(dataset, this);
+        connect(m_treeModel, &QAbstractItemModel::dataChanged, this, &MainWindow::onDataChanged);
         treeView->setModel(m_treeModel);
         DcmTag *tag = dataset.findTag(DcmTagKey::PixelData);
         if (tag) {
@@ -61,7 +66,6 @@ void MainWindow::on_file_item_clicked(QListWidgetItem* item){
 
         }
     }
-
 }
 void MainWindow::updateImageView() {
     DcmImage image(dataset);
@@ -71,20 +75,18 @@ void MainWindow::updateImageView() {
 
         DcmImageTransferFunction tf;
 
-        // Set up the window center and window width for the transfer function
         double windowCenter = monoImage.windowCenter();
         double windowWidth = monoImage.windowWidth();
         tf.addReferencePoint(windowCenter - windowWidth / 2, QColor(0, 0, 0));
         tf.addReferencePoint(windowCenter + windowWidth / 2, QColor(255, 255, 255));
 
-        // Convert DICOM image to QImage
         QImage qImage = monoImage.toQImage(tf);
 
-        // Set the QLabel to scale its contents to the size of the image
+
         imageView->setScaledContents(true);  // Make the QLabel resize to fit the image
 
         // Manually set the size of the image you want to experiment with (e.g., 800x600)
-        QSize manualSize(800, 600);  // Manually set the size of the image
+        QSize manualSize(1000, 500);  // Manually set the size of the image
         QImage scaledImage = qImage.scaled(manualSize, Qt::KeepAspectRatio, Qt::SmoothTransformation);
 
         // Set the scaled QImage as the pixmap of the QLabel
@@ -108,4 +110,64 @@ MainWindow::~MainWindow()
     delete ui;
     delete file;
 }
+
+void MainWindow::on_pushButton_2_clicked()
+{
+    //dataset.setTagValue("ImplementationClassUID", "2.16.840.5");
+    //dataset.setTagValue(DcmTagKey(0x0002, 0x0012), "2.16.840.10");
+    int pos = filename.lastIndexOf('/');
+    QString name = filename.mid(pos + 1);
+    // qDebug() << name<<"test";
+    // DcmFile file(filename);
+    // file.write(dataset);
+    this->file->write(dataset);
+}
+
+void MainWindow::onDataChanged(const QModelIndex &topLeft){
+    int topRow = topLeft.row();
+    int leftColumn = topLeft.column();
+    QModelIndex parent = topLeft.parent();
+    QModelIndex ci = model->index(topRow, leftColumn, parent);
+    QModelIndex index = model->index(topRow, 0, parent);
+    QVariant cx = index.data();
+    QVariant data = ci.data();
+    QString str = cx.toString();
+    str.remove('(').remove(')');
+    QStringList parts = str.split(", ");
+    parts[0] = "0x" + parts[0];
+    parts[1] = "0x" + parts[1];
+    bool ok;
+    dataset.setTagValue(DcmTagKey(parts[0].toInt(&ok, 16), parts[1].toInt(&ok, 16)), data.toString());
+    //qDebug() << parts[0] << parts[1];
+    // qDebug() << "topLeft row:" << topRow << "column:" << leftColumn;
+    // qDebug() << "ci row:" << ci.row() << "column:" << ci.column();
+    // qDebug() << "data:" << data;
+    // qDebug() << "index: " << cx;
+}
+
+void MainWindow::on_treeView_clicked(const QModelIndex &index)
+{
+
+    //const QAbstractItemModel *model = index.model();
+    // int row = index.row();
+    // int columnCount = model->columnCount();
+    // QStringList rowData;
+    // for (int col = 0; col < columnCount; ++col) {
+    //     QModelIndex currentIndex = model->index(row, col);
+    //     QVariant data = currentIndex.data();
+    //     rowData << data.toString();
+    // }
+    // QString rowDataString = rowData.join(", ");
+    // qDebug() << rowDataString;
+
+    this->model = index.model();
+    //QVariant text = index.data();
+    //QString txt = text.toString();
+    //qDebug() << txt;
+    // QModelIndex tagIndex = index.sibling(index.row(), 0);
+    // QString tag = tagIndex.data().toString();
+    // qDebug() << tag;
+}
+
+
 

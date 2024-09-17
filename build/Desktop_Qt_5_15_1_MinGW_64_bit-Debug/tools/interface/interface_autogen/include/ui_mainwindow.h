@@ -11,6 +11,7 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QGridLayout>
 #include <QtWidgets/QHBoxLayout>
 #include <QtWidgets/QHeaderView>
 #include <QtWidgets/QLabel>
@@ -37,8 +38,11 @@ public:
     QWidget *horizontalLayoutWidget;
     QHBoxLayout *horizontalLayout;
     QTreeView *treeView;
-    QLabel *imageViewer;
+    QPushButton *pushButton_2;
     QWidget *edit;
+    QWidget *gridLayoutWidget;
+    QGridLayout *gridLayout;
+    QLabel *imageViewer;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -46,12 +50,19 @@ public:
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName(QString::fromUtf8("MainWindow"));
-        MainWindow->resize(1276, 614);
+        MainWindow->resize(1286, 619);
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
+        QSizePolicy sizePolicy(QSizePolicy::Maximum, QSizePolicy::Maximum);
+        sizePolicy.setHorizontalStretch(0);
+        sizePolicy.setVerticalStretch(0);
+        sizePolicy.setHeightForWidth(centralwidget->sizePolicy().hasHeightForWidth());
+        centralwidget->setSizePolicy(sizePolicy);
         tabWidget = new QTabWidget(centralwidget);
         tabWidget->setObjectName(QString::fromUtf8("tabWidget"));
         tabWidget->setGeometry(QRect(-9, 1, 1271, 561));
+        sizePolicy.setHeightForWidth(tabWidget->sizePolicy().hasHeightForWidth());
+        tabWidget->setSizePolicy(sizePolicy);
         tabWidget->setCursor(QCursor(Qt::PointingHandCursor));
         load = new QWidget();
         load->setObjectName(QString::fromUtf8("load"));
@@ -76,19 +87,28 @@ public:
 
         horizontalLayout->addWidget(treeView);
 
-        imageViewer = new QLabel(horizontalLayoutWidget);
-        imageViewer->setObjectName(QString::fromUtf8("imageViewer"));
-
-        horizontalLayout->addWidget(imageViewer);
-
+        pushButton_2 = new QPushButton(read);
+        pushButton_2->setObjectName(QString::fromUtf8("pushButton_2"));
+        pushButton_2->setGeometry(QRect(50, 420, 80, 24));
         tabWidget->addTab(read, QString());
         edit = new QWidget();
         edit->setObjectName(QString::fromUtf8("edit"));
+        gridLayoutWidget = new QWidget(edit);
+        gridLayoutWidget->setObjectName(QString::fromUtf8("gridLayoutWidget"));
+        gridLayoutWidget->setGeometry(QRect(9, -1, 1261, 531));
+        gridLayout = new QGridLayout(gridLayoutWidget);
+        gridLayout->setObjectName(QString::fromUtf8("gridLayout"));
+        gridLayout->setContentsMargins(0, 0, 0, 0);
+        imageViewer = new QLabel(gridLayoutWidget);
+        imageViewer->setObjectName(QString::fromUtf8("imageViewer"));
+
+        gridLayout->addWidget(imageViewer, 0, 0, 1, 1);
+
         tabWidget->addTab(edit, QString());
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QString::fromUtf8("menubar"));
-        menubar->setGeometry(QRect(0, 0, 1276, 21));
+        menubar->setGeometry(QRect(0, 0, 1286, 21));
         MainWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(MainWindow);
         statusbar->setObjectName(QString::fromUtf8("statusbar"));
@@ -96,7 +116,7 @@ public:
 
         retranslateUi(MainWindow);
 
-        tabWidget->setCurrentIndex(1);
+        tabWidget->setCurrentIndex(2);
 
 
         QMetaObject::connectSlotsByName(MainWindow);
@@ -110,9 +130,10 @@ public:
 #endif // QT_CONFIG(tooltip)
         pushButton->setText(QCoreApplication::translate("MainWindow", "add Item", nullptr));
         tabWidget->setTabText(tabWidget->indexOf(load), QCoreApplication::translate("MainWindow", "Load File", nullptr));
-        imageViewer->setText(QCoreApplication::translate("MainWindow", "TextLabel", nullptr));
-        tabWidget->setTabText(tabWidget->indexOf(read), QCoreApplication::translate("MainWindow", "Read Tags", nullptr));
-        tabWidget->setTabText(tabWidget->indexOf(edit), QCoreApplication::translate("MainWindow", "Edit Tags", nullptr));
+        pushButton_2->setText(QCoreApplication::translate("MainWindow", "Save tags", nullptr));
+        tabWidget->setTabText(tabWidget->indexOf(read), QCoreApplication::translate("MainWindow", "tags", nullptr));
+        imageViewer->setText(QString());
+        tabWidget->setTabText(tabWidget->indexOf(edit), QCoreApplication::translate("MainWindow", "Image Preview", nullptr));
     } // retranslateUi
 
 };

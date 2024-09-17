@@ -6,14 +6,20 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1276</width>
-    <height>614</height>
+    <width>1286</width>
+    <height>619</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>DICOM_data_software</string>
   </property>
   <widget class="QWidget" name="centralwidget">
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
    <widget class="QTabWidget" name="tabWidget">
     <property name="geometry">
      <rect>
@@ -23,6 +29,12 @@
       <height>561</height>
      </rect>
     </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
     <property name="cursor">
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
@@ -30,7 +42,7 @@
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Load File&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="currentIndex">
-     <number>1</number>
+     <number>2</number>
     </property>
     <widget class="QWidget" name="load">
      <property name="cursor">
@@ -65,7 +77,7 @@
     </widget>
     <widget class="QWidget" name="read">
      <attribute name="title">
-      <string>Read Tags</string>
+      <string>tags</string>
      </attribute>
      <widget class="QWidget" name="horizontalLayoutWidget">
       <property name="geometry">
@@ -80,20 +92,45 @@
        <item>
         <widget class="QTreeView" name="treeView"/>
        </item>
-       <item>
+      </layout>
+     </widget>
+     <widget class="QPushButton" name="pushButton_2">
+      <property name="geometry">
+       <rect>
+        <x>50</x>
+        <y>420</y>
+        <width>80</width>
+        <height>24</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Save tags</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="edit">
+     <attribute name="title">
+      <string>Image Preview</string>
+     </attribute>
+     <widget class="QWidget" name="gridLayoutWidget">
+      <property name="geometry">
+       <rect>
+        <x>9</x>
+        <y>-1</y>
+        <width>1261</width>
+        <height>531</height>
+       </rect>
+      </property>
+      <layout class="QGridLayout" name="gridLayout">
+       <item row="0" column="0">
         <widget class="QLabel" name="imageViewer">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>
       </layout>
      </widget>
-    </widget>
-    <widget class="QWidget" name="edit">
-     <attribute name="title">
-      <string>Edit Tags</string>
-     </attribute>
     </widget>
    </widget>
   </widget>
@@ -102,7 +139,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1276</width>
+     <width>1286</width>
      <height>21</height>
     </rect>
    </property>
