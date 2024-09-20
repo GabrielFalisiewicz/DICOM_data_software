@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"tools/dcmview/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "dcmview_autogen_timestamp_deps::@85833e8e078b03d60ee6"
+		}
+	],
+	"id" : "dcmview_autogen::@85833e8e078b03d60ee6",
+	"isGeneratorProvided" : true,
+	"name" : "dcmview_autogen",
+	"paths" : 
+	{
+		"build" : "tools/dcmview",
+		"source" : "tools/dcmview"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Release/tools/dcmview/CMakeFiles/dcmview_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Release/tools/dcmview/CMakeFiles/dcmview_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_1_MinGW_64_bit-Release/tools/dcmview/dcmview_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

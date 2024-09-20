@@ -466,3 +466,9 @@
 46	194	7483034031844374	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
 195	2025	7483034033330174	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	7e122ec447b32e2b
 2025	2275	7483034051635363	target/bin/interface.exe	854355d14bf0a75a
+89	310	7485291817412275	tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+89	310	7485291817412275	tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+89	310	7485291817412275	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/timestamp	3e09804658ec88e6
+89	310	7485291817412275	C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Debug/tools/interface/interface_autogen/mocs_compilation.cpp	3e09804658ec88e6
+311	2871	7485291819621809	tools/interface/CMakeFiles/interface.dir/src/mainwindow.cpp.obj	7e122ec447b32e2b
+2871	3365	7485291845233099	target/bin/interface.exe	854355d14bf0a75a

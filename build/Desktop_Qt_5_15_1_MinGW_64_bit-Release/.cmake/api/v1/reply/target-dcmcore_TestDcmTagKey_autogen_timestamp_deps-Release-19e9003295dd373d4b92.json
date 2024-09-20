@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"source/dcmcore/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "dcmcore::@d23430d366c2f7065651"
+		}
+	],
+	"id" : "dcmcore_TestDcmTagKey_autogen_timestamp_deps::@d23430d366c2f7065651",
+	"isGeneratorProvided" : true,
+	"name" : "dcmcore_TestDcmTagKey_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "source/dcmcore",
+		"source" : "source/dcmcore"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

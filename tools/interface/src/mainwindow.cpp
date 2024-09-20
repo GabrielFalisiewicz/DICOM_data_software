@@ -115,8 +115,8 @@ void MainWindow::on_pushButton_2_clicked()
 {
     //dataset.setTagValue("ImplementationClassUID", "2.16.840.5");
     //dataset.setTagValue(DcmTagKey(0x0002, 0x0012), "2.16.840.10");
-    int pos = filename.lastIndexOf('/');
-    QString name = filename.mid(pos + 1);
+    // int pos = filename.lastIndexOf('/');
+    // QString name = filename.mid(pos + 1);
     // qDebug() << name<<"test";
     // DcmFile file(filename);
     // file.write(dataset);

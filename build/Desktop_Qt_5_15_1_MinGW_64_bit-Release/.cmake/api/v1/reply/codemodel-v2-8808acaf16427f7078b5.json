@@ -1,0 +1,712 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-addbaa45c8ef6bccdaec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "source",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-source-Release-be4710394502bfacce20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "source"
+				},
+				{
+					"build" : "source/dcmcore",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-source.dcmcore-Release-8cb268958b6c6199fae0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "source/dcmcore",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32
+					]
+				},
+				{
+					"build" : "source/dcmmod",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-source.dcmmod-Release-f6beee7c7a8f414e3dfe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "source/dcmmod",
+					"targetIndexes" : 
+					[
+						42,
+						43,
+						44,
+						45,
+						46,
+						47
+					]
+				},
+				{
+					"build" : "source/dcmimage",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-source.dcmimage-Release-8f5c9e4338e7c9ec382a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "source/dcmimage",
+					"targetIndexes" : 
+					[
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41
+					]
+				},
+				{
+					"build" : "tools",
+					"childIndexes" : 
+					[
+						6,
+						7
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-tools-Release-510b7838458e622ae347.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tools"
+				},
+				{
+					"build" : "tools/dcmview",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-tools.dcmview-Release-bfd25ca12bd253bdf375.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.10"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 4,
+					"source" : "tools/dcmview",
+					"targetIndexes" : 
+					[
+						48,
+						49,
+						50
+					]
+				},
+				{
+					"build" : "tools/interface",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-tools.interface-Release-ba6fe2e02d2b8188c4a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.10"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 5,
+					"source" : "tools/interface",
+					"targetIndexes" : 
+					[
+						51,
+						52,
+						53
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						5
+					],
+					"name" : "qdcm"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "dcmcore",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "dcmmod",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						42,
+						43,
+						44,
+						45,
+						46,
+						47
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "dcmimage",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "dcmview",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						48,
+						49,
+						50
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "interface",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						51,
+						52,
+						53
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore-Release-b6088743e9c3085d406b.json",
+					"name" : "dcmcore",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmCharSet::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmCharSet-Release-723f9b051e26b13ab31b.json",
+					"name" : "dcmcore_TestDcmCharSet",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmCharSet_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmCharSet_autogen-Release-016a0ac7f5573e7637b6.json",
+					"name" : "dcmcore_TestDcmCharSet_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmCharSet_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmCharSet_autogen_timestamp_deps-Release-1489031ef4487cc635ca.json",
+					"name" : "dcmcore_TestDcmCharSet_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmDictionary::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmDictionary-Release-e97c7262efc1e110ec74.json",
+					"name" : "dcmcore_TestDcmDictionary",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmDictionary_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmDictionary_autogen-Release-c1d33bb30dbcd4301e1b.json",
+					"name" : "dcmcore_TestDcmDictionary_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmDictionary_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmDictionary_autogen_timestamp_deps-Release-4693c517613c7da7ac04.json",
+					"name" : "dcmcore_TestDcmDictionary_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmReader::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmReader-Release-2238d92d4aa989b9e801.json",
+					"name" : "dcmcore_TestDcmReader",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmReader_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmReader_autogen-Release-1121e61dcd1ac7fe63cf.json",
+					"name" : "dcmcore_TestDcmReader_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmReader_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmReader_autogen_timestamp_deps-Release-04e5cf4518cbe5453d64.json",
+					"name" : "dcmcore_TestDcmReader_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagGroup::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagGroup-Release-1c65c9ce433da05e9f30.json",
+					"name" : "dcmcore_TestDcmTagGroup",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagGroup_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagGroup_autogen-Release-89d8d5210718ee60bb87.json",
+					"name" : "dcmcore_TestDcmTagGroup_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagGroup_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagGroup_autogen_timestamp_deps-Release-c5741e30b8f22b1d20ce.json",
+					"name" : "dcmcore_TestDcmTagGroup_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagKey::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagKey-Release-c0b45e51c03df2e878e0.json",
+					"name" : "dcmcore_TestDcmTagKey",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagKey_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagKey_autogen-Release-f3e3fc24b5168e37d745.json",
+					"name" : "dcmcore_TestDcmTagKey_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagKey_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagKey_autogen_timestamp_deps-Release-19e9003295dd373d4b92.json",
+					"name" : "dcmcore_TestDcmTagKey_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagSequence::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagSequence-Release-e2d4520663ef1adcf97d.json",
+					"name" : "dcmcore_TestDcmTagSequence",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagSequence_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagSequence_autogen-Release-5047cf8b8a199acfcc10.json",
+					"name" : "dcmcore_TestDcmTagSequence_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagSequence_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagSequence_autogen_timestamp_deps-Release-151a1686e73f7cc768dc.json",
+					"name" : "dcmcore_TestDcmTagSequence_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagString::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagString-Release-07f103d51d93122a0f31.json",
+					"name" : "dcmcore_TestDcmTagString",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagString_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagString_autogen-Release-cd75babb7a397a02f106.json",
+					"name" : "dcmcore_TestDcmTagString_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTagString_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTagString_autogen_timestamp_deps-Release-c33d006802c1bad255cc.json",
+					"name" : "dcmcore_TestDcmTagString_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTags::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTags-Release-207d6d7795dab9a92db9.json",
+					"name" : "dcmcore_TestDcmTags",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTags_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTags_autogen-Release-aba3901d3fa554970bb2.json",
+					"name" : "dcmcore_TestDcmTags_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTags_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTags_autogen_timestamp_deps-Release-535b4fe9027aebc17cc5.json",
+					"name" : "dcmcore_TestDcmTags_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTransferSyntax::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTransferSyntax-Release-6023ad028f2c5f531b1c.json",
+					"name" : "dcmcore_TestDcmTransferSyntax",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTransferSyntax_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTransferSyntax_autogen-Release-ee7e4bac3c12a8bf54af.json",
+					"name" : "dcmcore_TestDcmTransferSyntax_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmTransferSyntax_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmTransferSyntax_autogen_timestamp_deps-Release-ec119951a5efedcd2dcc.json",
+					"name" : "dcmcore_TestDcmTransferSyntax_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmVr::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmVr-Release-5a59cd4bbcc74ad9010b.json",
+					"name" : "dcmcore_TestDcmVr",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmVr_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmVr_autogen-Release-fd6d07e9731a790ff050.json",
+					"name" : "dcmcore_TestDcmVr_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_TestDcmVr_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_TestDcmVr_autogen_timestamp_deps-Release-2f6fc5738fc157169750.json",
+					"name" : "dcmcore_TestDcmVr_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_autogen::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_autogen-Release-719c6b72193cb14dc3af.json",
+					"name" : "dcmcore_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dcmcore_autogen_timestamp_deps::@d23430d366c2f7065651",
+					"jsonFile" : "target-dcmcore_autogen_timestamp_deps-Release-6a3523776c029280bfd4.json",
+					"name" : "dcmcore_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dcmimage::@88923895543bdb4ae546",
+					"jsonFile" : "target-dcmimage-Release-18c1a9e3c3c18b554f7f.json",
+					"name" : "dcmimage",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dcmimage_TestDcmImage::@88923895543bdb4ae546",
+					"jsonFile" : "target-dcmimage_TestDcmImage-Release-12655c10776be63794ec.json",
+					"name" : "dcmimage_TestDcmImage",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dcmimage_TestDcmImageTransferFunction::@88923895543bdb4ae546",
+					"jsonFile" : "target-dcmimage_TestDcmImageTransferFunction-Release-526d44b41b28c9c0c73f.json",
+					"name" : "dcmimage_TestDcmImageTransferFunction",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dcmimage_TestDcmImageTransferFunction_autogen::@88923895543bdb4ae546",
+					"jsonFile" : "target-dcmimage_TestDcmImageTransferFunction_autogen-Release-4ad13127c20918a756bf.json",
+					"name" : "dcmimage_TestDcmImageTransferFunction_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dcmimage_TestDcmImageTransferFunction_autogen_timestamp_deps::@88923895543bdb4ae546",
+					"jsonFile" : "target-dcmimage_TestDcmImageTransferFunction_autogen_timestamp_deps-Release-6a7b259a5dae82fbe999.json",
+					"name" : "dcmimage_TestDcmImageTransferFunction_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dcmimage_TestDcmImage_autogen::@88923895543bdb4ae546",
+					"jsonFile" : "target-dcmimage_TestDcmImage_autogen-Release-f84e5e5c9eb8dc973bde.json",
+					"name" : "dcmimage_TestDcmImage_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dcmimage_TestDcmImage_autogen_timestamp_deps::@88923895543bdb4ae546",
+					"jsonFile" : "target-dcmimage_TestDcmImage_autogen_timestamp_deps-Release-f5caadd9af9692e57db3.json",
+					"name" : "dcmimage_TestDcmImage_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dcmimage_autogen::@88923895543bdb4ae546",
+					"jsonFile" : "target-dcmimage_autogen-Release-3403feaf2ea804daea4c.json",
+					"name" : "dcmimage_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dcmimage_autogen_timestamp_deps::@88923895543bdb4ae546",
+					"jsonFile" : "target-dcmimage_autogen_timestamp_deps-Release-a6e5bc5c5f2fd8815c57.json",
+					"name" : "dcmimage_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "dcmmod::@15a8a75448c2008787ab",
+					"jsonFile" : "target-dcmmod-Release-d2bb34824133114df9fc.json",
+					"name" : "dcmmod",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "dcmmod_TestDcmModules::@15a8a75448c2008787ab",
+					"jsonFile" : "target-dcmmod_TestDcmModules-Release-a26d9172823ecf8aabbe.json",
+					"name" : "dcmmod_TestDcmModules",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "dcmmod_TestDcmModules_autogen::@15a8a75448c2008787ab",
+					"jsonFile" : "target-dcmmod_TestDcmModules_autogen-Release-8e474755f12a6d213ff8.json",
+					"name" : "dcmmod_TestDcmModules_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "dcmmod_TestDcmModules_autogen_timestamp_deps::@15a8a75448c2008787ab",
+					"jsonFile" : "target-dcmmod_TestDcmModules_autogen_timestamp_deps-Release-302d6e47b20ffe840732.json",
+					"name" : "dcmmod_TestDcmModules_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "dcmmod_autogen::@15a8a75448c2008787ab",
+					"jsonFile" : "target-dcmmod_autogen-Release-593d05fbf46f42e62748.json",
+					"name" : "dcmmod_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "dcmmod_autogen_timestamp_deps::@15a8a75448c2008787ab",
+					"jsonFile" : "target-dcmmod_autogen_timestamp_deps-Release-2f00bb4a86fbe9ffac6a.json",
+					"name" : "dcmmod_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "dcmview::@85833e8e078b03d60ee6",
+					"jsonFile" : "target-dcmview-Release-24cc881961206591bde4.json",
+					"name" : "dcmview",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "dcmview_autogen::@85833e8e078b03d60ee6",
+					"jsonFile" : "target-dcmview_autogen-Release-42ad2fdc1fb8374850f1.json",
+					"name" : "dcmview_autogen",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "dcmview_autogen_timestamp_deps::@85833e8e078b03d60ee6",
+					"jsonFile" : "target-dcmview_autogen_timestamp_deps-Release-8328d62681153699b032.json",
+					"name" : "dcmview_autogen_timestamp_deps",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "interface::@8f9d4482f2952146f9c5",
+					"jsonFile" : "target-interface-Release-ec4719f676f40dd57833.json",
+					"name" : "interface",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "interface_autogen::@8f9d4482f2952146f9c5",
+					"jsonFile" : "target-interface_autogen-Release-0a7efd53f1cd28cb6b47.json",
+					"name" : "interface_autogen",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "interface_autogen_timestamp_deps::@8f9d4482f2952146f9c5",
+					"jsonFile" : "target-interface_autogen_timestamp_deps-Release-cc212d66c0e5fe682b96.json",
+					"name" : "interface_autogen_timestamp_deps",
+					"projectIndex" : 5
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM/build/Desktop_Qt_5_15_1_MinGW_64_bit-Release",
+		"source" : "C:/Users/piotr/OneDrive/Dokumenty/qt porojects/DAICOM"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
