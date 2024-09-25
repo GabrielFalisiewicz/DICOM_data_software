@@ -204,3 +204,4 @@ void MainWindow::setActiveSubWindow(QWidget *widget)
         m_mdiArea->setActiveSubWindow(qobject_cast<QMdiSubWindow*>(widget));
     }
 }
+

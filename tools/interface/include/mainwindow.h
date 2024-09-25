@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QFileSystemModel>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -16,8 +17,13 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+    void onChooseFileButtonClicked();
 
 private:
     Ui::MainWindow *ui;
+
+
 };
+
+
 #endif // MAINWINDOW_H
