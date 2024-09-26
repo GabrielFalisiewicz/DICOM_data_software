@@ -18,14 +18,28 @@ MainWindow::MainWindow(QWidget *parent)
     ,dataset()
     , m_treeModel(nullptr),
     model(nullptr)
+
 {
     ui->setupUi(this);
-    connect(ui->listWidget,SIGNAL(itemClicked(QListWidgetItem*)),this,SLOT(on_file_item_clicked(QListWidgetItem*)));
-    treeView=ui->treeView;
-    imageView=ui->imageViewer;
+
+    QString style = "background-color: qlineargradient("
+                    "spread:pad, "
+                    "x1:0.124577, y1:0.267, "
+                    "x2:0.115385, y2:0.96, "
+                    "stop:0 rgba(110, 110, 110, 255), "
+                    "stop:1 rgba(255, 255, 255, 255)"
+                    ");";
+
+    ui->tabWidget->setStyleSheet(style);
+
+    // ui->setupUi(this);
+    // connect(ui->listWidget,SIGNAL(itemClicked(QListWidgetItem*)),this,SLOT(on_file_item_clicked(QListWidgetItem*)));
+    // treeView=ui->treeView;
+    // imageView=ui->imageViewer;
 }
 
 QString filename;
+
 
 
 void MainWindow::on_pushButton_clicked()
@@ -35,6 +49,8 @@ void MainWindow::on_pushButton_clicked()
         ui->listWidget->addItem(filename);
     }
 }
+
+
 void MainWindow::on_file_item_clicked(QListWidgetItem* item){
 
     QString text= item->text();
