@@ -1,0 +1,26 @@
+dcmmod_autogen/timestamp: \
+	C:/Qta/5.15.1/mingw81_32/lib/cmake/Qt5Core/Qt5CoreConfig.cmake \
+	C:/Qta/5.15.1/mingw81_32/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake \
+	C:/Qta/5.15.1/mingw81_32/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake \
+	C:/Qta/5.15.1/mingw81_32/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake \
+	C:/Qta/5.15.1/mingw81_32/lib/cmake/Qt5Core/Qt5CoreMacros.cmake \
+	C:/Qta/5.15.1/mingw81_32/lib/cmake/Qt5Test/Qt5TestConfig.cmake \
+	C:/Qta/5.15.1/mingw81_32/lib/cmake/Qt5Test/Qt5TestConfigExtras.cmake \
+	C:/Qta/5.15.1/mingw81_32/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake \
+	C:/Qta/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/build/Desktop_Qt_5_15_1_MinGW_32_bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/cmake/build_shared_library.cmake \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/cmake/link_libs.cmake \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/cmake/parse_src.cmake \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/cmake/parse_tests.cmake \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/source/dcmmod/CMakeLists.txt \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/source/dcmmod/include/DcmModuleApi.h \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/source/dcmmod/include/DcmModuleGeneralEquipmentAttributes.h \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/source/dcmmod/include/DcmModulePatient.h \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/source/dcmmod/include/DcmModuleSOPCommon.h \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/source/dcmmod/include/DcmModuleStudy.h \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/source/dcmmod/src/DcmModuleGeneralEquipmentAttributes.cpp \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/source/dcmmod/src/DcmModulePatient.cpp \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/source/dcmmod/src/DcmModuleSOPCommon.cpp \
+	C:/Users/lotop/OneDrive/Pulpit/Praktyki/DICOM_data_software/source/dcmmod/src/DcmModuleStudy.cpp \
+	C:/Qta/Tools/CMake_64/bin/cmake.exe
