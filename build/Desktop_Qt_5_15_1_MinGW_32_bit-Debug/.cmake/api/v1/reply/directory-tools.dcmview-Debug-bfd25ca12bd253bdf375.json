@@ -1,0 +1,57 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"include"
+		],
+		"files" : 
+		[
+			"cmake/build_executable.cmake",
+			"tools/dcmview/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "runtime",
+			"destination" : "C:/Program Files (x86)/qdcm/bin",
+			"paths" : 
+			[
+				"target/bin/dcmview.exe"
+			],
+			"targetId" : "dcmview::@85833e8e078b03d60ee6",
+			"targetIndex" : 48,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "tools/dcmview",
+		"source" : "tools/dcmview"
+	}
+}
